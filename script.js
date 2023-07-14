@@ -9621,7 +9621,7 @@ function newVoc() {
 
 
     hideInfo();
-    var random = getRandomInt(250)
+    var random = getRandomInt(300)
 
     var voc = words[random];
     setCardWord(voc.word);
