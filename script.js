@@ -563,7 +563,7 @@ var words = [
   {
     "word": "confound",
     "pronunciation": "",
-    "bangla": "বিভ্রান্ত করা",
+    "bangla": "বিভ্রান্ত করা; হতবুদ্ধি করা;",
     "similar word": "",
     "definition": "be confusing or perplexing to.",
     "part of speech": "verb",
@@ -572,7 +572,7 @@ var words = [
   {
     "word": "confound",
     "pronunciation": "",
-    "bangla": "হতবুদ্ধি করা",
+    "bangla": "হতবুদ্ধি করা; বিভ্রান্ত করা",
     "similar word": "",
     "definition": "mistake one thing for another.",
     "part of speech": "verb",
@@ -617,7 +617,7 @@ var words = [
   {
     "word": "contingent",
     "pronunciation": "",
-    "bangla": "গোষ্ঠী",
+    "bangla": "অনিশ্চিত; গোষ্ঠী",
     "similar word": "",
     "definition": "a gathering of persons representative of some larger group.",
     "part of speech": "noun",
@@ -626,7 +626,7 @@ var words = [
   {
     "word": "contingent",
     "pronunciation": "",
-    "bangla": "অনিশ্চিত",
+    "bangla": "অনিশ্চিত; গোষ্ঠী",
     "similar word": "",
     "definition": "possible but not certain to occur.",
     "part of speech": "adjective",
@@ -1166,7 +1166,7 @@ var words = [
   {
     "word": "forthcoming",
     "pronunciation": "",
-    "bangla": "প্রয়োজনে ব্যবহারোপযোগী",
+    "bangla": "প্রয়োজনে ব্যবহারোপযোগী; আসন্ন",
     "similar word": "",
     "definition": "available when required or as promised.",
     "part of speech": "adjective",
@@ -1175,7 +1175,7 @@ var words = [
   {
     "word": "forthcoming",
     "pronunciation": "",
-    "bangla": "আসন্ন",
+    "bangla": "প্রয়োজনে ব্যবহারোপযোগী; আসন্ন",
     "similar word": "",
     "definition": "at ease in talking to others.",
     "part of speech": "adjective",
@@ -1238,7 +1238,7 @@ var words = [
   {
     "word": "gall",
     "pronunciation": "গোল",
-    "bangla": "বিরক্তির কারণ",
+    "bangla": "বিরক্তির কারণ; বিদ্বেষ",
     "similar word": "",
     "definition": "the trait of being rude and impertinent.",
     "part of speech": "noun",
@@ -1247,7 +1247,7 @@ var words = [
   {
     "word": "gall",
     "pronunciation": "গোল",
-    "bangla": "বিদ্বেষ",
+    "bangla": "বিরক্তির কারণ; বিদ্বেষ",
     "similar word": "",
     "definition": "feeling of deep and bitter anger and ill-will.",
     "part of speech": "noun",
@@ -1292,7 +1292,7 @@ var words = [
   {
     "word": "glut",
     "pronunciation": "",
-    "bangla": "অতিরিক্ত সরবরাহ",
+    "bangla": "অতিরিক্ত সরবরাহ; সন্তুষ্ট করা",
     "similar word": "",
     "definition": "an excessive supply.",
     "part of speech": "noun",
@@ -1301,7 +1301,7 @@ var words = [
   {
     "word": "glut",
     "pronunciation": "",
-    "bangla": "সন্তুষ্ট করা",
+    "bangla": "অতিরিক্ত সরবরাহ; সন্তুষ্ট করা",
     "similar word": "",
     "definition": "satisfy",
     "part of speech": "verb",
@@ -2237,7 +2237,7 @@ var words = [
   {
     "word": "profligate",
     "pronunciation": "",
-    "bangla": "অপব্যয়ী",
+    "bangla": "অপব্যয়ী; লম্পট",
     "similar word": "",
     "definition": "spending money recklessly or wastefully.",
     "part of speech": "adjective",
@@ -2246,7 +2246,7 @@ var words = [
   {
     "word": "profligate",
     "pronunciation": "",
-    "bangla": "লম্পট",
+    "bangla": "অপব্যয়ী; লম্পট",
     "similar word": "",
     "definition": "a licentious, dissolute person.",
     "part of speech": "noun",
@@ -2255,7 +2255,7 @@ var words = [
   {
     "word": "prolific",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "উর্বর; উদ্ভাবর্নী শক্তিসম্পন্ন",
     "similar word": "",
     "definition": "intellectually productive.",
     "part of speech": "adjective",
@@ -2264,7 +2264,7 @@ var words = [
   {
     "word": "propitious",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "প্রসন্ন শুভলক্ষপূর্ণ",
     "similar word": "",
     "definition": "presenting favorable circumstances; likely to result in or show signs of success The child's heartbeat is still weak, but I am seeing many propitious signs and I think that she may be healing.",
     "part of speech": "adjective",
@@ -2273,7 +2273,7 @@ var words = [
   {
     "word": "provincial",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "দৈশিক; সঙ্কীর্ণতাপূর্ণ; অমার্জিত",
     "similar word": "",
     "definition": "characteristic of the a limited perspective; not fashionable or sophisticated Maggie's enthusiasm about her high school teams seemed provincial to her college classmates, all of whom were following a nationally ranked college team.",
     "part of speech": "adjective",
@@ -2282,7 +2282,7 @@ var words = [
   {
     "word": "pundit",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "পণ্ডিত",
     "similar word": "",
     "definition": "someone who has been admitted to membership in a scholarly field.",
     "part of speech": "noun",
@@ -2291,7 +2291,7 @@ var words = [
   {
     "word": "qualify",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "সীমাবদ্ধ করা; নিয়ন্ত্রিত করা; প্রশমিত করা; যোগ্য করা/হওয়া",
     "similar word": "",
     "definition": "to be legally competent or capable.",
     "part of speech": "adjective",
@@ -2300,7 +2300,7 @@ var words = [
   {
     "word": "qualify",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "সীমাবদ্ধ করা; নিয়ন্ত্রিত করা; প্রশমিত করা; যোগ্য করা/হওয়া",
     "similar word": "",
     "definition": "to make less severe; to limit (a statement).",
     "part of speech": "verb",
@@ -2309,7 +2309,7 @@ var words = [
   {
     "word": "querulous",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "ঝগড়াটে; অনুযোগকারী",
     "similar word": "",
     "definition": "habitually complaining.",
     "part of speech": "adjective",
@@ -2318,7 +2318,7 @@ var words = [
   {
     "word": "quotidian",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "দৈনিক",
     "similar word": "",
     "definition": "found in the ordinary course of events.",
     "part of speech": "adjective",
@@ -2327,7 +2327,7 @@ var words = [
   {
     "word": "ravenous",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "অত্যন্ত ক্ষুধার্ত;",
     "similar word": "",
     "definition": "extremely hungry; devouring or craving food in great quantities.",
     "part of speech": "adjective",
@@ -2336,7 +2336,7 @@ var words = [
   {
     "word": "rebuke",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "তীব্র তিরস্কার;",
     "similar word": "",
     "definition": "criticize severely or angrily; censure.",
     "part of speech": "verb",
@@ -2344,8 +2344,8 @@ var words = [
   },
   {
     "word": "reconcile",
-    "pronunciation": "",
-    "bangla": "",
+    "pronunciation": "রে কনসাইল",
+    "bangla": "পুনর্মিলন;মিটমাট করা; সামঞ্জস্যবিধান করা",
     "similar word": "",
     "definition": "make (one thing) compatible with (another).",
     "part of speech": "verb",
@@ -2354,7 +2354,7 @@ var words = [
   {
     "word": "recondite",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "দুর্বোধ্য; রহস্যময়",
     "similar word": "",
     "definition": "difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge.",
     "part of speech": "adjective",
@@ -2363,7 +2363,7 @@ var words = [
   {
     "word": "refractory",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "অবাধ্য; একগুঁয়ে",
     "similar word": "",
     "definition": "stubbornly resistant to authority or control.",
     "part of speech": "adjective",
@@ -2372,7 +2372,7 @@ var words = [
   {
     "word": "refute",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "খণ্ডন করা; মিথ্যা বা ভুল প্রমাণ করা",
     "similar word": "",
     "definition": "prove to be false or incorrect.",
     "part of speech": "verb",
@@ -2380,8 +2380,8 @@ var words = [
   },
   {
     "word": "reproach",
-    "pronunciation": "",
-    "bangla": "",
+    "pronunciation": "রিপ্রোচ",
+    "bangla": "ভর্ত্সনা করা",
     "similar word": "",
     "definition": "to express criticism towards.",
     "part of speech": "verb",
@@ -2390,7 +2390,7 @@ var words = [
   {
     "word": "repudiate",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "আইনসংগত নয় বলে প্রত্যাখ্যান করা",
     "similar word": "",
     "definition": "reject as untrue or unfounded.",
     "part of speech": "verb",
@@ -2399,7 +2399,7 @@ var words = [
   {
     "word": "rescind",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "প্রত্যাহার করুন",
     "similar word": "",
     "definition": "cancel officially.",
     "part of speech": "verb",
@@ -2408,7 +2408,7 @@ var words = [
   {
     "word": "restive",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "অস্থির",
     "similar word": "",
     "definition": "restless.",
     "part of speech": "adjective",
@@ -2417,7 +2417,7 @@ var words = [
   {
     "word": "resurgent",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "আবার সক্রিয় হয়ে উঠছে এমন; পুনরুত্থান",
     "similar word": "",
     "definition": "rising again as to new life and vigor.",
     "part of speech": "adjective",
@@ -2426,7 +2426,7 @@ var words = [
   {
     "word": "reticent",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "স্বল্পভাষী",
     "similar word": "",
     "definition": "reluctant to draw attention to yourself; temperamentally disinclined to talk When asked about her father, Helen lost her outward enthusiasm and became rather reticent.",
     "part of speech": "adjective",
@@ -2435,7 +2435,7 @@ var words = [
   {
     "word": "reverent",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "শ্রদ্ধা",
     "similar word": "",
     "definition": "feeling or showing profound respect or veneration.",
     "part of speech": "adjective",
@@ -2444,7 +2444,7 @@ var words = [
   {
     "word": "rudimentary",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "প্রাথমিক; অপরিণত; লুপ্তপ্রায়",
     "similar word": "",
     "definition": "being in the earliest stages of development; being or involving basic facts or principles.",
     "part of speech": "adjective",
@@ -2453,7 +2453,7 @@ var words = [
   {
     "word": "rustic",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "গ্রামীণ",
     "similar word": "",
     "definition": "characteristic of rural life; awkwardly simple and provincial.",
     "part of speech": "adjective",
@@ -2462,7 +2462,7 @@ var words = [
   {
     "word": "sanction",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "অনুমোদন; শাস্তি",
     "similar word": "",
     "definition": "give authority or permission to.",
     "part of speech": "verb",
@@ -2471,7 +2471,7 @@ var words = [
   {
     "word": "sanction",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "অনুমোদন; শাস্তি",
     "similar word": "",
     "definition": "a legal penalty for a forbidden action.",
     "part of speech": "noun",
@@ -2480,7 +2480,7 @@ var words = [
   {
     "word": "scrupulous",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "খুঁতখুঁতে; যথাযথ; সতর্ক; বিবেকী",
     "similar word": "",
     "definition": "characterized by extreme care and great effort.",
     "part of speech": "adjective",
@@ -2489,7 +2489,7 @@ var words = [
   {
     "word": "scrupulous",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "খুঁতখুঁতে; যথাযথ; সতর্ক; বিবেকী",
     "similar word": "",
     "definition": "having a sense of right and wrong; principled.",
     "part of speech": "adjective",
@@ -2498,7 +2498,7 @@ var words = [
   {
     "word": "soporific",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "নিদ্রা-উদ্রেককর",
     "similar word": "",
     "definition": "inducing mental lethargy; sleep inducing.",
     "part of speech": "adjective",
@@ -2507,8 +2507,8 @@ var words = [
   {
     "word": "specious",
     "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
+    "bangla": "সত্য মনে হলেও আসলে মিথ্যা",
+    "similar word": "spurious",
     "definition": "based on pretense; deceptively pleasing Almost every image on TV is specious and not to be trusted.",
     "part of speech": "adjective",
     "example": ""
@@ -2516,8 +2516,8 @@ var words = [
   {
     "word": "specious",
     "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
+    "bangla": "সত্য মনে হলেও আসলে মিথ্যা",
+    "similar word": "spurious",
     "definition": "plausible but false.",
     "part of speech": "adjective",
     "example": "He made a career out of specious arguments and fictional lab results, but lost his job and reputation when his lies were exposed by an article in The New York Times."
@@ -2525,7 +2525,7 @@ var words = [
   {
     "word": "sporadic",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "বিক্ষিপ্ত",
     "similar word": "",
     "definition": "recurring in scattered and irregular or unpredictable instances.",
     "part of speech": "adjective",
@@ -2534,8 +2534,8 @@ var words = [
   {
     "word": "spurious",
     "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
+    "bangla": "সত্য মনে হলেও আসলে মিথ্যা",
+    "similar word": "specious",
     "definition": "plausible but false.",
     "part of speech": "adjective",
     "example": "When listening to a politician speak, it is hard to distinguish the spurious claims from the authentic ones."
@@ -2543,7 +2543,7 @@ var words = [
   {
     "word": "staunch",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "অনুগত্যতার সাথে দৃঢ় ও নির্ভরশীল",
     "similar word": "",
     "definition": "firm and dependable especially in loyalty.",
     "part of speech": "adjective",
@@ -2552,7 +2552,7 @@ var words = [
   {
     "word": "stringent",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "কঠোর",
     "similar word": "",
     "definition": "demanding strict attention to rules and procedures.",
     "part of speech": "adjective",
@@ -2561,7 +2561,7 @@ var words = [
   {
     "word": "subsume",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "অন্তর্ভূত করা",
     "similar word": "",
     "definition": "contain or include.",
     "part of speech": "verb",
@@ -2570,7 +2570,7 @@ var words = [
   {
     "word": "subsume",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "অন্তর্ভূত করা",
     "similar word": "",
     "definition": "consider (an instance of something) as part of a general rule or principle.",
     "part of speech": "verb",
@@ -2579,7 +2579,7 @@ var words = [
   {
     "word": "subversive",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "বিধ্বংসী; পরাভূত করিতে বা ধ্বংস করিতে সচেষ্ট",
     "similar word": "",
     "definition": "in opposition to a civil authority or government.",
     "part of speech": "adjective",
@@ -2588,7 +2588,7 @@ var words = [
   {
     "word": "sullen",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "ক্ষতিসাধক; গোমড়া-মুখো",
     "similar word": "",
     "definition": "showing a brooding ill humor.",
     "part of speech": "adjective",
@@ -2597,7 +2597,7 @@ var words = [
   {
     "word": "superfluous",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "কাজের না;অতিরিক্; যথেষ্ট বা পর্যাপ্ত পরিমাণেও বেশি",
     "similar word": "",
     "definition": "serving no useful purpose.",
     "part of speech": "adjective",
@@ -2606,7 +2606,7 @@ var words = [
   {
     "word": "superfluous",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "কাজের না;অতিরিক্; যথেষ্ট বা পর্যাপ্ত পরিমাণেও বেশি",
     "similar word": "",
     "definition": "more than is needed, desired, or required Everything in this closet is superfluous and can be given to charity.",
     "part of speech": "adjective",
@@ -2615,7 +2615,7 @@ var words = [
   {
     "word": "supplant",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "স্থানচু্যত করা; প্রতিস্থাপন করা",
     "similar word": "",
     "definition": "take the place or move into the position of.",
     "part of speech": "verb",
@@ -2624,7 +2624,7 @@ var words = [
   {
     "word": "sycophant",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "চাটুকার;",
     "similar word": "",
     "definition": "a person who tries to please someone in order to gain a personal advantage The CEO was unaware of the damaging consequences of his choices, largely because he surrounded himself with sycophants who would never dare criticize him.",
     "part of speech": "noun",
@@ -2633,7 +2633,7 @@ var words = [
   {
     "word": "taciturn",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "অল্পভাষী",
     "similar word": "",
     "definition": "habitually reserved and uncommunicative.",
     "part of speech": "adjective",
@@ -2642,7 +2642,7 @@ var words = [
   {
     "word": "tantamount",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "সমপরিমাণ",
     "similar word": "",
     "definition": "being essentially equal to something.",
     "part of speech": "adjective",
@@ -2651,7 +2651,7 @@ var words = [
   {
     "word": "temperance",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "মিতাচার",
     "similar word": "",
     "definition": "the trait of avoiding excesses.",
     "part of speech": "noun",
@@ -2660,7 +2660,7 @@ var words = [
   {
     "word": "tempered",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "নির্দিষ্ট মনোভাব বা মেজাজসম্পন্ন",
     "similar word": "",
     "definition": "moderated in effect.",
     "part of speech": "adjective",
@@ -2669,7 +2669,7 @@ var words = [
   {
     "word": "tenacious",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "অনমনীয়; নাছোড়বান্দা",
     "similar word": "",
     "definition": "stubbornly unyielding.",
     "part of speech": "adjective",
@@ -2678,7 +2678,7 @@ var words = [
   {
     "word": "timorous",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "ভীরু",
     "similar word": "",
     "definition": "timid by nature or revealing fear and nervousness.",
     "part of speech": "adjective",
@@ -2687,7 +2687,7 @@ var words = [
   {
     "word": "torpor",
     "pronunciation": "",
-    "bangla": "",
+    "bangla": "অস্পষ্টতা;নিষ্ক্রিয়তা",
     "similar word": "",
     "definition": "inactivity resulting from lethargy and lack of vigor or energy.",
     "part of speech": "noun",
