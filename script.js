@@ -9598,52 +9598,101 @@ var words = [
   }
 ]
 
-function setCardWord(w) { $("#cardWord").text(w) }
 
-function setMeaning(m) { $("#meaning").text(m) }
+function Card(n, from, to){
 
-function setBangla(m) { $("#bangla").text(m) }
+  var html= 
+  '<h4 style="margin-top:50px">From:'+from+' To:'+to+'</h4>'+
+  '<div class="card">'+
+      '<div class="card-header">'+
+        '<h2 id="cardWord-'+n+'"></h2>'+
+      '</div>'+
+      '<div class="card-body">'+
+        '<div id="info-'+n+'" style="display: none;">'+
+          '<h5 class="card-title text-success" id="pron-'+n+'"></h5>'+
+          '<h5 class="card-title text-success" id="bangla-'+n+'"></h5>'+
+          '<h5 class="card-title text-success" id="meaning-'+n+'"></h5>'+
 
-function setPronunciation(m) { $("#pron").text(m) }
+          '<h6 class="text-primary" id="example-'+n+'"></h6>'+
+        '</div>'+
 
-function setExample(e) { $("#example").text(e) }
+        '<div class="flex" style="margin-top:20px;">'+
+          '<span id="show-'+n+'" class="btn btn-primary" style="margin-right: 10px;">Show</span>'+
+          '<span id="next-'+n+'" class="btn btn-primary">Next</span>'+
+        '</div>'+
+     ' </div>'+
+    '</div>';
 
-function hideInfo(){
-    $("#info").hide();
-}
 
-function getRandomInt(max) {
-    return Math.floor(Math.random() * max);
-}
+
+  $(".container").append(html);
+
+  var wordSet = words.slice(from,to+1)
+
+  console.log(wordSet)
+
+  var T = this;
+
+  function setCardWord(w) { $("#cardWord-"+n).text(w) }
+
+  function setMeaning(m) { $("#meaning-"+n).text(m) }
   
-
-function newVoc() {
-
-
-    hideInfo();
-    var random = getRandomInt(300)
-
-    var voc = words[random];
-    setCardWord(voc.word);
-    setBangla(voc.bangla);
-    setPronunciation(voc.pronunciation);
-    setMeaning(voc.definition);
-    setExample(voc.example);
-}
-
-newVoc();
-
-function show(){
-
-    $("#info").slideDown();
-}
-
-$("#show").unbind("click").click(function(e){
+  function setBangla(m) { $("#bangla-"+n).text(m) }
+  
+  function setPronunciation(m) { $("#pron-"+n).text(m) }
+  
+  function setExample(e) { $("#example-"+n).text(e) }
+  
+  function hideInfo(){
+      $("#info-"+n).hide();
+  }
+  
+  function getRandomInt(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+  
+  function newVoc() {
+  
+    
+      hideInfo();
+      var random = getRandomInt(0, to-from)
+      
+      var voc = wordSet[random];
+      
+      setCardWord(voc.word);
+      setBangla(voc.bangla);
+      setPronunciation(voc.pronunciation);
+      setMeaning(voc.definition);
+      setExample(voc.example);
+  }
+  
+  newVoc();
+  
+  function show(){
+  
+      $("#info-"+n).slideDown();
+  }
+  
+  $("#show-"+n).unbind("click").click(function(e){
     show();
-});
-
-
-$("#next").unbind("click").click(function(e){
+  });
+  
+  
+  $("#next-"+n).unbind("click").click(function(e){
     newVoc();
-});
+    console.log('Hi')
+  });
+  
+  console.log('Hi')
+
+}
+
+new Card(1, 0, 50);
+new Card(2, 51, 100);
+new Card(3, 101, 150);
+new Card(4, 150, 200);
+new Card(5, 201, 250);
+new Card(6, 251, 300);
 
