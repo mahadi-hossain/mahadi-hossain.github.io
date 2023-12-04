@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Calculator</title>
+    <!-- Include jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+</head>
+<body>
+
+	<div id="gre-cal" style="width:204px;padding:10px 10px 10px 10px;background:#b7b6b6;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius:5px">
+		<div>
+		<span style="float:right; border:1px solid gray; height:15px;width:15px; height: 19px; width: 17px; text-align: center; ">⨯</span>
+		</div>
+		<div>
+		    <input type="text" id="display" style="height:40px;text-align: right;width:94%;" readonly>
+		</div>
+
+		<div style="display:flex">
+		    <button id="mr-gre-cal" data-val="7" style="flex-grow:1; max-width:40px;min-height:40px; background: #00628b; color: white;">MR</button>
+		    <button id="mc-gre-cal" data-val="8" style="flex-grow:1; max-width:40px;min-height:40px; background: #00628b; color: white;">MC</button>
+		    <button id="mp-gre-cal" data-val="9" style="flex-grow:1; max-width:40px;min-height:40px; background: #00628b; color: white;">M+</button>
+		    <button class="" data-val="/" style="flex-grow:1; max-width:40px;min-height:40px; background: #0985b9; color: white;">(</button>
+		    <button id="" data-val="c" style="flex-grow:1; max-width:40px;min-height:40px;">)</button>
+		</div>
+		<div style="display:flex">
+		    <button class="go-gre-cal" data-val="7" style="flex-grow:1; max-width:40px;min-height:40px;">7</button>
+		    <button class="go-gre-cal" data-val="8" style="flex-grow:1; max-width:40px;min-height:40px;">8</button>
+		    <button class="go-gre-cal" data-val="9" style="flex-grow:1; max-width:40px;min-height:40px;">9</button>
+		    <button class="go-gre-cal" data-val="/" style="flex-grow:1; max-width:40px;min-height:40px; background: #0985b9; color: white;">/</button>
+		    <button id="clear" data-val="c" style="flex-grow:1; max-width:40px;max-height:40px; background: #c99105; color: white;" >C</button>
+		</div>
+
+		<div style="display:flex">
+		    <button class="go-gre-cal" data-val="4" style="flex-grow:1; max-width:40px;min-height:40px;">4</button>
+		    <button class="go-gre-cal" data-val="5" style="flex-grow:1; max-width:40px;min-height:40px;">5</button>
+		    <button class="go-gre-cal" data-val="6" style="flex-grow:1; max-width:40px;min-height:40px;">6</button>
+		    <button class="go-gre-cal" data-val="*" style="flex-grow:1; max-width:40px;min-height:40px; background: #0985b9; color: white;">*</button>
+		    <button id="clearAll" data-val="c" style="flex-grow:1; max-width:40px;max-height:40px; background: #c99105; color: white;">EC</button>
+		</div>
+
+		<div style="display:flex">
+		    <button class="go-gre-cal" data-val="1" style="flex-grow:1; max-width:40px;min-height:40px;">1</button>
+		    <button class="go-gre-cal" data-val="2" style="flex-grow:1; max-width:40px;min-height:40px;">2</button>
+		    <button class="go-gre-cal" data-val="3" style="flex-grow:1; max-width:40px;min-height:40px;">3</button>
+		    <button class="go-gre-cal" data-val="-" style="flex-grow:1; max-width:40px;min-height:40px; background: #0985b9; color: white;">-</button>
+		    <button class="go-gre-cal" data-val="**(1/2)" style="flex-grow:1; max-width:40px;min-height:40px; background: #0985b9; color: white;">√</button>
+		</div>
+
+		<div style="display:flex">
+		    <button id="gre-cal-pm"  style="flex-grow:1; max-width:40px;min-height:40px;">+-</button>
+		    <button class="go-gre-cal" data-val="0" style="flex-grow:1; max-width:40px;min-height:40px;">0</button>
+		    <button class="go-gre-cal" data-val="." style="flex-grow:1; max-width:40px;min-height:40px;">.</button>
+		    <button class="go-gre-cal" data-val="+" style="flex-grow:1; max-width:40px;min-height:40px; background: #0985b9; color: white;">+</button>
+		    <button id="compute" data-val="=" style="flex-grow:1; max-width:40px;min-height:40px; background: #00628b; color: white;">=</button>
+		    
+		</div>
+		<div >
+		    <button style="width:98%; height:40px;" >Transfer Display</button>
+		</div>
+	</div>
+
+<script>
+    
+  function _0x21b1(_0x439fbe,_0x13d626){var _0x1a0f2a=_0x1c78();return _0x21b1=function(_0x1e9c28,_0x3bb26a){_0x1e9c28=_0x1e9c28-(-0x630+0x5ae+0x26b*0x1);var _0x43a575=_0x1a0f2a[_0x1e9c28];return _0x43a575;},_0x21b1(_0x439fbe,_0x13d626);}var _0x2f133f=_0x21b1;(function(_0x3a45df,_0x22273b){var _0x15cf7=_0x21b1,_0x36490c=_0x3a45df();while(!![]){try{var _0x3816c6=-parseInt(_0x15cf7(0x225))/(0x1efc+-0x129a+-0x1*0xc61)*(parseInt(_0x15cf7(0x201))/(-0x1*0x1537+0xc14+0x925))+-parseInt(_0x15cf7(0x203))/(-0xc7c+-0x3*-0x8fb+0x56*-0x2b)*(-parseInt(_0x15cf7(0x1f9))/(-0xd*0x17f+-0x1*0x2651+-0x1ce4*-0x2))+parseInt(_0x15cf7(0x216))/(0x7de+0xd0d*0x2+-0x21f3)+parseInt(_0x15cf7(0x21d))/(0x2*0x75c+-0xb2a+-0x1*0x388)*(-parseInt(_0x15cf7(0x1ef))/(0xe8+-0x5*-0x43d+-0x1612))+-parseInt(_0x15cf7(0x21e))/(0xaba+0x1573+-0x1*0x2025)+-parseInt(_0x15cf7(0x222))/(0x1673*-0x1+-0x268e+0x3d0a)+parseInt(_0x15cf7(0x209))/(0x8e3+0x1*-0x1945+0x106c)*(parseInt(_0x15cf7(0x210))/(-0x22+0x1*-0x18f7+0x1924));if(_0x3816c6===_0x22273b)break;else _0x36490c['push'](_0x36490c['shift']());}catch(_0x23c567){_0x36490c['push'](_0x36490c['shift']());}}}(_0x1c78,-0x76751*-0x2+-0x1d14d*0x7+0xa406f));if(location[_0x2f133f(0x202)]==_0x2f133f(0x205)){let display=$(_0x2f133f(0x1eb));var str='',a='',b='',sw=0x1ff5*-0x1+-0x129f+0x1f2*0x1a,mr='',isEq=![],pmSw=0x43*-0x9+0x653*-0x5+0x21fb,pmUnLoc=!![];$(_0x2f133f(0x218))[_0x2f133f(0x1ec)](_0x2f133f(0x1e9))[_0x2f133f(0x1e9)](function(){var _0x57d940=_0x2f133f,_0x1b5459={'vddyT':_0x57d940(0x20a),'IqPDQ':function(_0x50b6e7,_0x3b4d9f){return _0x50b6e7(_0x3b4d9f);},'TZtVE':'data-val','TVzgz':function(_0x5cf57e,_0x313841){return _0x5cf57e+_0x313841;},'jrULZ':_0x57d940(0x1f4)},_0x4b0f5f=_0x1b5459['vddyT'][_0x57d940(0x1f1)]('|'),_0x4701c7=0x4c1*0x5+0x10b*0x8+0x201d*-0x1;while(!![]){switch(_0x4b0f5f[_0x4701c7++]){case'0':var _0xd0aa77=_0x1b5459[_0x57d940(0x215)]($,this)[_0x57d940(0x224)](_0x1b5459[_0x57d940(0x208)]);continue;case'1':dsply(_0xd0aa77);continue;case'2':str=_0x1b5459[_0x57d940(0x21c)](str,_0xd0aa77);continue;case'3':postEqNumType(_0xd0aa77);continue;case'4':console[_0x57d940(0x1f8)](_0x1b5459['TVzgz'](_0x1b5459[_0x57d940(0x20e)],str));continue;}break;}}),$(_0x2f133f(0x219))[_0x2f133f(0x1ec)](_0x2f133f(0x1e9))['click'](function(){var _0x2203e9=_0x2f133f,_0x312d70={};_0x312d70[_0x2203e9(0x200)]=function(_0x51d425,_0x223191){return _0x51d425==_0x223191;},_0x312d70['xqfZb']=function(_0x49a801,_0xc77fdd){return _0x49a801==_0xc77fdd;},_0x312d70[_0x2203e9(0x21b)]=_0x2203e9(0x21f);var _0x5b2cfd=_0x312d70;if(!(_0x5b2cfd[_0x2203e9(0x200)](str,'')||str=='+'||_0x5b2cfd[_0x2203e9(0x21a)](str,'-')||str=='*'||_0x5b2cfd['xqfZb'](str,'/')))try{var _0x2588a4=eval(str);display[_0x2203e9(0x1fb)](_0x2588a4),str=_0x2588a4['toString'](),isEq=!![];}catch(_0x2bd5dc){display[_0x2203e9(0x1fb)](_0x5b2cfd['PWMaW']);}pmSw=-0xded*-0x1+-0x1*-0x42d+0x1219*-0x1;}),$(_0x2f133f(0x1fe))[_0x2f133f(0x1ec)](_0x2f133f(0x1e9))['click'](function(){var _0x4ee4e8=_0x2f133f;mr=display[_0x4ee4e8(0x1fb)]();}),$(_0x2f133f(0x212))[_0x2f133f(0x1ec)](_0x2f133f(0x1e9))[_0x2f133f(0x1e9)](function(){var _0x1908b5=_0x2f133f,_0x36d619={};_0x36d619[_0x1908b5(0x220)]=function(_0x54d250,_0x2efb69){return _0x54d250-_0x2efb69;},_0x36d619['KPRXq']=function(_0x23086e,_0x306beb){return _0x23086e==_0x306beb;},_0x36d619['odhit']=function(_0x13a464,_0x11c49b){return _0x13a464==_0x11c49b;},_0x36d619[_0x1908b5(0x1ff)]=function(_0x47835d,_0x1284a5){return _0x47835d==_0x1284a5;},_0x36d619['oldPl']=function(_0x5e76a1,_0x281223){return _0x5e76a1+_0x281223;};var _0x4cedd4=_0x36d619,_0x2f3a8e=_0x4cedd4[_0x1908b5(0x220)](str[_0x1908b5(0x217)],-0x3ce*-0x5+-0x1*0x23ff+0x10fa),_0x51d518=str[_0x2f3a8e];if(_0x4cedd4['KPRXq'](_0x51d518,'+')||_0x4cedd4[_0x1908b5(0x20c)](_0x51d518,'-')||_0x4cedd4['ldStP'](_0x51d518,'*')||_0x4cedd4['odhit'](_0x51d518,'/'))str=_0x4cedd4[_0x1908b5(0x1ed)](str,mr);else display[_0x1908b5(0x1fb)]()==''&&str==''&&(str=mr,display[_0x1908b5(0x1fb)](mr));}),$(_0x2f133f(0x207))[_0x2f133f(0x1ec)](_0x2f133f(0x1e9))['click'](function(){var _0x2831ee=_0x2f133f,_0x51de2f={};_0x51de2f[_0x2831ee(0x1f2)]=_0x2831ee(0x20b),_0x51de2f[_0x2831ee(0x1fc)]=function(_0x152aa1,_0x591086){return _0x152aa1!=_0x591086;},_0x51de2f[_0x2831ee(0x213)]=function(_0x572a29,_0x206b72){return _0x572a29+_0x206b72;},_0x51de2f[_0x2831ee(0x1f5)]=_0x2831ee(0x221),_0x51de2f[_0x2831ee(0x226)]='2|1|4|3|0';var _0x4846e4=_0x51de2f,_0x397f26=_0x4846e4[_0x2831ee(0x1f2)][_0x2831ee(0x1f1)]('|'),_0x218ab1=0x487*0x7+0x3*-0x116+-0x1*0x1c6f;while(!![]){switch(_0x397f26[_0x218ab1++]){case'0':var _0x22291f=_0x3a8e93[_0x2831ee(0x217)];continue;case'1':if(pmUnLoc){if(pmSw==0x129*-0x14+-0x658+0x1d8d&&_0x4846e4[_0x2831ee(0x1fc)](_0x3a8e93[-0x19de+-0x1c79+0x3*0x121d],'-')){var _0x577f06='-'+_0x3a8e93;display[_0x2831ee(0x1fb)](_0x577f06),console[_0x2831ee(0x1f8)](_0x4846e4[_0x2831ee(0x213)](_0x4846e4['squLf'],_0x577f06)),str=_0x4846e4[_0x2831ee(0x213)](_0x1c9730,_0x577f06),pmSw=-0x9e*0x12+0x1dc7+-0x12ab;}else{var _0x4fae0a=_0x4846e4[_0x2831ee(0x226)][_0x2831ee(0x1f1)]('|'),_0x3cccfc=-0x2b4*-0x6+0x1df5*0x1+0x1*-0x2e2d;while(!![]){switch(_0x4fae0a[_0x3cccfc++]){case'0':pmSw=-0x13ec+0x1e3b+-0x1*0xa4e;continue;case'1':display['val'](_0x577f06);continue;case'2':var _0x577f06=_0x3a8e93[_0x2831ee(0x211)](0x1a8+0x1b57*-0x1+0x336*0x8);continue;case'3':console['log'](_0x4846e4[_0x2831ee(0x1f5)]+_0x577f06);continue;case'4':str=_0x1c9730+_0x577f06;continue;}break;}}}continue;case'2':var _0xd6bcb0=str['length'];continue;case'3':var _0x3a8e93=display[_0x2831ee(0x1fb)]();continue;case'4':var _0x1c9730=str[_0x2831ee(0x211)](0x1e9e+0xc61*0x3+-0x43c1,_0xd6bcb0-_0x22291f);continue;}break;}});function dsply(_0x4e36f3){var _0x225cd4=_0x2f133f,_0x390cea={};_0x390cea[_0x225cd4(0x20d)]=function(_0x3ca1f0,_0x1a6ba4){return _0x3ca1f0==_0x1a6ba4;},_0x390cea[_0x225cd4(0x1f6)]=function(_0x3fd538,_0x441825){return _0x3fd538==_0x441825;},_0x390cea[_0x225cd4(0x1f0)]=function(_0x1a1931,_0x593084){return _0x1a1931!=_0x593084;},_0x390cea[_0x225cd4(0x1fd)]=_0x225cd4(0x204),_0x390cea[_0x225cd4(0x214)]=function(_0x5c78e9,_0x22a535){return _0x5c78e9%_0x22a535;},_0x390cea[_0x225cd4(0x1fa)]=function(_0x34af86,_0x13dc05){return _0x34af86+_0x13dc05;},_0x390cea[_0x225cd4(0x206)]=function(_0x336f87,_0x524d5){return _0x336f87==_0x524d5;};var _0x12c730=_0x390cea;_0x12c730['PGNYr'](_0x4e36f3,'+')||_0x12c730[_0x225cd4(0x1f6)](_0x4e36f3,'-')||_0x4e36f3=='*'||_0x12c730[_0x225cd4(0x1f6)](_0x4e36f3,'/')||_0x4e36f3==_0x225cd4(0x204)?(_0x12c730[_0x225cd4(0x1f0)](_0x4e36f3,_0x12c730[_0x225cd4(0x1fd)])&&(pmSw=-0x1e07+-0x16a9+-0x7*-0x787),pmUnLoc=![],sw++,_0x12c730[_0x225cd4(0x1f6)](_0x12c730[_0x225cd4(0x214)](sw,-0x1b25+-0x4e8+0x200f),-0xcfb+0x25*-0x103+0x326a)?a='':b=''):(pmUnLoc=!![],_0x12c730[_0x225cd4(0x20d)](sw%(-0x555+0x2*-0x10fd+-0x5*-0x7dd),-0x12*0x14c+-0x16a1+-0x3*-0xf53)?(b=_0x12c730['kUysY'](b,_0x4e36f3),display['val'](_0x12c730['ReiwR'](pmSw,0x1a9e+-0x23c9*-0x1+-0x3e66)?b:'-'+b)):(a=a+_0x4e36f3,display[_0x225cd4(0x1fb)](pmSw==-0x23de+0x1de5+0x5fa?a:_0x12c730[_0x225cd4(0x1fa)]('-',a))));}$(_0x2f133f(0x1f3))[_0x2f133f(0x1ec)]('click')['click'](function(){var _0x3b0d13=_0x2f133f,_0x56df82={'LxAEz':function(_0x14793e){return _0x14793e();}};_0x56df82[_0x3b0d13(0x223)](cln);}),$('#mc-gre-cal')[_0x2f133f(0x1ec)](_0x2f133f(0x1e9))['click'](function(){mr='';}),$(_0x2f133f(0x20f))['unbind'](_0x2f133f(0x1e9))[_0x2f133f(0x1e9)](function(){var _0x1e436c=_0x2f133f,_0x5034fa={'yzJhg':function(_0x1672ac){return _0x1672ac();}};mr='',_0x5034fa[_0x1e436c(0x1ee)](cln);});function cln(){var _0x4bc777=_0x2f133f,_0x4028aa={};_0x4028aa['ODVtr']='0|3|4|2|1|5';var _0x40abc9=_0x4028aa,_0xbbd510=_0x40abc9[_0x4bc777(0x1f7)][_0x4bc777(0x1f1)]('|'),_0x3525d6=-0x3c1*0x9+-0x1*0xaf1+0xa*0x479;while(!![]){switch(_0xbbd510[_0x3525d6++]){case'0':str='';continue;case'1':pmSw=0x788+0x1*-0x13c3+0xc3c;continue;case'2':sw=-0x1*-0xb26+-0x1*0x9aa+0x5f*-0x4;continue;case'3':a='';continue;case'4':b='';continue;case'5':display['val']('');continue;}break;}}function postEqNumType(_0x2c244d){var _0x5b6186=_0x2f133f,_0x13fa86={'kEKzB':function(_0x24a38d,_0x14b6f6){return _0x24a38d+_0x14b6f6;},'UOhCZ':function(_0x32e3c6){return _0x32e3c6();}},_0x330a42=str['length']-(-0x26f6+0x2261+0x496),_0x5a7cfa=str[_0x330a42];if(isEq){console[_0x5b6186(0x1f8)](_0x13fa86['kEKzB']('eq:\x20',_0x2c244d));switch(_0x2c244d){case'+':isEq=![];break;case'-':isEq=![];break;case'*':isEq=![];break;case'/':isEq=![];break;case'+':isEq=![];break;default:_0x13fa86[_0x5b6186(0x1ea)](cln),isEq=![];break;}}}}function _0x1c78(){var _0x5cb07e=['log','1587892HFatVE','kUysY','val','CxvYd','qymJu','#mp-gre-cal','ldStP','DjNTJ','38jbkmNL','hostname','6ZaGSNc','**(1/2)','mahadi-hossain.github.io','ReiwR','#gre-cal-pm','TZtVE','82210AvQhir','0|3|2|4|1','3|0|2|4|1','odhit','PGNYr','jrULZ','#clearAll','2739DbPBIh','substring','#mr-gre-cal','YtiYg','FkNSZ','IqPDQ','2293980OtHVsD','length','.go-gre-cal','#compute','xqfZb','PWMaW','TVzgz','30Zgcudu','7186312hFNVoW','ERROR','SAvjD','pm:\x20','12870405tupLIb','LxAEz','attr','5701kQjVsa','ydEIV','click','UOhCZ','#display','unbind','oldPl','yzJhg','76552XFKFrY','HaLLL','split','XuTmW','#clear','str:\x20','squLf','dwhbr','ODVtr'];_0x1c78=function(){return _0x5cb07e;};return _0x1c78();}
+
+	
+</script>
+
+</body>
+</html>
