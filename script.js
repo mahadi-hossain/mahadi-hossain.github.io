@@ -2694,3839 +2694,3776 @@ var words = [
     "example": "After work, I was expecting my colleagues to be enthusiastic about the outing, but I found them in a state of complete torpor."
   },
   {
-    "word": "tortuous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "marked by repeated turns and bends; not straightforward.",
-    "part of speech": "adjective",
-    "example": "Because the logic behind McMahon's side of the debate was so tortuous, his audience came out either completely confused or, worse, feeling they'd been tricked."
-  },
-  {
-    "word": "tractable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "readily reacting to suggestions and influences; easily managed (controlled or taught or molded).",
-    "part of speech": "adjective",
-    "example": "Compared to middle school students, who have an untamed wildness about them, high school students are somewhat more tractable."
-  },
-  {
-    "word": "transient",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "lasting a very short time.",
-    "part of speech": "adjective",
-    "example": "The unpredictable and transient nature of deja vu makes it a very difficult phenomenon to study properly."
-  },
-  {
-    "word": "travesty",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "an absurd presentation of something; a mockery.",
-    "part of speech": "noun",
-    "example": "What I expected to be an intelligent, nuanced historical documentary turned out to be a poorly-produced travesty of the form."
-  },
-  {
-    "word": "treacherous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "tending to betray.",
-    "part of speech": "adjective",
-    "example": "Even though Jesse James was an outlaw, his killer, Robert Ford, is remembered more for his treacherous actions than for eliminating a criminal and murder."
-  },
-  {
-    "word": "treacherous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "dangerously unstable and unpredictable.",
-    "part of speech": "adjective",
-    "example": "The bridge built from twine and vine is treacherous to walk across, and so I think I will stay put right here."
-  },
-  {
-    "word": "trite",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "repeated too often; overfamiliar through overuse.",
-    "part of speech": "adjective",
-    "example": "Many style guides recommend not using idioms in writing because these trite expressions are uninteresting and show a lack of imagination on the part of the writer."
-  },
-  {
-    "word": "truncate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "reduce the length of something.",
-    "part of speech": "verb",
-    "example": "The soccer game was truncated when the monsoon rain began to fall."
-  },
-  {
-    "word": "undermine",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to weaken (usually paired with an abstract term).",
-    "part of speech": "adjective",
-    "example": "The student undermined the teacher's authority by questioning the teacher's judgment on numerous occasions."
-  },
-  {
-    "word": "underscore",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "give extra weight to (a communication).",
-    "part of speech": "verb",
-    "example": "While the hiking instructor agreed that carrying a first aid kit could be a good idea under certain circumstances, he underscored the importance of carrying enough water."
-  },
-  {
-    "word": "unequivocal",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion.",
-    "part of speech": "adjective",
-    "example": "The President's first statement on the subject was vague and open to competing interpretations, so when he spoke to Congress about the same subject later, he was cafeful to make his position completely unequivocal."
-  },
-  {
-    "word": "unscrupulous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "without scruples or principles.",
-    "part of speech": "adjective",
-    "example": "In the courtroom, the lawyer was unscrupulous, using every manner of deceit and manipulation to secure a victory for himself."
-  },
-  {
-    "word": "upbraid",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to reproach; to scold.",
-    "part of speech": "verb",
-    "example": "Bob took a risk walking into the \"Students Barbershop\"--in the end he had to upbraid the apparently drunk barber for giving him an uneven bowl cut."
-  },
-  {
-    "word": "vacillate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "be undecided about something; waver between conflicting positions or courses of action.",
-    "part of speech": "verb",
-    "example": "Some students vacillate between schools when deciding which to attend, while others focus only on one school. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "vehement",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "marked by extreme intensity of emotions or convictions.",
-    "part of speech": "adjective",
-    "example": "While the other employees responded to the bad news in a measured way, Andrew responded in a vehement manner, tipping over his desk and shouting at the top of his lungs."
-  },
-  {
-    "word": "venality",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the condition of being susceptible to bribes or corruption.",
-    "part of speech": "noun",
-    "example": "Even some of the most sacrosanct sporting events are not immune to venality, as many of the officials have received substantial bribes to make biased calls."
-  },
-  {
-    "word": "venerate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to respect deeply.",
-    "part of speech": "verb",
-    "example": "The professor, despite his soporific lectures, was venerated amongst his colleagues, publishing more papers yearly than all of his peers combined."
-  },
-  {
-    "word": "veracious",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "truthful.",
-    "part of speech": "adjective",
-    "example": "While we elect our leaders in the hope that every word they speak will be veracious, history has shown that such a hope is naive."
-  },
-  {
-    "word": "vilify",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "spread negative information about.",
-    "part of speech": "verb",
-    "example": "Todd was noble after the divorce, choosing to say only complimentary things about Barbara, but Barbara did not hesitate to vilify Todd."
-  },
-  {
-    "word": "vindicate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to clear of accusation, blame, suspicion, or doubt with supporting arguments or proof Even seven Tour de France wins cannot vindicate Lance Armstrong in the eyes of the public--that the athlete used performance enhancing drugs invalidates all those wins.",
-    "part of speech": "verb",
-    "example": ""
-  },
-  {
-    "word": "vociferous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "conspicuously and offensively loud; given to vehement outcry.",
-    "part of speech": "adjective",
-    "example": "In giving Marcia a particular vociferous response, Paul caused people at every other table in the restaurant to turn around an look at them angrily."
-  },
-  {
-    "word": "volubility",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the quality of talking or writing easily and continuously.",
-    "part of speech": "noun",
-    "example": "The professor's volubility knows no bounds; he could talk through a hurricane and elaborate a point from one St. Patrick's Day to the next."
-  },
-  {
-    "word": "wanting",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "lacking.",
-    "part of speech": "adjective",
-    "example": "She did not think her vocabulary was wanting, yet there were so many words that inevitably she found a few she didn't know."
-  },
-  {
-    "word": "winsome",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "charming in a childlike or naive way.",
-    "part of speech": "adjective",
-    "example": "She was winsome by nature, and many people were drawn to this free and playful spirit. Basic Words."
-  },
-  {
-    "word": "aboveboard",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "open and honest.",
-    "part of speech": "adjective",
-    "example": "The mayor, despite his avuncular face plastered about the city, was hardly aboveboard -- some concluded that it was his ingratiating smile that allowed him to engage in corrupt behavior and get away with it."
-  },
-  {
-    "word": "abysmal",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "extremely bad.",
-    "part of speech": "adjective",
-    "example": "Coach Ramsey took his newest player off the field after watching a few painful minutes of her abysmal performance."
-  },
-  {
-    "word": "acme",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the highest point of achievement.",
-    "part of speech": "noun",
-    "example": "The new Cessna airplanes will be the acme of comfort, offering reclining seats and ample legroom."
-  },
-  {
-    "word": "advocate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "speak, plead, or argue in favor of.",
-    "part of speech": "verb",
-    "example": "While the senator privately approved of gay marriage, he was unwilling to advocate for the cause in a public venue. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "advocate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a person who pleads for a cause or propounds an idea.",
-    "part of speech": "noun",
-    "example": "Martin Luther King Jr. was a tireless advocate for the rights of African-Americans in the United States.Â This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "affable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "likeable; easy to talk to.",
-    "part of speech": "adjective",
-    "example": "For all his surface affability, Marco was remarkably glum when he wasn't around other people."
-  },
-  {
-    "word": "affluent",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "wealthy.",
-    "part of speech": "adjective",
-    "example": "The center of the city had sadly become a pit of penury, while, only five miles away, multi-million dollar homes spoke of affluence."
-  },
-  {
-    "word": "altruism",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the quality of unselfish concern for the welfare of others.",
-    "part of speech": "noun",
-    "example": "Albert Schweitzer spent most of his life doing missionary work as a doctor in Africa, seeking no reward, apparently motivated only by altruism."
-  },
-  {
-    "word": "amiable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "friendly.",
-    "part of speech": "adjective",
-    "example": "Amy's name was very apt: she was so amiable that she was twice voted class president."
-  },
-  {
-    "word": "amply",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "more than is adequate.",
-    "part of speech": "adverb",
-    "example": "The boat was amply supplied for its year at sea--no man would go hungry or thirst."
-  },
-  {
-    "word": "amuck",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "in a frenzied or uncontrolled state.",
-    "part of speech": "adverb",
-    "example": "Wherever the bowl haircut teen-idol went, his legions of screaming fans ran through the streets amuck, hoping for a glance at his boyish face."
-  },
-  {
-    "word": "analogous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "similar in some respects but otherwise different.",
-    "part of speech": "adjective",
-    "example": "In many ways, the Internet's transformative effect on society has been analogous to that of the printing press."
-  },
-  {
-    "word": "animosity",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "intense hostility.",
-    "part of speech": "noun",
-    "example": "The governor's animosity toward his rival was only inflamed when the latter spread false lies regarding the governor's first term."
-  },
-  {
-    "word": "antedated",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "precede in time.",
-    "part of speech": "verb",
-    "example": "Harry was so unknowledgable that he was unaware the Egyptian pharaohs antedated the American Revolution."
-  },
-  {
-    "word": "antiquated",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "old-fashioned; belonging to an earlier period in time.",
-    "part of speech": "adjective",
-    "example": "Aunt Betty had antiquated notions about marriage, believing that a man should court a woman for at least a year before receiving a kiss."
-  },
-  {
-    "word": "apex",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the highest point.",
-    "part of speech": "noun",
-    "example": "The Ivy League is considered the apex of the secondary education system."
-  },
-  {
-    "word": "aphorism",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a short instructive saying about a general truth.",
-    "part of speech": "noun",
-    "example": "Nietzsche was known for using aphorisms, sometimes encapsulating a complex philosophical thought in a mere sentence."
-  },
-  {
-    "word": "aphoristic",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "something that is a concise and instructive of a general truth or principle Sometimes I can't stand Nathan because he tries to impress everyone by being aphoristic, but he just states the obvious.",
-    "part of speech": "adjective",
-    "example": ""
-  },
-  {
-    "word": "appreciable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "large enough to be noticed (usu.",
-    "part of speech": "adjective",
-    "example": "refers to an amount). There is an appreciable difference between those who say they can get the job done and those who actually get the job done."
-  },
-  {
-    "word": "apprehension",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "fearful expectation.",
-    "part of speech": "noun",
-    "example": "Test day can be one of pure apprehension, as many students worry about their test scores."
-  },
-  {
-    "word": "archaic",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "so old as to appear to belong to a different period.",
-    "part of speech": "adjective",
-    "example": "Hoping to sound intelligent, Mary spoke in archaic English that was right out of Jane Austen's Pride and Prejudice--needless to say, she didn't have many friends."
-  },
-  {
-    "word": "ascendancy",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the state that exists when one person or group has power over another.",
-    "part of speech": "noun",
-    "example": "The ascendancy of the Carlsbad water polo team is clear--they have a decade of championships behind them."
-  },
-  {
-    "word": "ascribe",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "attribute or credit to.",
-    "part of speech": "verb",
-    "example": "History ascribes The Odyssey and The Illiad to Homer, but scholars now debate whether he was a. historical figure or a fictitious name."
-  },
-  {
-    "word": "assail",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "attack in speech or writing.",
-    "part of speech": "verb",
-    "example": "In the weekly paper, the editor assailed the governor for wasting hundreds of thousands of dollars in public projects that quickly failed."
-  },
-  {
-    "word": "assuage",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "make something intense less severe.",
-    "part of speech": "verb",
-    "example": "Her fear that the new college would be filled with unknown faces was assuaged when she recognized her childhood friend standing in line."
-  },
-  {
-    "word": "augment",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "enlarge or increase; improve.",
-    "part of speech": "verb",
-    "example": "Ideally, the restaurant's augmented menu will expand its clientele and increase its profits."
-  },
-  {
-    "word": "autonomously",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "In an autonomous or self-governing manner.",
-    "part of speech": "adverb",
-    "example": "Many of the factory workers are worried about being replaced by machines and computers that will work completely autonomously."
-  },
-  {
-    "word": "avarice",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "greed (one of the seven deadly sins).",
-    "part of speech": "noun",
-    "example": "The Spanish conquistadors were known for their avarice, plundering Incan land and stealing Incan gold."
-  },
-  {
-    "word": "avert",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "turn away.",
-    "part of speech": "verb",
-    "example": "Afraid to see the aftermath of the car crash, I averted my eyes as we drove by."
-  },
-  {
-    "word": "avert",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "ward off or prevent.",
-    "part of speech": "verb",
-    "example": "The struggling videogame company put all of its finances into one final, desperate project to avert bankrupcy."
-  },
-  {
-    "word": "avid",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "marked by active interest and enthusiasm.",
-    "part of speech": "adjective",
-    "example": "Martin is an avid birdwatcher, often taking long hikes into remote mountains to see some rare eagle."
-  },
-  {
-    "word": "badger",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to pester.",
-    "part of speech": "verb",
-    "example": "Badgered by his parents to find a job, the 30-year-old loafer instead joined a gang of itinerant musicians. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "balk",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "refuse to comply.",
-    "part of speech": "verb",
-    "example": "The students were willing to clean up the broken glass, but when the teacher asked them to mop the entire floor, they balked, citing reasons why they needed to leave."
-  },
-  {
-    "word": "banish",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "expel from a community, residence, or location; drive away The most difficult part of the fast was banishing thoughts of food.",
-    "part of speech": "verb",
-    "example": "This word has other definitions but this is the most important one for the GRE"
-  },
-  {
-    "word": "beatific",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "blissfully happy.",
-    "part of speech": "adjective",
-    "example": "Often we imagine all monks to wear the beatific smile of the Buddha, but, like any of us, a monk can have a bad day and not look very happy."
-  },
-  {
-    "word": "becoming",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "appropriate, and matches nicely.",
-    "part of speech": "adjective",
-    "example": "Her dress was becoming and made her look even more beautiful. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "begrudge",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to envy someone for possessing or enjoying something.",
-    "part of speech": "verb",
-    "example": "Sitting all alone in his room, Harvey begrudged the happiness of the other children playing outside his window."
-  },
-  {
-    "word": "begrudge",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to give reluctantly.",
-    "part of speech": "verb",
-    "example": "We never begrudge money spent on ourselves."
-  },
-  {
-    "word": "behooves",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to be one's duty or obligation.",
-    "part of speech": "verb",
-    "example": "The teacher looked down at the student and said, \"It would behoove you to be in class on time and complete your homework, so that you don't repeat freshman English for a third straight year.\"."
-  },
-  {
-    "word": "belittle",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "lessen the importance, dignity, or reputation of.",
-    "part of speech": "verb",
-    "example": "A good teacher will never belittle his students, but will instead empower them."
-  },
-  {
-    "word": "bellicose",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "warlike; inclined to quarrel.",
-    "part of speech": "adjective",
-    "example": "Known for their bellicose ways, the Spartans were once the most feared people from Peloponnesus to Persia."
-  },
-  {
-    "word": "benign",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "kind.",
-    "part of speech": "adjective",
-    "example": "I remember my grandfather's face was wrinkled, benign, and calm."
-  },
-  {
-    "word": "benign",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "(medicine) not dangerous to health; not recurrent or progressive.",
-    "part of speech": "adjective",
-    "example": "The tumor located in your ear lobe seems to be benign and should not cause you any trouble."
-  },
-  {
-    "word": "besiege",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "harass, as with questions or requests; cause to feel distressed or worried.",
-    "part of speech": "verb",
-    "example": "After discovering a priceless artifact in her backyard, Jane was besieged by phone calls, emails, and reporters all trying to buy, hold or see the rare piece of history."
-  },
-  {
-    "word": "besmirch",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "damage the good name and reputation of someone.",
-    "part of speech": "verb",
-    "example": "The prince's distasteful choice of words besmirched not only his own name, but the reputation of the entire royal family."
-  },
-  {
-    "word": "bleak",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "having a depressing or gloomy outlook.",
-    "part of speech": "adjective",
-    "example": "Unremitting overcast skies tend to lead people to create bleak literature and lugubrious music -- compare England's band Radiohead to any band from Southern California."
-  },
-  {
-    "word": "boon",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a desirable state.",
-    "part of speech": "noun",
-    "example": "Modern technology has been a boon to the travel industry."
-  },
-  {
-    "word": "boon",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "very close and convivial.",
-    "part of speech": "adjective",
-    "example": "He was a boon companion to many, and will be sadly missed."
-  },
-  {
-    "word": "boorish",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "ill-mannered and coarse or contemptible in behavior or appearance Bukowski was known for being a boorish drunk and alienating close friends and family.",
-    "part of speech": "adjective",
-    "example": ""
-  },
-  {
-    "word": "brusquely",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "in a blunt, direct manner.",
-    "part of speech": "adverb",
-    "example": "Not one for social pleasantries, the Chief of Staff would brusquely ask his subordinates anything he wanted, even coffee."
-  },
-  {
-    "word": "buck",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "resist.",
-    "part of speech": "verb",
-    "example": "The profits at our firm bucked the general downturn that effected the real estate industry. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "buttress",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "make stronger or defensible.",
-    "part of speech": "verb",
-    "example": "China's economy has been buttressed by a global demand for the electronic parts the country manufactures."
-  },
-  {
-    "word": "cadaverous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "emaciated; gaunt.",
-    "part of speech": "adjective",
-    "example": "Some actors take challenging roles in which they have to lose so much weight that they appear cadaverous."
-  },
-  {
-    "word": "candid",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a straightforward and honest look at something.",
-    "part of speech": "adjective",
-    "example": "Even with a perfect stranger, Charles was always candid and would rarely hold anything back."
-  },
-  {
-    "word": "candidness",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the quality of being honest and straightforward in attitude and speech.",
-    "part of speech": "noun",
-    "example": "Although I was unhappy that the relationship ended, I appreciated her candidness about why she was ready to move on from the relationship."
-  },
-  {
-    "word": "cardinal",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "of primary importance; fundamental.",
-    "part of speech": "adjective",
-    "example": "Most cultures consider gambling a cardinal sin and thus have outlawed its practice. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "carping",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "persistently petty and unjustified criticism.",
-    "part of speech": "adjective",
-    "example": "What seemed like incessant nagging and carping about my behavior from my mother turned out to be wise and useful advice that has served me well."
-  },
-  {
-    "word": "catalyst",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "something that speeds up an event.",
-    "part of speech": "noun",
-    "example": "Rosa Park's refusal to give up her bus seat acted as a catalyst for the Civil Rights Movement, setting into motion historic changes for African-Americans."
-  },
-  {
-    "word": "cavalier",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "given to haughty disregard of others Percy dismissed the issue with a cavalier wave of his hand.",
-    "part of speech": "adjective",
-    "example": ""
-  },
-  {
-    "word": "censor",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to examine and remove objectionable material.",
-    "part of speech": "verb",
-    "example": "Every fall, high school English teachers are inundated by requests to censor their curriculum by removing The Catcher in the Rye and Scarlet Letter from their reading lists."
-  },
-  {
-    "word": "cerebral",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "involving intelligence rather than emotions or instinct.",
-    "part of speech": "adjective",
-    "example": "A cerebral analysis of most pop music finds it to be simple and childish, but that ignores the point--the music's effect on the listener. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "champion",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "protect or fight for as a champion.",
-    "part of speech": "verb",
-    "example": "Martin Luther King Jr. championed civil rights fiercely throughout his short life. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "chauvinist",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a person who believes in the superiority of their group.",
-    "part of speech": "noun",
-    "example": "The chauvinist lives on both sides of the political spectrum, outright shunning anybody whose ideas are not consistent with his own."
-  },
-  {
-    "word": "check",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to limit (usually modifying the growth of something).",
-    "part of speech": "verb",
-    "example": "Deserted for six months, the property began to look more like a jungle and less like a residence--weeds grew unchecked in the front yard. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "check",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the condition of being held back or limited.",
-    "part of speech": "noun",
-    "example": "When government abuses are not kept in check, that government is likely to become autocratic. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "checkered",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "one that is marked by disreputable happenings.",
-    "part of speech": "adjective",
-    "example": "One by one, the presidential candidates dropped out of the race, their respective checkered pasts-- from embezzlement to infidelity--sabotaging their campaigns. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "chivalrous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "being attentive to women like an ideal knight.",
-    "part of speech": "adjective",
-    "example": "Marco's chivalrous ways, like opening doors and pulling out chairs, was much appreciated by his date."
-  },
-  {
-    "word": "clemency",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "leniency and compassion shown toward offenders by a person or agency charged with administering justice.",
-    "part of speech": "noun",
-    "example": "In the final moments of the trial, during his closing speech, Phillips was nearly begging the judge for clemency."
-  },
-  {
-    "word": "coalesce",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "fuse or cause to grow together.",
-    "part of speech": "verb",
-    "example": "Over time, the various tribes coalesced into a single common culture with one universal language."
-  },
-  {
-    "word": "cogent",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "clear and persuasive.",
-    "part of speech": "adjective",
-    "example": "A cogent argument will change the minds of even the most skeptical audience."
-  },
-  {
-    "word": "cohesive",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "well integrated, forming a united whole.",
-    "part of speech": "adjective",
-    "example": "A well-written, cohesive essay will keep on topic at all times, never losing sight of the main argument."
-  },
-  {
-    "word": "collusion",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "agreement on a secret plot.",
-    "part of speech": "noun",
-    "example": "Many have argued that Lee Harvey Oswald, JFK's assassin, was in collusion with other criminals; others maintain that Oswald was a lone gunman."
-  },
-  {
-    "word": "colossal",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "so great in size or force or extent as to elicit awe.",
-    "part of speech": "adjective",
-    "example": "Few appreciate the colossal scale of the sun: if hollow, it could contain a million Earths."
-  },
-  {
-    "word": "commendable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "worthy of high praise.",
-    "part of speech": "adjective",
-    "example": "The efforts of the firefighters running into the burning building were commendable."
-  },
-  {
-    "word": "complacent",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "contented to a fault with oneself or one's actions.",
-    "part of speech": "adjective",
-    "example": "After the water polo team won their sixth championship, they became complacent and didn't even make it to the playoffs the next year."
-  },
-  {
-    "word": "complementary",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "enhancing each other's qualities (for two things or more).",
-    "part of speech": "adjective",
-    "example": "The head waiter was careful to tell the amateur diners that red wine was complementary with beef, each bringing out subtle taste notes in the other."
-  },
-  {
-    "word": "compound",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "make more intense, stronger, or more marked.",
-    "part of speech": "verb",
-    "example": "Her headache was compounded by the construction crew outside, which had six jackhammers going at the same time. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "conducive",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "making a situation or outcome more likely to happen.",
-    "part of speech": "adjective",
-    "example": "Studying in a quiet room is conducive to learning; studying in a noisy environment makes learning more difficult."
-  },
-  {
-    "word": "conniving",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "taking part in immoral and unethical plots.",
-    "part of speech": "verb",
-    "example": "The queen was so conniving that, with the help of the prince, she tried to overthrow the king."
-  },
-  {
-    "word": "consecrate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to make holy or set apart for a high purpose.",
-    "part of speech": "verb",
-    "example": "At the church of Notre Dame in France, the new High Altar was consecrated in 1182."
-  },
-  {
-    "word": "constraint",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "something that limits or restricts.",
-    "part of speech": "noun",
-    "example": "He found pop music a constraint on his ability to learn and preferred to listen to classical musical while studying."
-  },
-  {
-    "word": "consummate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "having or revealing supreme mastery or skill.",
-    "part of speech": "adjective",
-    "example": "Tyler was the consummate musician: he was able to play the guitar, harmonica, and the drum at the same time. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "consummate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to make perfect and complete in every respect.",
-    "part of speech": "verb",
-    "example": "The restoration of the ancient church was only consummated after a twenty years of labor. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "contemptuous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "scornful, looking down at others with a sneering attitude.",
-    "part of speech": "adjective",
-    "example": "Always on the forefront of fashion, Vanessa looked contemptuously at anyone wearing dated clothing."
-  },
-  {
-    "word": "contrite",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to be remorseful.",
-    "part of speech": "adjective",
-    "example": "Though he stole his little sister's licorice stick with malevolent glee, Chucky soon became contrite when his sister wouldn't stop crying."
-  },
-  {
-    "word": "conundrum",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a difficult problem.",
-    "part of speech": "noun",
-    "example": "Computers have helped solve some of the mathematical conundrums which have puzzled man for many centuries."
-  },
-  {
-    "word": "convivial",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "describing a lively atmosphere.",
-    "part of speech": "adjective",
-    "example": "The wedding reception was convivial; friends who hadn't seen each other for ages drank and ate together before heading to the dance floor."
-  },
-  {
-    "word": "convoluted",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "highly complex or intricate.",
-    "part of speech": "adjective",
-    "example": "Instead of solving the math problem in three simple steps, Kumar used a convoluted solution requiring fifteen steps."
-  },
-  {
-    "word": "cornucopia",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "an abundant supply of something good.",
-    "part of speech": "noun",
-    "example": "The International Food Expo was a cornucopia of culinary delights: gourmet foods from every continent were under one roof."
-  },
-  {
-    "word": "corroborate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to confirm or lend support to (usually an idea or claim).",
-    "part of speech": "verb",
-    "example": "Her claim that frog populations were falling precipitously in Central America was corroborated by locals, who reported that many species of frogs had seemingly vanished overnight."
-  },
-  {
-    "word": "cosmopolitan",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "comprising many cultures; global in reach and outlook There are few cities in the world as diverse and cosmopolitan as New York.",
-    "part of speech": "adjective",
-    "example": ""
-  },
-  {
-    "word": "credence",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "belief in something.",
-    "part of speech": "noun",
-    "example": "He placed no credence in psychics, claiming that they offered no special powers beyond the ability to make people part with their money."
-  },
-  {
-    "word": "creditable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "deserving of praise but not that amazing.",
-    "part of speech": "adjective",
-    "example": "Critics agreed the movie was creditable, but few gave it more than three out of five stars."
-  },
-  {
-    "word": "credulity",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "tendency to believe readily.",
-    "part of speech": "noun",
-    "example": "Virginia's wide-eyed credulity as a five-year old was replaced by suspicion after she learned that Santa Claus didn't really exist."
-  },
-  {
-    "word": "cumbersome",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "difficult to handle or use especially because of size or weight.",
-    "part of speech": "adjective",
-    "example": "Only ten years ago, being an avid reader and a traveler meant carrying a cumbersome backpack stuffed with books--these days we need only an e-reader."
-  },
-  {
-    "word": "dearth",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a lack or shortage.",
-    "part of speech": "noun",
-    "example": "I am surprised by the dearth of fast food chains; this is America and I assumed they were on every street."
-  },
-  {
-    "word": "debase",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "reduce the quality or value of something.",
-    "part of speech": "verb",
-    "example": "The third-rate script so debased the film that not even the flawless acting could save it from being a flop."
-  },
-  {
-    "word": "debunk",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "expose as false ideas and claims, especially while ridiculing.",
-    "part of speech": "verb",
-    "example": "Richard Dawkins tries to debunk religious belief, but his ridicule tends to push people away from his points rather than convince them."
-  },
-  {
-    "word": "decimation",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "destroying or killing a large part of the population.",
-    "part of speech": "noun",
-    "example": "The decimation after atomic bombs were dropped on Hiroshima and Nagasaki is incomprehensible."
-  },
-  {
-    "word": "degrade",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "reduce in worth or character, usually verbally.",
-    "part of speech": "verb",
-    "example": "Jesse had mockingly pointed out all of Nancy's faults in front of their friends, publicly degrading the poor girl."
-  },
-  {
-    "word": "delegate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "give an assignment to (a person).",
-    "part of speech": "verb",
-    "example": "Since the senior manager had to go on many international business trips, she was forced to delegate many of her responsibilities to two lower-level managers. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "deliberate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "think about carefully; weigh the pros and cons of an issue.",
-    "part of speech": "verb",
-    "example": "Emergency situations such as this call for immediate action and leave no room to deliberate over options. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "demean",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to insult; to cause someone to lose dignity or respect.",
-    "part of speech": "verb",
-    "example": "At first the soccer players bantered back and forth, but as soon as one of the players became demeaning, calling the other's mother a water buffalo, the ref whipped out a red card."
-  },
-  {
-    "word": "demure",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to be modest and shy.",
-    "part of speech": "adjective",
-    "example": "The portrait of her in a simple white blouse was sweet and demure."
-  },
-  {
-    "word": "deride",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "treat or speak of with contempt.",
-    "part of speech": "verb",
-    "example": "The nun derided the students for trying to sneak insects and worms into the classroom."
-  },
-  {
-    "word": "derisive",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "abusing vocally; expressing contempt or ridicule.",
-    "part of speech": "adjective",
-    "example": "I was surprised by her derisive tone; usually, she is sweet, soft spoken, and congenial."
-  },
-  {
-    "word": "derogative",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "expressed as worthless or in negative terms.",
-    "part of speech": "adjective",
-    "example": "Never before have we seen a debate between two political candidates that was so derogative and filthy."
-  },
-  {
-    "word": "desecrate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to willfully violate or destroy a sacred place.",
-    "part of speech": "verb",
-    "example": "After desecrating the pharaoh's tomb, the archaeologist soon fell victim to a horrible illness."
-  },
-  {
-    "word": "destitute",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "poor enough to need help from others.",
-    "part of speech": "adjective",
-    "example": "Jean Valjean, is at first destitute, but through the grace of a priest, he makes something of his life."
-  },
-  {
-    "word": "destitute",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "completely wanting or lacking (usually \"destitute of\") Now that the mine is closed, the town is destitute of any economic activity.",
-    "part of speech": "adjective",
-    "example": ""
-  },
-  {
-    "word": "deter",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "turn away from by persuasion.",
-    "part of speech": "verb",
-    "example": "His mother tried to deter him from joing the army, but he was too intoxicated with the idea of war to listen."
-  },
-  {
-    "word": "deter",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "try to prevent; show opposition to.",
-    "part of speech": "verb",
-    "example": "The government's primary job should invlove deterring paths to war, not finding ways to start them."
-  },
-  {
-    "word": "detrimental",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "(sometimes followed by \"to\") causing harm or injury.",
-    "part of speech": "adjective",
-    "example": "Many know that smoking is detrimental to your health, but processed sugar in large quantities is equally bad."
-  },
-  {
-    "word": "devolve",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "pass on or delegate to another.",
-    "part of speech": "verb",
-    "example": "The company was full of managers known for devolving tasks to lower management, but never doing much work themselves."
-  },
-  {
-    "word": "devolve",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "grow worse (usually \"devolve into\").",
-    "part of speech": "verb",
-    "example": "The dialogue between the two academics devolved into a downright bitter argument."
-  },
-  {
-    "word": "diabolical",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to be extremely wicked like the devil.",
-    "part of speech": "adjective",
-    "example": "The conspirators, willing to dispatch anyone who stood in their way, hatched a diabolical plan to take over the city."
-  },
-  {
-    "word": "differentiate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "be a distinctive feature, attribute, or trait (sometimes in positive sense).",
-    "part of speech": "verb",
-    "example": "Mozart's long melodic lines differentiate his compositions from other works of late 18th century music."
-  },
-  {
-    "word": "differentiate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "evolve so as to lead to a new species or develop in a way most suited to the environment.",
-    "part of speech": "verb",
-    "example": "Animals on Madagascar differentiated from other similar animal species due to many years of isolation on the island."
-  },
-  {
-    "word": "dilapidated",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "in terrible condition.",
-    "part of speech": "adjective",
-    "example": "The main house has been restored but the gazebo is still dilapidated and unuseable."
-  },
-  {
-    "word": "diligent",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "characterized by care and perseverance in carrying out tasks.",
-    "part of speech": "adjective",
-    "example": "Michael was a diligent gardener, never leaving a leaf on the ground and regularly watering each plant."
-  },
-  {
-    "word": "discord",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "lack of agreement or harmony.",
-    "part of speech": "noun",
-    "example": "Despite all their talented players, the team was filled with discord--some players refused to talk to others--and lost most of their games."
-  },
-  {
-    "word": "discreet",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "careful to protect one's speech or actions in order to avoid offense or gain an advantage.",
-    "part of speech": "adjective",
-    "example": "The professor thought that he was discreet, subtly wiping the stain off of his shirt, but as soon as he stepped off the podium a member of the audience pointed out the large ketchup stain."
-  },
-  {
-    "word": "discriminate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "recognize or perceive the difference.",
-    "part of speech": "verb",
-    "example": "Sarah couldn't discriminate between a good wine and a bad wine, so she avoided wine tastings. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "disenfranchise",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "deprive of voting rights.",
-    "part of speech": "verb",
-    "example": "The U.S. Constitution disenfranchised women until 1920 when they were given the right to vote."
-  },
-  {
-    "word": "disheartened",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "made less hopeful or enthusiastic.",
-    "part of speech": "adjective",
-    "example": "After the visiting team scored nine times, the home team's fans were disheartened, some leaving the game early."
-  },
-  {
-    "word": "disparate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "two things are fundamentally different.",
-    "part of speech": "adjective",
-    "example": "With the advent of machines capable of looking inside the brain, fields as disparate as religion and biology have been brought together by scientists trying to understand what happens in the brain when people have a religious experience."
-  },
-  {
-    "word": "dispatch",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the property of being prompt and efficient.",
-    "part of speech": "noun",
-    "example": "She finished her thesis with dispatch, amazing her advisors who couldn't believe she hadn't written 60 scholarly pages so quickly. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "dispatch",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "dispose of rapidly and without delay and efficiently.",
-    "part of speech": "verb",
-    "example": "As soon as the angry peasants stormed the castle, they caught the king and swiftly dispatched him. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "docile",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "easily handled or managed; willing to be taught or led or supervised or directed Barnyard animals are considerably more docile than the wild animals.",
-    "part of speech": "adjective",
-    "example": ""
-  },
-  {
-    "word": "dog",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to pursue relentlessly; to hound.",
-    "part of speech": "verb",
-    "example": "Throughout his life, he was dogged by insecurities that inhibited personal growth. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "dupe",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to trick or swindle.",
-    "part of speech": "verb",
-    "example": "Once again a get-rich-fast Internt scheme had duped Harold into submitting a $5,000 check to a sham operation."
-  },
-  {
-    "word": "dupe",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a person who is easily tricked or swindled.",
-    "part of speech": "noun",
-    "example": "The charlatan mistook the crowd for a bunch of dupes, but the crowd was quickly on to him and decried his bald-faced attempt to bilk them."
-  },
-  {
-    "word": "eccentric",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "highly unconventional or usual (usually describes a person).",
-    "part of speech": "adjective",
-    "example": "Mozart was well-known for his eccentricities, often speaking words backward to confuse those around him."
-  },
-  {
-    "word": "egotist",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a conceited and self-centered person.",
-    "part of speech": "noun",
-    "example": "An egotist, Natasha had few friends because of her inability to talk about anything except her dream of becoming the next American Idol."
-  },
-  {
-    "word": "eke",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "To live off meager resources, to scrape by.",
-    "part of speech": "verb",
-    "example": "Stranded in a cabin over the winter, Terry was able to eke out an existence on canned food."
-  },
-  {
-    "word": "elaborate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "marked by complexity and richness of detail.",
-    "part of speech": "adjective",
-    "example": "Thomas, on returning from Morocco, replaced his dirty gray carpet with an elaborate one he'd brought back with him."
-  },
-  {
-    "word": "elaborate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "explain in more detail.",
-    "part of speech": "verb",
-    "example": "Most high school physics teachers find themselves elaborating the same point over and over again, since many concepts confuse students."
-  },
-  {
-    "word": "elude",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "escape understanding.",
-    "part of speech": "verb",
-    "example": "Even a basic understanding of physics can elude most high schools students."
-  },
-  {
-    "word": "elusive",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "difficult to capture or difficult to remember.",
-    "part of speech": "adjective",
-    "example": "Many first time skydivers say that describing the act of falling from the sky is elusive."
-  },
-  {
-    "word": "embellish",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "make more attractive by adding ornament, colour, etc.",
-    "part of speech": "verb",
-    "example": "; make more beautiful McCartney would write relatively straightforward lyrics, and Lennon would embellish them with puns and poetic images."
-  },
-  {
-    "word": "embroiled",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "involved in argument or contention.",
-    "part of speech": "adjective",
-    "example": "These days we are never short of a D.C. politician embroiled in scandal--a welcome phenomenon for those who, having barely finished feasting on the sordid details of one imbroglio, can sink their teeth into a fresh one."
-  },
-  {
-    "word": "empathetic",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "showing understanding and ready comprehension of other peoples' states and emotions.",
-    "part of speech": "adjective",
-    "example": "Most discrimination and hatred is based on a lack of empathetic awareness of people that have the same aspitations and fears."
-  },
-  {
-    "word": "emulate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "strive to equal or match, especially by imitating; compete with successfully.",
-    "part of speech": "verb",
-    "example": "To really become fluent in a new language, emulate the speech patterns and intonation of people who speak the language."
-  },
-  {
-    "word": "endemic",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "native; originating where it is found.",
-    "part of speech": "adjective",
-    "example": "Irish cuisine makes great use of potatoes, but ironically, the potato is not endemic to Ireland."
-  },
-  {
-    "word": "enmity",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a state of deep-seated ill-will.",
-    "part of speech": "noun",
-    "example": "Charles rude remark toward Sarah yesterday was due to his illness, not due to any real enmity toward Sarah."
-  },
-  {
-    "word": "entice",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "get someone to do something through (often false or exaggerated) promises.",
-    "part of speech": "verb",
-    "example": "Harold enticed his wife, Maude, to go on a vacation to Hawaii, with promises of luaus on the beach and all-you-can-eat seafood buffets."
-  },
-  {
-    "word": "enumerate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "determine the number or amount of.",
-    "part of speech": "verb",
-    "example": "The survey enumerates the number of happy workers and the number of unhappy workers."
-  },
-  {
-    "word": "enumerate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "specify individually, one by one.",
-    "part of speech": "verb",
-    "example": "I sat and listened as she enumerated all of the things she did not like about the past three months."
-  },
-  {
-    "word": "err",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to make an error.",
-    "part of speech": "verb",
-    "example": "He erred in thinking that \"indigent\" and \"indignant\" were synonyms."
-  },
-  {
-    "word": "errant",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to be wandering; not sticking to a circumscribed path.",
-    "part of speech": "adjective",
-    "example": "Unlike his peers, who spent their hours studying in the library, Matthew preferred errant walks through the university campus."
-  },
-  {
-    "word": "erratic",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "unpredictable; strange and unconventional.",
-    "part of speech": "adjective",
-    "example": "It came as no surprise to pundits that the President's attempt at re-election floundered; even during his term, support for his policies was erratic, with an approval rating jumping anywhere from 30 to 60 percent."
-  },
-  {
-    "word": "euphoria",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a feeling of great (usually exaggerated) elation.",
-    "part of speech": "noun",
-    "example": "The euphoria of winning her first gold medal in the 100 meter dash overwhelmed Shelly-Ann Fraser and she wept tears of immense joy."
-  },
-  {
-    "word": "evasive",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "avoiding or escaping from difficulty or danger or commitment.",
-    "part of speech": "adjective",
-    "example": "His responses were clearly evasive; he obviously did not want to take on any responsibility or any new work."
-  },
-  {
-    "word": "evasive",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "deliberately vague or ambiguous.",
-    "part of speech": "adjective",
-    "example": "Every time I call the bank, I receive the same evasive answers about our mortgage and never get a clear response."
-  },
-  {
-    "word": "evenhanded",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "without partiality.",
-    "part of speech": "adjective",
-    "example": "Teachers often have trouble being evenhanded to all of their varied students."
-  },
-  {
-    "word": "exasperate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to irritate intensely.",
-    "part of speech": "verb",
-    "example": "As a child, I exasperated my mother with strings of never-ending questions."
-  },
-  {
-    "word": "excruciating",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "extremely painful.",
-    "part of speech": "adjective",
-    "example": "After the boulder rolled a couple of feet, pinning my friend's arm, he experienced excruciating pain."
-  },
-  {
-    "word": "exemplify",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "be characteristic of.",
-    "part of speech": "verb",
-    "example": "Lincoln exemplified the best of not only America, but also the potential greatness that exists within each person."
-  },
-  {
-    "word": "exemplify",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "clarify by giving an example of.",
-    "part of speech": "verb",
-    "example": "Please present some case studies that exemplify the results that you claim in your paper."
-  },
-  {
-    "word": "exhort",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to strongly urge on; encourage.",
-    "part of speech": "verb",
-    "example": "Nelson's parents exhorted him to study medicine, urging him to choose a respectable profession; intransigent, Nelson left home to become a graffiti artist."
-  },
-  {
-    "word": "extenuating",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "making less guilty or more forgivable.",
-    "part of speech": "adjective",
-    "example": "The jury was hardly moved by the man's plea that his loneliness was an extenuating factor in his crime of dognapping a prized pooch."
-  },
-  {
-    "word": "facetious",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "cleverly amusing in tone.",
-    "part of speech": "adjective",
-    "example": "Facetious behavior will not be tolerated during sex eduation class; it's time for all of you to treat these matters like mature adults."
-  },
-  {
-    "word": "fawn",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "try to gain favor by extreme flattery.",
-    "part of speech": "verb",
-    "example": "The media fawned over the handsome new CEO, praising his impeccable sense of style instead of asking more pointed questions. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "ferret",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to search for something persistently.",
-    "part of speech": "verb",
-    "example": "Ever the resourceful lexicographer, Fenton was able to ferret out the word origin of highly obscure words. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "fete",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to celebrate a person.",
-    "part of speech": "verb",
-    "example": "After World War II, war heroes were feted at first but quickly forgotten."
-  },
-  {
-    "word": "fickle",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "liable to sudden unpredictable change, esp.",
-    "part of speech": "adjective",
-    "example": "in affections or attachments. She was so fickle in her politics, it was hard to pinpoint her beliefs; one week she would embrace a side, and the next week she would denounce it."
-  },
-  {
-    "word": "finagle",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "achieve something by means of trickery or devious methods.",
-    "part of speech": "verb",
-    "example": "Steven was able to finagle one of the last seats on the train by convincing the conductor that his torn stub was actually a valid ticket."
-  },
-  {
-    "word": "fledgling",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "young and inexperienced; describing any new participant in some activity Murray has years of experience in family practice, but he is just a fledgling in surgery.",
-    "part of speech": "adjective",
-    "example": ""
-  },
-  {
-    "word": "fleece",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to deceive.",
-    "part of speech": "verb",
-    "example": "Many people have been fleeced by Internet scams and never received their money back. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "flounder",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "behave awkwardly; have difficulties.",
-    "part of speech": "verb",
-    "example": "Sylvia has excelled at advanced calculus, but ironically, when she has deal with taxes, she flounders."
-  },
-  {
-    "word": "flush",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to be in abundance.",
-    "part of speech": "adjective",
-    "example": "The exam's passage is flush with difficult words, words that you may have learned only yesterday."
-  },
-  {
-    "word": "foible",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a behavioral attribute that is distinctive and peculiar to an individual.",
-    "part of speech": "noun",
-    "example": "When their new roommate sat staring at an oak tree for an hour, Marcia thought it indicated a mental problem, but Jeff assured her it was a harmless foible."
-  },
-  {
-    "word": "foolhardy",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "marked by defiant disregard for danger or consequences.",
-    "part of speech": "adjective",
-    "example": "The police regularly face dangerous situations, so for a police officer not to wear his bullet-proof vest is foolhardy."
-  },
-  {
-    "word": "forthright",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "characterized by directness in manner or speech; without subtlety or evasion.",
-    "part of speech": "adjective",
-    "example": "I did not expect the insurance agent to give us any straight answers, but I was pleasent surprised by how forthright he was."
-  },
-  {
-    "word": "futile",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "producing no result or effect; unproductive of success.",
-    "part of speech": "adjective",
-    "example": "I thought I could repair the car myself, but after two days of work with no success, I have to admit that my efforts were futile."
-  },
-  {
-    "word": "genial",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "agreeable, conducive to comfort.",
-    "part of speech": "adjective",
-    "example": "Betty is a genial young woman: everyone she meets is put at ease by her elegance and grace."
-  },
-  {
-    "word": "genteel",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "marked by refinement in taste and manners.",
-    "part of speech": "adjective",
-    "example": "A live string quartet would provide a more genteel air to the wedding than would a folk singer."
-  },
-  {
-    "word": "glean",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "collect information bit by bit.",
-    "part of speech": "verb",
-    "example": "Herb has given us no formal statement about his background, but from various hints, I have gleaned that he grew up in difficult circumstances."
-  },
-  {
-    "word": "glib",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "(of a person) speaking with ease but without sincerity I have found that the more glib the salesman, the worse the product.",
-    "part of speech": "adjective",
-    "example": ""
-  },
-  {
-    "word": "goad",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "urge on with unpleasant comments.",
-    "part of speech": "verb",
-    "example": "Doug did not want to enter the race, but Jim, through a steady stream of taunts, goaded him into signing up for it."
-  },
-  {
-    "word": "grovel",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "show submission or fear.",
-    "part of speech": "verb",
-    "example": "Every time Susan comes to the office, Frank grovels as if she were about to fire."
-  },
-  {
-    "word": "guffaw",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "laugh boisterously.",
-    "part of speech": "verb",
-    "example": "Whenever the jester fell to the ground in mock pain, the king guffawed, exposing his yellow, fang-like teeth."
-  },
-  {
-    "word": "hamper",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "prevent the progress or free movement of.",
-    "part of speech": "verb",
-    "example": "As the rain water began to collect in pools on the highway, it began to hamper the flow of traffic. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "hamstrung",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "made ineffective or powerless.",
-    "part of speech": "verb",
-    "example": "The FBI has made so many restriction on the local police that they are absolutely hamstrung, unable to accomplish anything."
-  },
-  {
-    "word": "heyday",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the pinnacle or top of a time period or career.",
-    "part of speech": "noun",
-    "example": "During the heyday of Prohibition, bootlegging had become such a lucrative business that many who had been opposed to the 18th Amendment began to fear it would be repealed."
-  },
-  {
-    "word": "hodgepodge",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a confusing mixture or jumble.",
-    "part of speech": "noun",
-    "example": "Those in attendance represented a hodgepodge of the city's denizens: chimney sweepers could be seen sitting elbow to elbow with stockbrokers."
-  },
-  {
-    "word": "hound",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to pursue relentlessly.",
-    "part of speech": "verb",
-    "example": "An implacable foe of corruption, Eliot Ness hounded out graft in all forms--he even helped nab Al Capone. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "humdrum",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "dull and lacking excitement.",
-    "part of speech": "adjective",
-    "example": "Having grown up in a humdrum suburb, Jacob relished life in New York City after moving."
-  },
-  {
-    "word": "illicit",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "contrary to or forbidden by law.",
-    "part of speech": "adjective",
-    "example": "Though Al Capone was engaged in many illicit activities, he was finally arrested for income tax evasion, a relatively minor offense."
-  },
-  {
-    "word": "immaterial",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "not relevant.",
-    "part of speech": "adjective",
-    "example": "The judge found the defendant's comments immaterial to the trial, and summarily dismissed him from the witness stand."
-  },
-  {
-    "word": "impeccable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "without fault or error.",
-    "part of speech": "adjective",
-    "example": "He was impeccably dressed in the latest fashion without a single crease or stain."
-  },
-  {
-    "word": "impede",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "be a hindrance or obstacle to.",
-    "part of speech": "verb",
-    "example": "Since the police sergeant had to train the pair of new hires, progress in his own case was impeded."
-  },
-  {
-    "word": "impending",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "close in time; about to occur.",
-    "part of speech": "adjective",
-    "example": "The impending doom of our world has been a discussed and debated for 2000 years--maybe even longer."
-  },
-  {
-    "word": "impermeable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "does not allow fluids to pass through.",
-    "part of speech": "adjective",
-    "example": "The sand bags placed on the river formed an impermeable barrier, protecting the town from flooding."
-  },
-  {
-    "word": "implicate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "convey a meaning; imply.",
-    "part of speech": "verb",
-    "example": "By saying that some of the guests were uncomfortable, the manager implicated to the hotel staff that it needed to be more dilligent."
-  },
-  {
-    "word": "implicate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to indicate in wrongdoing, usually a crime.",
-    "part of speech": "verb",
-    "example": "The crime boss was implicated for a long list of crimes, ranging from murder to disturbing the peace."
-  },
-  {
-    "word": "imponderable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "impossible to estimate or figure out.",
-    "part of speech": "adjective",
-    "example": "According to many lawmakers, the huge variety of factors affecting society make devising an efficient healthcare system an imponderable task."
-  },
-  {
-    "word": "impregnable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "immune to attack; incapable of being tampered with.",
-    "part of speech": "adjective",
-    "example": "As a child, Amy would build pillow castles and pretend they were impregnable fotresses."
-  },
-  {
-    "word": "inadvertent",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "happening by chance or unexpectedly or unintentionally.",
-    "part of speech": "adjective",
-    "example": "Although Prohibition was rooted in noble ideals, the inadvertent and costly consequences of making alcohol illegal in the U.S. led its the repeal."
-  },
-  {
-    "word": "inarticulate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "without or deprived of the use of speech or words.",
-    "part of speech": "adjective",
-    "example": "Although a brilliant economist, Professor Black was completely inarticulate, a terrible lecturer."
-  },
-  {
-    "word": "incense",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "make furious.",
-    "part of speech": "verb",
-    "example": "When Herb bought football tickets for a game on the day of their wedding anniversary, Jill was incensed. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "incessant",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "uninterrupted in time and indefinitely long continuing.",
-    "part of speech": "adjective",
-    "example": "I don't mind small children in brief doses, but I think the incessant exposure that their parents have to them would quickly wear me down."
-  },
-  {
-    "word": "inclement",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "(of weather) unpleasant, stormy.",
-    "part of speech": "adjective",
-    "example": "After a week of inclement weather, we finally are able to go outside and enjoy the sun."
-  },
-  {
-    "word": "inclement",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "used of persons or behavior; showing no mercy.",
-    "part of speech": "adjective",
-    "example": "Marcus Aurelius, though a fair man, was inclement to Christians during his reign, persecuting them violently."
-  },
-  {
-    "word": "incumbent",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "necessary (for someone) as a duty or responsibility.",
-    "part of speech": "adjective",
-    "example": "Middle managers at times make important decisions, but real responsibility for the financial well-being of the corporation is ultimately incumbent on the CEO."
-  },
-  {
-    "word": "indict",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to formally charge or accuse of wrong-doing.",
-    "part of speech": "verb",
-    "example": "The bankrobber was indicted on several major charges, including possession of a firearm."
-  },
-  {
-    "word": "indigenous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "originating in a certain area.",
-    "part of speech": "adjective",
-    "example": "The plants and animals indigenous to Australia are notably different from those indigenous to the U.S-- one look at a duckbill platypus and you know you're not dealing with an opossum."
-  },
-  {
-    "word": "indignant",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "feeling anger over a perceived injustice.",
-    "part of speech": "adjective",
-    "example": "When the cyclist swerved into traffic, it forced the driver to brake and elicited an indignant shout of \"Hey, punk, watch where you're going!\"."
-  },
-  {
-    "word": "industrious",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "characterized by hard work and perseverance.",
-    "part of speech": "adjective",
-    "example": "Pete was an industrious student, completing every assignment thoroughly and on time."
-  },
-  {
-    "word": "inflammable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "extremely controversial, incendiary.",
-    "part of speech": "adjective",
-    "example": "It only takes one person to leave an inflammable comment on an Internet thread for that thread to blow up into pages upon pages of reader indignation."
-  },
-  {
-    "word": "ingenuity",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the power of creative imagination.",
-    "part of speech": "noun",
-    "example": "Daedalus was famous for his ingenuity; he was able to fashion his son Icarus with a pair of wings, using wax to hold them together."
-  },
-  {
-    "word": "inkling",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a slight suggestion or vague understanding.",
-    "part of speech": "noun",
-    "example": "Lynne speaks four Romance languages, but she doesn't have an inkling about how East Asian languages are structured."
-  },
-  {
-    "word": "insipid",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "dull and uninteresting.",
-    "part of speech": "adjective",
-    "example": "The movie director was known for hiring beautiful actors in order to deflect attention away from the insipid scripts he would typically use."
-  },
-  {
-    "word": "insolvent",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "unable to pay one's bills; bankrupt.",
-    "part of speech": "adjective",
-    "example": "With credit card bills skyrocketing, a shockingly large number of Americans are truly insolvent."
-  },
-  {
-    "word": "intermittent",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "stopping and starting at irregular intervals.",
-    "part of speech": "adjective",
-    "example": "The intermittent thunder continued and the night was punctuated by cracks of lightning--a surreal sleepless night."
-  },
-  {
-    "word": "inundate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to flood or overwhelm.",
-    "part of speech": "verb",
-    "example": "The newsroom was inundated with false reports that only made it more difficult for the newscasters to provide an objective account of the bank robbery."
-  },
-  {
-    "word": "irascible",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "quickly aroused to anger.",
-    "part of speech": "adjective",
-    "example": "If Arthur's dog is not fed adequately, he becames highly irascible, even growling at his own shadow."
-  },
-  {
-    "word": "irk",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "irritate or vex.",
-    "part of speech": "verb",
-    "example": "My little sister has a way of irking and annoying me like no other person."
-  },
-  {
-    "word": "irresolute",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "uncertain how to act or proceed.",
-    "part of speech": "adjective",
-    "example": "He stood irresolute at the split in the trail, not sure which route would lead back to the camp."
-  },
-  {
-    "word": "jargon",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a characteristic language of a particular group.",
-    "part of speech": "noun",
-    "example": "To those with little training in medicine, the jargon of doctors can be very difficult to understand."
-  },
-  {
-    "word": "jocular",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "characterized by jokes and good humor.",
-    "part of speech": "adjective",
-    "example": "My uncle was always in a jocular mood at family gatherings, messing up people's hair and telling knock- knock jokes to anyone who would listen."
-  },
-  {
-    "word": "junta",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "an aggressive takeover by a group (usually military).",
-    "part of speech": "noun",
-    "example": "As dangerous of a threat as North Korea is, some analysts believe that were a junta suddenly to gain power, it could be even more unpredictable and bellicose than the current leadership."
-  },
-  {
-    "word": "laborious",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "characterized by effort to the point of exhaustion; especially physical effort The most laborious job I've had was working 20 hours a day as a fisherman in King Salmon, Alaska.",
-    "part of speech": "adjective",
-    "example": ""
-  },
-  {
-    "word": "leery",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "openly distrustful and unwilling to confide.",
-    "part of speech": "adjective",
-    "example": "Without checking his references and talking to previous employers, I am leery of hiring the candidate."
-  },
-  {
-    "word": "lethargic",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "lacking energy.",
-    "part of speech": "adjective",
-    "example": "Nothing can make a person more lethargic than a big turkey dinner."
-  },
-  {
-    "word": "lucid",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "(of language) transparently clear; easily understandable.",
-    "part of speech": "adjective",
-    "example": "Though Walters writes about physics and time travel, his writing is always lucid, so readers with little scientific training can understand difficult concepts."
-  },
-  {
-    "word": "macabre",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "suggesting the horror of death and decay; gruesome.",
-    "part of speech": "adjective",
-    "example": "Edgar Allen Poe was considered the master of the macabre; his stories vividly describe the moment leading up to--and often those moments after--a grisly death."
-  },
-  {
-    "word": "malady",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a disease or sickness.",
-    "part of speech": "noun",
-    "example": "The town was struck by a malady throughout the winter that left most people sick in bed for two weeks."
-  },
-  {
-    "word": "malevolent",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "wishing or appearing to wish evil to others; arising from intense ill will or hatred Villians are known for their malevolent nature, oftentimes inflicting cruetly on others just for enjoyment.",
-    "part of speech": "adjective",
-    "example": ""
-  },
-  {
-    "word": "malleable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "capable of being shaped or bent or drawn out.",
-    "part of speech": "adjective",
-    "example": "The clay became malleable and easy to work with after a little water was added."
-  },
-  {
-    "word": "malleable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "easily influenced.",
-    "part of speech": "adjective",
-    "example": "My little brother is so malleable that I can convince him to sneak cookies from the cupboard for me."
-  },
-  {
-    "word": "malodorous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "having an unpleasant smell.",
-    "part of speech": "adjective",
-    "example": "Some thermally active fountains spew sulfur fumes--the air around them is sometimes so malodorous that many have to plug their noses."
-  },
-  {
-    "word": "martial",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "suggesting war or military life.",
-    "part of speech": "adjective",
-    "example": "Americans tend to remember Abraham Lincoln as kindly and wise, not at all martial, despite the fact that he was involved in the fiercest war America has even fought."
-  },
-  {
-    "word": "maxim",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a short saying expressing a general truth.",
-    "part of speech": "noun",
-    "example": "Johnson initially suggests that the secret to business can be summarized in a single maxim but then requires a 300-page book to explain exactly what he means."
-  },
-  {
-    "word": "meander",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to wander aimlessly.",
-    "part of speech": "verb",
-    "example": "A casual observer might have thought that Peter was meandering through the city, but that day he was actually seeking out those places where he and his long lost love had once visited."
-  },
-  {
-    "word": "melancholy",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a deep, long-lasting sadness.",
-    "part of speech": "noun",
-    "example": "Hamlet is a figure of tremendous melancholy: he doesn't have a truly cheerful scene throughout the entire play."
-  },
-  {
-    "word": "melee",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a wild, confusing fight or struggle.",
-    "part of speech": "noun",
-    "example": "After enduring daily taunts about my name, I became enraged and pummeled the schoolyard bully and his sycophantic friends in a brutal melee."
-  },
-  {
-    "word": "mesmerize",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to spellbind or enthrall.",
-    "part of speech": "verb",
-    "example": "The plot and the characters were so well developed that many viewers were mesmerized, unable to move their eyes from the screen for even a single second."
-  },
-  {
-    "word": "misanthrope",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a hater of mankind.",
-    "part of speech": "noun",
-    "example": "Hamilton had been deceived so many times in his life that he hid behind the gruff exterior of a. misanthrope, lambasting perfect strangers for no apparent reason."
-  },
-  {
-    "word": "miscreant",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a person who breaks the law.",
-    "part of speech": "noun",
-    "example": "Come back you miscreant! yelled the woman who just had her purse stollen."
-  },
-  {
-    "word": "miser",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a person who doesn't like to spend money (because they are greedy) Monte was no miser, but was simply frugal, wisely spending the little that he earned.",
-    "part of speech": "noun",
-    "example": ""
-  },
-  {
-    "word": "misogynist",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a person who dislikes women in particular.",
-    "part of speech": "noun",
-    "example": "Many have accused Hemingway of being a quiet misogynist, but recently unearthed letters argue against this belief."
-  },
-  {
-    "word": "moment",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "significant and important value.",
-    "part of speech": "noun",
-    "example": "Despite the initial hullabaloo, the play was of no great moment in Hampton's writing career, and within a few years the public quickly forgot his foray into theater arts. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "moot",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "open to argument or debate; undecidable in a meaningless or irrelevant way.",
-    "part of speech": "adjective",
-    "example": "Since the Board just terminated Steve as the CEO, what the finance committe might have thought of his proposed marketing plan for next year is now a moot point. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "morose",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "ill-tempered and not inclined to talk; gloomy.",
-    "part of speech": "adjective",
-    "example": "After Stanley found out he was no longer able to go on vacation with his friends, he sat in his room morosely."
-  },
-  {
-    "word": "morph",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "To undergo dramatic change in a seamless and barely noticeable fashion.",
-    "part of speech": "verb",
-    "example": "The earnestness of the daytime talk shows of the 1970's has morphed into something far more sensational and vulgar: today guests actually standup and threaten to take swings at one another."
-  },
-  {
-    "word": "muted",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "softened, subdued.",
-    "part of speech": "adjective",
-    "example": "Helen preferred muted earth colors, such as green and brown, to the bright pinks and red her sister liked. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "obdurate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "stubbornly persistent in changing an opinion or action.",
-    "part of speech": "adjective",
-    "example": "No number of pleas and bribes would get him to change his obdurate attitude."
-  },
-  {
-    "word": "obliging",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "showing a cheerful willingness to do favors for others.",
-    "part of speech": "adjective",
-    "example": "Even after all his success, I found him to be accommodating and obliging, sharing with me his \"secret tips\" on how to gain wealth and make friends."
-  },
-  {
-    "word": "obstinate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "resistant to guidance or discipline; stubbornly persistent.",
-    "part of speech": "adjective",
-    "example": "The coach suggested improvements Sarah might make on the balance beam, but she remained obstinate, unwilling to modify any of the habits that made her successful in the past."
-  },
-  {
-    "word": "ornate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "marked by elaborate rhetoric and elaborated with decorative details.",
-    "part of speech": "adjective",
-    "example": "The ornate Victorian and Edwardian homes spread throughout San Francisco are my favorite part of the city."
-  },
-  {
-    "word": "paradoxical",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "seemingly contradictory but nonetheless possibly true.",
-    "part of speech": "adjective",
-    "example": "That light could be both a particle and a wave seems paradoxical, but nonetheless, it is true."
-  },
-  {
-    "word": "pastoral",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "relating to the countryside in a pleasant sense.",
-    "part of speech": "adjective",
-    "example": "Those who imagine America's countryside as a pastoral region are often disappointed to learn that much of rural U.S. is filled with cornfields extending as far as the eye can see."
-  },
-  {
-    "word": "patronize",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "treat condescendingly.",
-    "part of speech": "verb",
-    "example": "She says she genuinely wanted to help me, but instead she patronized me, constantly pointing out how I was inferior to her. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "paucity",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a lack of something.",
-    "part of speech": "noun",
-    "example": "There is a paucity of jobs hiring today that require menial skills, since most jobs have either been automated or outsourced."
-  },
-  {
-    "word": "peevish",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "easily irritated or annoyed.",
-    "part of speech": "adjective",
-    "example": "Our office manager is peevish, so the rest of us tip-toe around him, hoping not to set off another one of his fits."
-  },
-  {
-    "word": "perennial",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "lasting an indefinitely long time; eternal; everlasting.",
-    "part of speech": "adjective",
-    "example": "Even at the old-timers games, Stan Musial would get the loudest cheer: he was a perennial favorite of the fans there. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "perpetuate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "cause to continue.",
-    "part of speech": "verb",
-    "example": "If you do not let him do things for himself, you are merely perpetuating bad habits that will be even harder to break in the future."
-  },
-  {
-    "word": "perquisite",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a right reserved exclusively by a particular person or group (especially a hereditary or official right).",
-    "part of speech": "noun",
-    "example": "Even as the dishwasher at the French restaurant, Josh quickly learned that he had the perquisite of being able to eat terrific food for half the price diners would pay."
-  },
-  {
-    "word": "pertinent",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "having precise or logical relevance to the matter at hand.",
-    "part of speech": "adjective",
-    "example": "While the salaries of the players might draw attention in the media, such monetary figures are not pertinent to the question of who plays the best on the field."
-  },
-  {
-    "word": "perturb",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "disturb in mind or cause to be worried or alarmed.",
-    "part of speech": "verb",
-    "example": "Now that Henry is recovering from a major illnesses, he no longer lets the little trivialities, such as late mail, perturb him."
-  },
-  {
-    "word": "peruse",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to read very carefully.",
-    "part of speech": "verb",
-    "example": "Instead of perusing important documents, people all too often rush to the bottom of the page and plaster their signatures at the bottom."
-  },
-  {
-    "word": "pine",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to yearn for.",
-    "part of speech": "verb",
-    "example": "Standing forlornly by the window, she pined for her lost love. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "pinnacle",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the highest point.",
-    "part of speech": "noun",
-    "example": "At its pinnacle, the Roman Empire extended across most of the landmass of Eurasia, a feat not paralleled to the rise of the British Empire in the 18th and 19th century."
-  },
-  {
-    "word": "piquant",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "having an agreeably pungent taste.",
-    "part of speech": "adjective",
-    "example": "The chef, with a mere flick of the salt shaker, turned the bland tomato soup into a piquant meal."
-  },
-  {
-    "word": "pithy",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "concise and full of meaning.",
-    "part of speech": "adjective",
-    "example": "I enjoy reading the Daodejing for its pithy and insightful prose; it always gives me something to think about."
-  },
-  {
-    "word": "pittance",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a small amount (of money).",
-    "part of speech": "noun",
-    "example": "Vinny's uncle beamed smugly about how he'd offered his nephew fifty dollars for his Harvard tuition; even twice the amount would have been a mere pittance."
-  },
-  {
-    "word": "placid",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "not easily irritated.",
-    "part of speech": "adjective",
-    "example": "Doug is normally placid, so we were all shocked to see him yelling at the television when the Mets lost the game."
-  },
-  {
-    "word": "plodding",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "(of movement) slow and laborious.",
-    "part of speech": "adjective",
-    "example": "Charlie may seem to run at a plodding pace, but he is an ultramarathoner, meaning he runs distances of up to 100 miles, and can run for ten hours at a stretch."
-  },
-  {
-    "word": "ploy",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a clever plan to turn a situation to one's advantage.",
-    "part of speech": "noun",
-    "example": "Dennis arranged an elaborate ploy, involving 14 different people lying for him in different situations, so that it could appear that he was meeting Mary completely by chance at the wedding reception."
-  },
-  {
-    "word": "powwow",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "an informal meeting or discussion.",
-    "part of speech": "noun",
-    "example": "Before the team takes the field, the coach always calls for a powwow so that he can make sure all the players are mentally in the right place."
-  },
-  {
-    "word": "precarious",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "fraught with danger.",
-    "part of speech": "adjective",
-    "example": "People smoke to relax and forget their cares, but ironically, in terms of health risks, smoking is far more precarious than either mountain-climbing or skydiving."
-  },
-  {
-    "word": "precedent",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "an example that is used to justify similar occurrences at a later time.",
-    "part of speech": "noun",
-    "example": "The principal explained that even though one student had done modelling work outside of school, the outfits that student wore in those photographs in no way established a precedent for what could be worn at school dances."
-  },
-  {
-    "word": "preempt",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "take the place of or have precedence over.",
-    "part of speech": "verb",
-    "example": "A governmental warning about an imminent terrorist attack would preempt ordinary network programming on television."
-  },
-  {
-    "word": "preemptive",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "done before someone else can do it.",
-    "part of speech": "adjective",
-    "example": "Just as Martha was about to take the only cookie left on the table, Noah preemptively swiped it."
-  },
-  {
-    "word": "presumption",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "an assumption that is taken for granted.",
-    "part of speech": "noun",
-    "example": "When Mr. Baker found out the family car was gone, he acted under the presumption that his rebellious son had taken the car, calling his son's phone and yelling at him; only later did Mr. Baker realize that Mrs. Baker had simply gone out to get her nails d."
-  },
-  {
-    "word": "presumption",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "audacious (even arrogant) behavior that you have no right to.",
-    "part of speech": "noun",
-    "example": "The new neighbor quickly gained a reptuation for her presumption; she had invited herself to several of the neighbors homes, often stopping over at inopportune times and asking for a drink."
-  },
-  {
-    "word": "presumptuous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "excessively forward.",
-    "part of speech": "adjective",
-    "example": "Many felt that Barney was presumptuous in moving into the large office before the management even made any official announcement of his promotion."
-  },
-  {
-    "word": "prevail",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "be widespread in a particular area at a particular time; be current: During the labor negotiations, an air of hostility prevailed in the office.",
-    "part of speech": "verb",
-    "example": ""
-  },
-  {
-    "word": "prevail",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "prove superior.",
-    "part of speech": "verb",
-    "example": "Before the cricket match, Australia was heavily favored, but India prevailed."
-  },
-  {
-    "word": "pristine",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "Unspoiled, untouched (usu.",
-    "part of speech": "adjective",
-    "example": "of nature). The glacial lake was pristine and we filled our canteens to drink deeply."
-  },
-  {
-    "word": "pristine",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "Immaculately clean and unused.",
-    "part of speech": "adjective",
-    "example": "Drill sergeants are known for demanding pristine cabinets, uniforms, and beds, and often make new recruits clean and clean and clean until they meet the expected high standards."
-  },
-  {
-    "word": "profuse",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "plentiful; pouring out in abundance.",
-    "part of speech": "adjective",
-    "example": "During mile 20 of the Hawaii Marathon, Dwayne was sweating so profusely that he stopped to take off his shirt, and ran the remaining six miles wearing nothing more than skimpy shorts. Note:."
-  },
-  {
-    "word": "profusion",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the property of being extremely abundant.",
-    "part of speech": "noun",
-    "example": "When Maria reported that she had been visited by Jesus Christ and had proof, a profusion of reporters. and journalists descended on the town."
-  },
-  {
-    "word": "proponent",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a person who pleads for a cause or propounds an idea.",
-    "part of speech": "noun",
-    "example": "Ironically, the leading proponent of Flat-Earth Theory flies all over the world in an effort to win more adherents."
-  },
-  {
-    "word": "provisional",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "under terms not final or fully worked out or agreed upon.",
-    "part of speech": "adjective",
-    "example": "Until the corporate office hands down a definitive decision on use of the extra offices, we will share their use in a provisional arrangement."
-  },
-  {
-    "word": "pugnacious",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "eager to fight or argue; verbally combative.",
-    "part of speech": "adjective",
-    "example": "The comedian told one flat joke after another, and when the audience started booing, he pugnaciously back at them, \"Hey, you think this is easy -- why don\"t you buffoons give it a shot?\"."
-  },
-  {
-    "word": "qualm",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "uneasiness about the fitness of an action.",
-    "part of speech": "noun",
-    "example": "While he could articulate no clear reason why Harkner's plan would fail, he neverless felt qualms about committing any resources to it."
-  },
-  {
-    "word": "quandary",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options.",
-    "part of speech": "noun",
-    "example": "Steve certainly is in a quandary: if he doesn't call Elaine, she will blame him for everything, but if he does call her, the evidence of where he currently is could cost him his job."
-  },
-  {
-    "word": "quip",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a witty saying or remark.",
-    "part of speech": "noun",
-    "example": "In one of the most famous quips about classical music, Mark Twain said: \"Wagner's music is better than it sounds.\"."
-  },
-  {
-    "word": "raffish",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "marked by a carefree unconventionality or disreputableness.",
-    "part of speech": "adjective",
-    "example": "The men found him raffish, but the women adored his smart clothes and casual attitude."
-  },
-  {
-    "word": "raft",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a large number of something.",
-    "part of speech": "noun",
-    "example": "Despite a raft of city ordinances passed by an overzealous council, noise pollution continued unabated in the megalopolis. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "rakish",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "marked by a carefree unconventionality or disreputableness.",
-    "part of speech": "adjective",
-    "example": "As soon as he arrived in the city, the rakish young man bought some drugs and headed straight for the seedy parts of town."
-  },
-  {
-    "word": "rankle",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "gnaw into; make resentful or angry.",
-    "part of speech": "verb",
-    "example": "His constant whistling would rankle her, sometimes causing her to leave in a huff."
-  },
-  {
-    "word": "rash",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "marked by defiant disregard for danger or consequences; imprudently incurring risk Although Bruce was able to make the delivery in time with a nightime motorcycle ride in the rain, Susan.",
-    "part of speech": "adjective",
-    "example": "criticized his actions as rash. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "redress",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "an act of making something right.",
-    "part of speech": "noun",
-    "example": "Barry forgot his wife's birthday two years in a row, and was only able to redress his oversight by surprising his wife with a trip to Tahiti. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "relegate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "assign to a lower position.",
-    "part of speech": "verb",
-    "example": "When Dexter was unable to fulfill his basic duties, instead of firing him, the boss relegated him to kitchen cleanup."
-  },
-  {
-    "word": "remiss",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to be negligent in one\"s duty.",
-    "part of speech": "adjective",
-    "example": "Remiss in his duty to keep the school functioning efficiently, the principle was relieved of his position after only three months."
-  },
-  {
-    "word": "renege",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "fail to fulfill a promise or obligation.",
-    "part of speech": "verb",
-    "example": "We will no longer work with that vendor since it has reneged on nearly every agreement."
-  },
-  {
-    "word": "replete",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "completely stocked or furnished with something.",
-    "part of speech": "adjective",
-    "example": "Only weeks after the hurricane made landfall, the local supermarket shelves were replete with goods, so quick was the disaster relief response."
-  },
-  {
-    "word": "reprobate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a person who is disapproved of.",
-    "part of speech": "noun",
-    "example": "Those old reprobates drinking all day down by the river--they are not going to amount to much."
-  },
-  {
-    "word": "reservation",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "an unstated doubt that prevents you from accepting something wholeheartedly.",
-    "part of speech": "noun",
-    "example": "I was initially excited by the idea of a trip to Washington, D.C. but now that I have read about the high crime statistics there, I have some reservations. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "resignation",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the acceptance of something unpleasant that can't be avoided.",
-    "part of speech": "noun",
-    "example": "Since Jack could not think of a convincing reason why he had to miss the seminar, he attended it with a sense of resignation. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "resolve",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "reach a conclusion after a discussion or deliberation.",
-    "part of speech": "verb",
-    "example": "After much thought, Ted resolved not to travel abroad this summer because he didn't have much money in his bank account. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "respite",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a pause from doing something (as work).",
-    "part of speech": "noun",
-    "example": "Every afternoon, the small company has a respite in which workers play foosball or board games."
-  },
-  {
-    "word": "retiring",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to be shy, and to be inclined to retract from company.",
-    "part of speech": "adjective",
-    "example": "Nelson was always the first to leave soirees--rather than mill about with \"fashionable\" folk, he was retiring, and preferred the solitude of his garret."
-  },
-  {
-    "word": "retract",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "pull inward or towards a center; formally reject or disavow a formerly held belief, usually under pressure.",
-    "part of speech": "verb",
-    "example": "Email is wonderfully efficient, but once something awkward or damaging has been sent, there is no way to retract it."
-  },
-  {
-    "word": "rile",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "cause annoyance in; disturb, especially by minor irritations.",
-    "part of speech": "verb",
-    "example": "Dan is usually calm and balanced, but it takes only one intense glare from Sabrina to rile him."
-  },
-  {
-    "word": "robust",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "sturdy and strong in form, constitution, or construction.",
-    "part of speech": "adjective",
-    "example": "Chris preferred bland and mild beers, but Bhavin preferred a beer with more robust flavor."
-  },
-  {
-    "word": "sanctimonious",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "making a show of being pious; holier-than-thou.",
-    "part of speech": "adjective",
-    "example": "Even during the quiet sanctity of evening prayer, she held her chin high, a sanctimonious sneer forming on her face as she eyed those who were attending church for the first time."
-  },
-  {
-    "word": "sanguine",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "cheerful; optimistic.",
-    "part of speech": "adjective",
-    "example": "With the prospect of having to learn 3,000 words during the course of the summer, Paul was anything but sanguine."
-  },
-  {
-    "word": "savvy",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a perceptive understanding.",
-    "part of speech": "noun",
-    "example": "Although a great CEO, he did not have the political savvy to win the election."
-  },
-  {
-    "word": "savvy",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "get the meaning of something.",
-    "part of speech": "verb",
-    "example": "The student savvies the meaning of astrophysics with little effort."
-  },
-  {
-    "word": "savvy",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "well-informed or perceptive.",
-    "part of speech": "adjective",
-    "example": "With his savvy business partner, the company was able to turn a profit within a year."
-  },
-  {
-    "word": "scintillating",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "describes someone who is brilliant and lively.",
-    "part of speech": "adjective",
-    "example": "Richard Feynman was renowned for his scintillating lectures--the arcana of quantum physics was made lucid as he wrote animatedly on the chalkboard."
-  },
-  {
-    "word": "screed",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "an abusive rant (often tedious).",
-    "part of speech": "noun",
-    "example": "Joey had difficulty hanging out with his former best friend Perry, who, during his entire cup of coffee, enumerated all of the government's deficiencies--only to break ranks and launch into some screed against big business."
-  },
-  {
-    "word": "sentimental",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "effusively or insincerely emotional, especially in art, music, and literature.",
-    "part of speech": "adjective",
-    "example": "I don't like romanticism for the same reason I don't like melodramatic acting and soap operas--overly sentimental."
-  },
-  {
-    "word": "serendipity",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the instance in which an accidental, fortunate discovery is made.",
-    "part of speech": "noun",
-    "example": "The invention of the 3M Post It Note was serendipitous, because the scientist who had come up with the. idea was looking for a strong adhesive; the weak adhesive he came up with was perfect for holding a piece of paper in place but made it very easy for so."
-  },
-  {
-    "word": "serene",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "calm and peaceful.",
-    "part of speech": "adjective",
-    "example": "I'd never seen him so serene; usually, he was a knot of stress and anxiety from hours of trading on the stock exchange."
-  },
-  {
-    "word": "slapdash",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "carelessly and hastily put together.",
-    "part of speech": "adjective",
-    "example": "The office building had been constructed in a slapdash manner, so it did not surprise officials when, during a small earthquake, a large crack emerged on the faÃ§ade of the building."
-  },
-  {
-    "word": "smattering",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a slight or superficial understanding of a subject; a small amount of something.",
-    "part of speech": "noun",
-    "example": "I know only a smattering of German, but Helen is able to read German newspapers and converse with natives."
-  },
-  {
-    "word": "smug",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "marked by excessive complacency or self-satisfaction.",
-    "part of speech": "adjective",
-    "example": "When Phil was dating the model, he had a smug attitude that annoyed his buddies."
-  },
-  {
-    "word": "snide",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "expressive of contempt; derogatory or mocking in an indirect way.",
-    "part of speech": "adjective",
-    "example": "The chairman interpreted Taylor's question about promotions as a snide remark, but in all innocence Taylor was trying to figure out the company's process."
-  },
-  {
-    "word": "snub",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "refuse to acknowledge; reject outright and bluntly.",
-    "part of speech": "verb",
-    "example": "Wheeler was completely qualified for the committee, but the board snubbed him, choosing an obviously lesser qualified candidate instead."
-  },
-  {
-    "word": "sordid",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "involving ignoble actions and motives; arousing moral distaste and contempt; foul and run-down and repulsive.",
-    "part of speech": "adjective",
-    "example": "The nightly news simply announced that the senator had had an affair, but the tabloid published all the sordid details of the interaction. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "spendthrift",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "one who spends money extravagantly.",
-    "part of speech": "noun",
-    "example": "Taking weekly trips to Vegas, Megan was a spendthrift whose excesses eventually caught up to her."
-  },
-  {
-    "word": "spurn",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "reject with contempt.",
-    "part of speech": "verb",
-    "example": "She spurned all his flattery and proposals, and so he walked off embarrassed and sad."
-  },
-  {
-    "word": "squander",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "spend thoughtlessly; waste time, money, or an opportunity.",
-    "part of speech": "verb",
-    "example": "Fearing his money would be squandered by his family, he gave all of it to charity when he died."
-  },
-  {
-    "word": "staid",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "characterized by dignity and propriety.",
-    "part of speech": "adjective",
-    "example": "Frank came from a staid enviroment, so he was shocked that his college rooommate sold narcotics."
-  },
-  {
-    "word": "start",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to suddenly move in a particular direction.",
-    "part of speech": "verb",
-    "example": "All alone in the mansion, Henrietta started when she heard a sound. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "steadfast",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "marked by firm determination or resolution; not shakable.",
-    "part of speech": "adjective",
-    "example": "A good captain needs to be steadfast, continuing to hold the wheel and stay the course even during the most violent storm."
-  },
-  {
-    "word": "stem",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to hold back or limit the flow or growth of something.",
-    "part of speech": "verb",
-    "example": "To stem the tide of applications, the prestigious Ivy requires that each applicant score at least 330 on the Revised GRE. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "stipend",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a regular allowance (of money).",
-    "part of speech": "noun",
-    "example": "He was hoping for a monthly allowance loan from the government, but after no such stipend was forthcoming he realized he would have to seek other means of paying for his college tuition."
-  },
-  {
-    "word": "stolid",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "having or revealing little emotion or sensibility; not easily aroused or excited Elephants may appear stolid to casual observers, but they actually have passionate emotional lives.",
-    "part of speech": "adjective",
-    "example": ""
-  },
-  {
-    "word": "stymie",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "hinder or prevent the progress or accomplishment of.",
-    "part of speech": "verb",
-    "example": "The engineers found their plans stymied at every turn and were ultimately able to make amlost no progress on the project."
-  },
-  {
-    "word": "summit",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the peak or highest point.",
-    "part of speech": "noun",
-    "example": "After hiking for two days, the climbers finally reached the summit of Mount Kilimanjaro."
-  },
-  {
-    "word": "summit",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a meeting of high-level leaders.",
-    "part of speech": "noun",
-    "example": "Since climate change policy has been mired in congressional fighting, this summit should help set the goals for president's next term."
-  },
-  {
-    "word": "surly",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "inclined to anger or bad feelings with overtones of menace.",
-    "part of speech": "adjective",
-    "example": "Every morning, Bhavin was a surly unhappy person, but once he ate breakfast, he became loving, laughing, and a joy to be around."
-  },
-  {
-    "word": "tact",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "consideration in dealing with others and avoiding giving offense.",
-    "part of speech": "noun",
-    "example": "In a tremendous display of tact, Shelly was able to maintain a strong friendship with Marcia, even though Marcia's husband, Frank, confessed to finding Shelley more attractive than Marcia."
-  },
-  {
-    "word": "tarnish",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "make dirty or spotty, as by exposure to air; also used metaphorically.",
-    "part of speech": "verb",
-    "example": "Pete Rose was one of the best baseball players of his generation, but his involvement with gambling on baseball games has tarnished his image in the eyes of many."
-  },
-  {
-    "word": "tawdry",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "tastelessly showy; cheap and shoddy.",
-    "part of speech": "adjective",
-    "example": "Carol expected to find New York City magical, the way so many movies had portrayed it, but she was. surprised how often tawdry displays took the place of genuine elegance."
-  },
-  {
-    "word": "taxing",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "use to the limit; exhaust.",
-    "part of speech": "adjective",
-    "example": "The hike to the summit of Mt. Whitney was so taxing that I could barely speak or stand up. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "telling",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "significant and revealing of another factor.",
-    "part of speech": "adjective",
-    "example": "Her unbecoming dress was very telling when it came to her sense of fashion."
-  },
-  {
-    "word": "telltale",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "revealing.",
-    "part of speech": "adjective",
-    "example": "The many telltale signs of chronic smoking include yellow teeth, and a persistent, hacking cough."
-  },
-  {
-    "word": "tender",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "offer up something formally.",
-    "part of speech": "verb",
-    "example": "The government was loath to tender more money in the fear that it might set off inflation. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "thoroughgoing",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "very thorough; complete.",
-    "part of speech": "adjective",
-    "example": "As a thoroughgoing bibliophile, one who had turned his house into a veritable library, he shocked his friends when he bought a Kindle."
-  },
-  {
-    "word": "thrifty",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "spending money wisely.",
-    "part of speech": "adjective",
-    "example": "He was economical, spending his money thriftily and on items considered essential."
-  },
-  {
-    "word": "thwart",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "hinder or prevent (the efforts, plans, or desires) of.",
-    "part of speech": "verb",
-    "example": "I wanted to spend a week in New York this autumn, but the high costs of travel and lodging thwarted my plans."
-  },
-  {
-    "word": "tirade",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "an angry speech.",
-    "part of speech": "noun",
-    "example": "In terms of political change, a tirade oftentimes does little more than make the person speaking red in the face."
-  },
-  {
-    "word": "tout",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "advertize in strongly positive terms; show off.",
-    "part of speech": "verb",
-    "example": "At the conference, the CEO touted the extraordinary success of his company's Research & Development division."
-  },
-  {
-    "word": "transitory",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "lasting a very short time.",
-    "part of speech": "adjective",
-    "example": "If we lived forever and life was not transitory, do you think we would appreciate life less or more?."
-  },
-  {
-    "word": "travail",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "use of physical or mental energy; hard work; agony or anguish.",
-    "part of speech": "noun",
-    "example": "While they experienced nothing but travails in refinishing the kitchen, they completed the master bedroom in less than a weekend."
-  },
-  {
-    "word": "tribulation",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "something, especially an event, that causes difficulty and suffering.",
-    "part of speech": "noun",
-    "example": "As of 2013, nearly 1.5 million Syrians have fled their country hoping to escape the tribulations of a civil war tearing their country to pieces."
-  },
-  {
-    "word": "tumult",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a state of chaos, noise and confusion.",
-    "part of speech": "noun",
-    "example": "Riots broke out just in front of our apartment building, and the tumult continued late into the night."
-  },
-  {
-    "word": "uncanny",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "suggesting the operation of supernatural influences; surpassing the ordinary or normal.",
-    "part of speech": "adjective",
-    "example": "Reggie has an uncanny ability to connect with animals: feral cats will readily approach him, and sometimes even wild birds will land on his finger."
-  },
-  {
-    "word": "uncompromising",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "not making concessions.",
-    "part of speech": "adjective",
-    "example": "The relationship between Bart and Hilda ultimately failed because they were both so uncompromising, never wanting to change their opinions."
-  },
-  {
-    "word": "unconscionable",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "unreasonable; unscrupulous; excessive.",
-    "part of speech": "adjective",
-    "example": "The lawyer's demands were so unconscionable that rather than pay an exorbitant sum or submit himself to any other inconveniences, the defendant decided to find a new lawyer."
-  },
-  {
-    "word": "underwrite",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to support financially.",
-    "part of speech": "verb",
-    "example": "The latest symphony broadcast was made possible with underwriting from the Carnegie Endowment."
-  },
-  {
-    "word": "unnerve",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to make nervous or upset.",
-    "part of speech": "verb",
-    "example": "At one time unnerved by math problems, she began avidly \"Magoosh-ing\", and soon became adept at even combinations and permutations questions."
-  },
-  {
-    "word": "unprecedented",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "having never been done or known before; novel.",
-    "part of speech": "adjective",
-    "example": "When America first created its national parks, the idea of setting aside the most beautiful land in a country was unprecedented in the history of mankind."
-  },
-  {
-    "word": "unruly",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "(of persons) noisy and lacking in restraint or discipline; unwilling to submit to authority.",
-    "part of speech": "adjective",
-    "example": "Walk in to any preschool and I am sure that you will find an unruly and chaotic scene--unless it's nap time."
-  },
-  {
-    "word": "unseemly",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "not in keeping with accepted standards of what is right or proper in polite society He acted in an unseemly manner, insulting the hostess and then speaking ill of her deceased husband.",
-    "part of speech": "adjective",
-    "example": ""
-  },
-  {
-    "word": "urbane",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "showing a high degree of refinement and the assurance that comes from wide social experience.",
-    "part of speech": "adjective",
-    "example": "Because of his service as an intelligence officer and his refined tastes, W. Somerset Maugham became the inspiration for the urbane and sophistcate spy James Bond."
-  },
-  {
-    "word": "vacuous",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "devoid of intelligence, matter, or significance.",
-    "part of speech": "adjective",
-    "example": "To the journalist's pointed question, the senator gave a vacuous response, mixing a few of his overall. campaign slogans with platitudes and completely avoiding the controversial subject of the question."
-  },
-  {
-    "word": "vanquish",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "come out better in a competition, race, or conflict.",
-    "part of speech": "verb",
-    "example": "For years, Argentina would dominate in World Cup qualifying matches, only to be vanquished by one of the European countries during the late stages of the tournament."
-  },
-  {
-    "word": "variance",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the quality of varying.",
-    "part of speech": "noun",
-    "example": "The cynic quipped, \"There is not much variance in politicians; they all seem to prevaricate\"."
-  },
-  {
-    "word": "veneer",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "covering consisting of a thin superficial layer that hides the underlying substance Mark Twain referred to the Victorian Period in America as the \"Gilded Age\", implying the ample moral corruption that lay beneath a mere veneer of respectability.",
-    "part of speech": "noun",
-    "example": ""
-  },
-  {
-    "word": "vicarious",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "felt or undergone as if one were taking part in the experience or feelings of another.",
-    "part of speech": "adjective",
-    "example": "The advent of twitter is a celebrity stalker's dream, as he or she can--through hundreds of intimate \"tweets\"--vicariously live the life of a famous person."
-  },
-  {
-    "word": "vie",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "compete for something.",
-    "part of speech": "verb",
-    "example": "While the other teams in the division actively vie for the championship, this team seems content simply to go through the motions of playing."
-  },
-  {
-    "word": "vindictive",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to have a very strong desire for revenge.",
-    "part of speech": "adjective",
-    "example": "Though the other girl had only lightly poked fun of Vanessa's choice in attire, Vanessa was so vindictive that she waited for an entire semester to get the perfect revenge."
-  },
-  {
-    "word": "virago",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "an ill-tempered or violent woman.",
-    "part of speech": "noun",
-    "example": "Poor Billy was the victim of the virago's invective--she railed at him for a good 30-minutes about how he is the scum of the earth for speaking loudly on his cellphone in public."
-  },
-  {
-    "word": "voracious",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "very hungry; approaching an activity with gusto.",
-    "part of speech": "adjective",
-    "example": "Steven was a voracious reader, sometimes finishing two novels in the same day."
-  },
-  {
-    "word": "wanton",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "without check or limitation; showing no moral restraints to one's anger, desire, or appetites.",
-    "part of speech": "adjective",
-    "example": "Due to wanton behavior and crude language, the drunk man was thrown out of the bar and asked to never return."
-  },
-  {
-    "word": "wax",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to gradually increase in size or intensity.",
-    "part of speech": "verb",
-    "example": "Her enthusiasm for the diva's new album only waxed with each song; by the end of the album, it was her favorite CD yet. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "whimsical",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "determined by impulse or whim rather than by necessity or reason.",
-    "part of speech": "adjective",
-    "example": "Adults look to kids and envy their whimsical nature at times, wishing that they could act without reason and play without limitation."
-  },
-  {
-    "word": "zenith",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the highest point; culmination.",
-    "part of speech": "noun",
-    "example": "At the zenith of his artistic career, Elvis was outselling any other artist on the charts. Advanced Words."
-  },
-  {
-    "word": "abjure",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "formally reject or give up (as a belief).",
-    "part of speech": "verb",
-    "example": "While the church believed that Galileo abjured the heliocentric theory under threat of torture, he later wrote a book clearly supporting the theory."
-  },
-  {
-    "word": "abrogate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "revoke formally.",
-    "part of speech": "verb",
-    "example": "As part of the agreement between the labor union and the company, the workers abrogated their right to strike for four years in exchange for better health insurance."
-  },
-  {
-    "word": "adjudicate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to serve as a judge in a competition; to arrive at a judgment or conclusion.",
-    "part of speech": "verb",
-    "example": "Only those with the most refined palates were able to adjudicate during the barbeque competition."
-  },
-  {
-    "word": "afford",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "provide with an opportunity.",
-    "part of speech": "verb",
-    "example": "The summit of Mt. Kilimanjaro affords a panoramic view that encompasses both Tanzania and Kenya. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "alacrity",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "an eager willingness to do something.",
-    "part of speech": "noun",
-    "example": "The first three weeks at his new job, Mark worked with such alacrity that upper management knew it would be giving him a promotion."
-  },
-  {
-    "word": "anachronism",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "something that is inappropriate for the given time period (usually something old).",
-    "part of speech": "noun",
-    "example": "Dressed in 15th century clothing each day, Edward was a walking anachronism."
-  },
-  {
-    "word": "anathema",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a detested person; the source of somebody's hate.",
-    "part of speech": "noun",
-    "example": "Hundreds of years ago, Galileo was anathema to the church; today the church is anathema to some on the left side of the political spectrum."
-  },
-  {
-    "word": "anemic",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "lacking energy and vigor.",
-    "part of speech": "adjective",
-    "example": "After three straight shows, the lead actress gave an anemic performance the fourth night, barely speaking loudly enough for those in the back rows to hear."
-  },
-  {
-    "word": "anodyne",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "something that soothes or relieves pain.",
-    "part of speech": "noun",
-    "example": "Muzak, which is played in department stores, is intended to be an anodyne, but is often so cheesy and over-the-top that customers become irritated."
-  },
-  {
-    "word": "anodyne",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "inoffensive.",
-    "part of speech": "adjective",
-    "example": "Wilbur enjoyed a spicy Mexican breakfast, but Jill prefered a far more anodyne meal in the mornings."
-  },
-  {
-    "word": "antic",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "ludicrously odd.",
-    "part of speech": "adjective",
-    "example": "The clown's antic act was too extreme for the youngest children, who left the room in tears. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "aplomb",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "great coolness and composure under strain.",
-    "part of speech": "noun",
-    "example": "Nancy acted with aplomb during dangerous situations--she once calmly climbed up an oak tree to save a. cat."
-  },
-  {
-    "word": "apogee",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "the highest point.",
-    "part of speech": "noun",
-    "example": "The apogee of the Viennese style of music, Mozart's music continues to mesmerize audiences well into the 21st century."
-  },
-  {
-    "word": "apostate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a person who has abandoned a religious faith or cause.",
-    "part of speech": "noun",
-    "example": "An apostate of the Republican Party, Sheldon has yet to become affiliated with any party and dubs himself an independent."
-  },
-  {
-    "word": "apothegm",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a short, pithy instructive saying.",
-    "part of speech": "noun",
-    "example": "Winston Churchill is famous for many apothegms, but this might be his most famous: \"It has been said that democracy is the worst form of government except all the others that have been tried.\"."
-  },
-  {
-    "word": "apotheosis",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "exaltation to divine status; the highest point of development.",
-    "part of speech": "noun",
-    "example": "As difficult as it is to imagine, the apotheosis of Mark Zuckerberg's career, many believe, is yet to come."
-  },
-  {
-    "word": "approbatory",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "expressing praise or approval.",
-    "part of speech": "adjective",
-    "example": "Although it might not be her best work, Hunter's new novel has received generally approbatory reviews."
-  },
-  {
-    "word": "appropriate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to give or take something by force.",
-    "part of speech": "verb",
-    "example": "The government appropriated land that was occupied by squatters, sending them scurrying for another place to live. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "appropriate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to allocate.",
-    "part of speech": "verb",
-    "example": "The committe appropriated the funds to its various members. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "appurtenant",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "supply added support.",
-    "part of speech": "adjective",
-    "example": "In hiking Mt. Everest, sherpas are appurtenant, helping climbers both carry gear and navigate treacherous paths."
-  },
-  {
-    "word": "arch",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "to be deliberately teasing.",
-    "part of speech": "adjective",
-    "example": "The baroness was arch, making playful asides to the townspeople; yet because they couldn't pick up on her dry humor, they thought her supercilious. This word has other definitions but this is the most important one for the GRE."
-  },
-  {
-    "word": "arrant",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "complete and wholly (usually modifying a noun with negative connotation).",
-    "part of speech": "adjective",
-    "example": "An arrant fool, Lawrence surprised nobody when he lost all his money in a pyramid scheme that was every bit as transparent as it was corrupt."
-  },
-  {
-    "word": "arriviste",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "a person who has recently reached a position of power; a social climber.",
-    "part of speech": "noun",
-    "example": "The city center was aflutter with arrivistes who each tried to outdo one another with their ostentatious sports cars and chic evening dress."
-  },
-  {
-    "word": "arrogate",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "seize and control without authority.",
-    "part of speech": "verb",
-    "example": "Arriving at the small town, the outlaw arrogated the privileges of a lord, asking the frightened citizens to provide food, drink, and entertainment."
-  },
-  {
-    "word": "artifice",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "cunning tricks used to deceive others.",
-    "part of speech": "noun",
-    "example": "The mayoral candidates both spent much of the campaign accusing each other of artifices designed to mislead the voting public."
-  },
-  {
-    "word": "artless",
-    "pronunciation": "",
-    "bangla": "",
-    "similar word": "",
-    "definition": "without cunning or deceit.",
-    "part of speech": "adjective",
-    "example": "Despite the president's seemingly artless speeches, he was a skilled and ruthless negotiator."
-  },
+  "word": "tortuous",
+  "pronunciation": "",
+  "bangla": "জটিল ও ঘুরপ্যাঁচযুক্ত; সোজাসাপ্টা নয়",
+  "similar word": "",
+  "definition": "marked by repeated turns and bends; not straightforward.",
+  "part of speech": "adjective",
+  "example": "Because the logic behind McMahon's side of the debate was so tortuous, his audience came out either completely confused or, worse, feeling they'd been tricked."
+},
+{
+  "word": "tractable",
+  "pronunciation": "",
+  "bangla": "সহজে নিয়ন্ত্রণযোগ্য; সহজে প্রভাবিত বা শেখানো যায় এমন",
+  "similar word": "",
+  "definition": "readily reacting to suggestions and influences; easily managed (controlled or taught or molded).",
+  "part of speech": "adjective",
+  "example": "Compared to middle school students, who have an untamed wildness about them, high school students are somewhat more tractable."
+},
+{
+  "word": "transient",
+  "pronunciation": "",
+  "bangla": "ক্ষণস্থায়ী; অল্প সময়ের জন্য স্থায়ী",
+  "similar word": "",
+  "definition": "lasting a very short time.",
+  "part of speech": "adjective",
+  "example": "The unpredictable and transient nature of deja vu makes it a very difficult phenomenon to study properly."
+},
+{
+  "word": "travesty",
+  "pronunciation": "",
+  "bangla": "বিকৃত বা হাস্যকর উপস্থাপনা; বিদ্রূপ",
+  "similar word": "",
+  "definition": "an absurd presentation of something; a mockery.",
+  "part of speech": "noun",
+  "example": "What I expected to be an intelligent, nuanced historical documentary turned out to be a poorly-produced travesty of the form."
+},
+{
+  "word": "treacherous",
+  "pronunciation": "",
+  "bangla": "বিশ্বাসঘাতক; প্রতারণাপূর্ণ",
+  "similar word": "",
+  "definition": "tending to betray.",
+  "part of speech": "adjective",
+  "example": "Even though Jesse James was an outlaw, his killer, Robert Ford, is remembered more for his treacherous actions than for eliminating a criminal and murder."
+},
+{
+  "word": "treacherous",
+  "pronunciation": "",
+  "bangla": "বিপজ্জনক ও অনিশ্চিত",
+  "similar word": "",
+  "definition": "dangerously unstable and unpredictable.",
+  "part of speech": "adjective",
+  "example": "The bridge built from twine and vine is treacherous to walk across, and so I think I will stay put right here."
+},
+{
+  "word": "trite",
+  "pronunciation": "",
+  "bangla": "অতিমাত্রায় ব্যবহৃত; মামুলি",
+  "similar word": "",
+  "definition": "repeated too often; overfamiliar through overuse.",
+  "part of speech": "adjective",
+  "example": "Many style guides recommend not using idioms in writing because these trite expressions are uninteresting and show a lack of imagination on the part of the writer."
+},
+{
+  "word": "truncate",
+  "pronunciation": "",
+  "bangla": "ছাঁটাই করা; সংক্ষিপ্ত করা",
+  "similar word": "",
+  "definition": "reduce the length of something.",
+  "part of speech": "verb",
+  "example": "The soccer game was truncated when the monsoon rain began to fall."
+},
+{
+  "word": "undermine",
+  "pronunciation": "",
+  "bangla": "ধীরে ধীরে দুর্বল করা; ভিত নষ্ট করা",
+  "similar word": "",
+  "definition": "to weaken (usually paired with an abstract term).",
+  "part of speech": "adjective",
+  "example": "The student undermined the teacher's authority by questioning the teacher's judgment on numerous occasions."
+},
+{
+  "word": "underscore",
+  "pronunciation": "",
+  "bangla": "গুরুত্ব জোর দিয়ে বলা; বিশেষভাবে উল্লেখ করা",
+  "similar word": "",
+  "definition": "give extra weight to (a communication).",
+  "part of speech": "verb",
+  "example": "While the hiking instructor agreed that carrying a first aid kit could be a good idea under certain circumstances, he underscored the importance of carrying enough water."
+},
+{
+  "word": "unequivocal",
+  "pronunciation": "",
+  "bangla": "স্পষ্ট ও দ্ব্যর্থহীন",
+  "similar word": "",
+  "definition": "admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion.",
+  "part of speech": "adjective",
+  "example": "The President's first statement on the subject was vague and open to competing interpretations, so when he spoke to Congress about the same subject later, he was cafeful to make his position completely unequivocal."
+},
+{
+  "word": "unscrupulous",
+  "pronunciation": "",
+  "bangla": "নৈতিকতাহীন; অসাধু",
+  "similar word": "",
+  "definition": "without scruples or principles.",
+  "part of speech": "adjective",
+  "example": "In the courtroom, the lawyer was unscrupulous, using every manner of deceit and manipulation to secure a victory for himself."
+},
+{
+  "word": "upbraid",
+  "pronunciation": "",
+  "bangla": "তিরস্কার করা; বকাঝকা করা",
+  "similar word": "",
+  "definition": "to reproach; to scold.",
+  "part of speech": "verb",
+  "example": "Bob took a risk walking into the \"Students Barbershop\"--in the end he had to upbraid the apparently drunk barber for giving him an uneven bowl cut."
+},
+{
+  "word": "vacillate",
+  "pronunciation": "",
+  "bangla": "দোদুল্যমান থাকা; সিদ্ধান্তহীনতায় ভোগা",
+  "similar word": "",
+  "definition": "be undecided about something; waver between conflicting positions or courses of action.",
+  "part of speech": "verb",
+  "example": "Some students vacillate between schools when deciding which to attend, while others focus only on one school. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "vehement",
+  "pronunciation": "",
+  "bangla": "তীব্র ও প্রবল আবেগপূর্ণ",
+  "similar word": "",
+  "definition": "marked by extreme intensity of emotions or convictions.",
+  "part of speech": "adjective",
+  "example": "While the other employees responded to the bad news in a measured way, Andrew responded in a vehement manner, tipping over his desk and shouting at the top of his lungs."
+},
+{
+  "word": "venality",
+  "pronunciation": "",
+  "bangla": "ঘুষগ্রহণপ্রবণতা; দুর্নীতিপরায়ণতা",
+  "similar word": "",
+  "definition": "the condition of being susceptible to bribes or corruption.",
+  "part of speech": "noun",
+  "example": "Even some of the most sacrosanct sporting events are not immune to venality, as many of the officials have received substantial bribes to make biased calls."
+},
+{
+  "word": "venerate",
+  "pronunciation": "",
+  "bangla": "গভীর শ্রদ্ধা করা",
+  "similar word": "",
+  "definition": "to respect deeply.",
+  "part of speech": "verb",
+  "example": "The professor, despite his soporific lectures, was venerated amongst his colleagues, publishing more papers yearly than all of his peers combined."
+},
+{
+  "word": "veracious",
+  "pronunciation": "",
+  "bangla": "সত্যবাদী",
+  "similar word": "",
+  "definition": "truthful.",
+  "part of speech": "adjective",
+  "example": "While we elect our leaders in the hope that every word they speak will be veracious, history has shown that such a hope is naive."
+},
+{
+  "word": "vilify",
+  "pronunciation": "",
+  "bangla": "কুৎসা রটানো; বদনাম করা",
+  "similar word": "",
+  "definition": "spread negative information about.",
+  "part of speech": "verb",
+  "example": "Todd was noble after the divorce, choosing to say only complimentary things about Barbara, but Barbara did not hesitate to vilify Todd."
+},
+{
+  "word": "vindicate",
+  "pronunciation": "",
+  "bangla": "নির্দোষ প্রমাণ করা; অভিযোগমুক্ত করা",
+  "similar word": "",
+  "definition": "to clear of accusation, blame, suspicion, or doubt with supporting arguments or proof Even seven Tour de France wins cannot vindicate Lance Armstrong in the eyes of the public--that the athlete used performance enhancing drugs invalidates all those wins.",
+  "part of speech": "verb",
+  "example": ""
+},
+{
+  "word": "vociferous",
+  "pronunciation": "",
+  "bangla": "উচ্চস্বরে ও তীব্রভাবে প্রতিবাদী",
+  "similar word": "",
+  "definition": "conspicuously and offensively loud; given to vehement outcry.",
+  "part of speech": "adjective",
+  "example": "In giving Marcia a particular vociferous response, Paul caused people at every other table in the restaurant to turn around an look at them angrily."
+},
+{
+  "word": "volubility",
+  "pronunciation": "",
+  "bangla": "অনর্গল কথা বলার ক্ষমতা",
+  "similar word": "",
+  "definition": "the quality of talking or writing easily and continuously.",
+  "part of speech": "noun",
+  "example": "The professor's volubility knows no bounds; he could talk through a hurricane and elaborate a point from one St. Patrick's Day to the next."
+},
+{
+  "word": "wanting",
+  "pronunciation": "",
+  "bangla": "অভাবগ্রস্ত; অপর্যাপ্ত",
+  "similar word": "",
+  "definition": "lacking.",
+  "part of speech": "adjective",
+  "example": "She did not think her vocabulary was wanting, yet there were so many words that inevitably she found a few she didn't know."
+},
+{
+  "word": "winsome",
+  "pronunciation": "",
+  "bangla": "মোহনীয় ও আকর্ষণীয়",
+  "similar word": "",
+  "definition": "charming in a childlike or naive way.",
+  "part of speech": "adjective",
+  "example": "She was winsome by nature, and many people were drawn to this free and playful spirit. Basic Words."
+},
+{
+  "word": "aboveboard",
+  "pronunciation": "",
+  "bangla": "খোলামেলা ও সৎ",
+  "similar word": "",
+  "definition": "open and honest.",
+  "part of speech": "adjective",
+  "example": "The mayor, despite his avuncular face plastered about the city, was hardly aboveboard -- some concluded that it was his ingratiating smile that allowed him to engage in corrupt behavior and get away with it."
+},
+{
+  "word": "abysmal",
+  "pronunciation": "",
+  "bangla": "অত্যন্ত খারাপ; শোচনীয়",
+  "similar word": "",
+  "definition": "extremely bad.",
+  "part of speech": "adjective",
+  "example": "Coach Ramsey took his newest player off the field after watching a few painful minutes of her abysmal performance."
+},
+  {
+  "word": "acme",
+  "pronunciation": "",
+  "bangla": "চূড়ান্ত শিখর",
+  "similar word": "",
+  "definition": "the highest point of achievement.",
+  "part of speech": "noun",
+  "example": "The new Cessna airplanes will be the acme of comfort, offering reclining seats and ample legroom."
+},
+{
+  "word": "advocate",
+  "pronunciation": "",
+  "bangla": "পক্ষে কথা বলা",
+  "similar word": "",
+  "definition": "speak, plead, or argue in favor of.",
+  "part of speech": "verb",
+  "example": "While the senator privately approved of gay marriage, he was unwilling to advocate for the cause in a public venue. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "advocate",
+  "pronunciation": "",
+  "bangla": "সমর্থক",
+  "similar word": "",
+  "definition": "a person who pleads for a cause or propounds an idea.",
+  "part of speech": "noun",
+  "example": "Martin Luther King Jr. was a tireless advocate for the rights of African-Americans in the United States.Â This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "affable",
+  "pronunciation": "",
+  "bangla": "সহজে মিশুক",
+  "similar word": "",
+  "definition": "likeable; easy to talk to.",
+  "part of speech": "adjective",
+  "example": "For all his surface affability, Marco was remarkably glum when he wasn't around other people."
+},
+{
+  "word": "affluent",
+  "pronunciation": "",
+  "bangla": "ধনী",
+  "similar word": "",
+  "definition": "wealthy.",
+  "part of speech": "adjective",
+  "example": "The center of the city had sadly become a pit of penury, while, only five miles away, multi-million dollar homes spoke of affluence."
+},
+{
+  "word": "altruism",
+  "pronunciation": "",
+  "bangla": "নিঃস্বার্থতা",
+  "similar word": "",
+  "definition": "the quality of unselfish concern for the welfare of others.",
+  "part of speech": "noun",
+  "example": "Albert Schweitzer spent most of his life doing missionary work as a doctor in Africa, seeking no reward, apparently motivated only by altruism."
+},
+{
+  "word": "amiable",
+  "pronunciation": "",
+  "bangla": "বন্ধুভাবাপন্ন",
+  "similar word": "",
+  "definition": "friendly.",
+  "part of speech": "adjective",
+  "example": "Amy's name was very apt: she was so amiable that she was twice voted class president."
+},
+{
+  "word": "amply",
+  "pronunciation": "",
+  "bangla": "পর্যাপ্তের বেশি",
+  "similar word": "",
+  "definition": "more than is adequate.",
+  "part of speech": "adverb",
+  "example": "The boat was amply supplied for its year at sea--no man would go hungry or thirst."
+},
+{
+  "word": "amuck",
+  "pronunciation": "",
+  "bangla": "উন্মত্তভাবে",
+  "similar word": "",
+  "definition": "in a frenzied or uncontrolled state.",
+  "part of speech": "adverb",
+  "example": "Wherever the bowl haircut teen-idol went, his legions of screaming fans ran through the streets amuck, hoping for a glance at his boyish face."
+},
+{
+  "word": "analogous",
+  "pronunciation": "",
+  "bangla": "সাদৃশ্যপূর্ণ",
+  "similar word": "",
+  "definition": "similar in some respects but otherwise different.",
+  "part of speech": "adjective",
+  "example": "In many ways, the Internet's transformative effect on society has been analogous to that of the printing press."
+},
+{
+  "word": "animosity",
+  "pronunciation": "",
+  "bangla": "তীব্র শত্রুতা",
+  "similar word": "",
+  "definition": "intense hostility.",
+  "part of speech": "noun",
+  "example": "The governor's animosity toward his rival was only inflamed when the latter spread false lies regarding the governor's first term."
+},
+{
+  "word": "antedated",
+  "pronunciation": "",
+  "bangla": "আগে হওয়া",
+  "similar word": "",
+  "definition": "precede in time.",
+  "part of speech": "verb",
+  "example": "Harry was so unknowledgable that he was unaware the Egyptian pharaohs antedated the American Revolution."
+},
+{
+  "word": "antiquated",
+  "pronunciation": "",
+  "bangla": "সেকেলে",
+  "similar word": "",
+  "definition": "old-fashioned; belonging to an earlier period in time.",
+  "part of speech": "adjective",
+  "example": "Aunt Betty had antiquated notions about marriage, believing that a man should court a woman for at least a year before receiving a kiss."
+},
+{
+  "word": "apex",
+  "pronunciation": "",
+  "bangla": "সর্বোচ্চ বিন্দু",
+  "similar word": "",
+  "definition": "the highest point.",
+  "part of speech": "noun",
+  "example": "The Ivy League is considered the apex of the secondary education system."
+},
+{
+  "word": "aphorism",
+  "pronunciation": "",
+  "bangla": "সংক্ষিপ্ত নীতিবাক্য",
+  "similar word": "",
+  "definition": "a short instructive saying about a general truth.",
+  "part of speech": "noun",
+  "example": "Nietzsche was known for using aphorisms, sometimes encapsulating a complex philosophical thought in a mere sentence."
+},
+{
+  "word": "aphoristic",
+  "pronunciation": "",
+  "bangla": "ছোট কিন্তু গভীর",
+  "similar word": "",
+  "definition": "something that is a concise and instructive of a general truth or principle Sometimes I can't stand Nathan because he tries to impress everyone by being aphoristic, but he just states the obvious.",
+  "part of speech": "adjective",
+  "example": ""
+},
+{
+  "word": "appreciable",
+  "pronunciation": "",
+  "bangla": "চোখে পড়ার মতো",
+  "similar word": "",
+  "definition": "large enough to be noticed (usu.",
+  "part of speech": "adjective",
+  "example": "refers to an amount). There is an appreciable difference between those who say they can get the job done and those who actually get the job done."
+},
+{
+  "word": "apprehension",
+  "pronunciation": "",
+  "bangla": "আশঙ্কা",
+  "similar word": "",
+  "definition": "fearful expectation.",
+  "part of speech": "noun",
+  "example": "Test day can be one of pure apprehension, as many students worry about their test scores."
+},
+{
+  "word": "archaic",
+  "pronunciation": "",
+  "bangla": "অচল / প্রাচীন",
+  "similar word": "",
+  "definition": "so old as to appear to belong to a different period.",
+  "part of speech": "adjective",
+  "example": "Hoping to sound intelligent, Mary spoke in archaic English that was right out of Jane Austen's Pride and Prejudice--needless to say, she didn't have many friends."
+},
+{
+  "word": "ascendancy",
+  "pronunciation": "",
+  "bangla": "প্রাধান্য",
+  "similar word": "",
+  "definition": "the state that exists when one person or group has power over another.",
+  "part of speech": "noun",
+  "example": "The ascendancy of the Carlsbad water polo team is clear--they have a decade of championships behind them."
+},
+{
+  "word": "ascribe",
+  "pronunciation": "",
+  "bangla": "দায়ী করা",
+  "similar word": "",
+  "definition": "attribute or credit to.",
+  "part of speech": "verb",
+  "example": "History ascribes The Odyssey and The Illiad to Homer, but scholars now debate whether he was a. historical figure or a fictitious name."
+},
+{
+  "word": "assail",
+  "pronunciation": "",
+  "bangla": "ভাষায় আক্রমণ",
+  "similar word": "",
+  "definition": "attack in speech or writing.",
+  "part of speech": "verb",
+  "example": "In the weekly paper, the editor assailed the governor for wasting hundreds of thousands of dollars in public projects that quickly failed."
+},
+{
+  "word": "assuage",
+  "pronunciation": "",
+  "bangla": "প্রশমিত করা",
+  "similar word": "",
+  "definition": "make something intense less severe.",
+  "part of speech": "verb",
+  "example": "Her fear that the new college would be filled with unknown faces was assuaged when she recognized her childhood friend standing in line."
+},
+{
+  "word": "augment",
+  "pronunciation": "",
+  "bangla": "বৃদ্ধি করা",
+  "similar word": "",
+  "definition": "enlarge or increase; improve.",
+  "part of speech": "verb",
+  "example": "Ideally, the restaurant's augmented menu will expand its clientele and increase its profits."
+},
+{
+  "word": "autonomously",
+  "pronunciation": "",
+  "bangla": "নিজে নিজে",
+  "similar word": "",
+  "definition": "In an autonomous or self-governing manner.",
+  "part of speech": "adverb",
+  "example": "Many of the factory workers are worried about being replaced by machines and computers that will work completely autonomously."
+},
+{
+  "word": "avarice",
+  "pronunciation": "",
+  "bangla": "লোভ",
+  "similar word": "",
+  "definition": "greed (one of the seven deadly sins).",
+  "part of speech": "noun",
+  "example": "The Spanish conquistadors were known for their avarice, plundering Incan land and stealing Incan gold."
+},
+{
+  "word": "avert",
+  "pronunciation": "",
+  "bangla": "দৃষ্টি সরানো",
+  "similar word": "",
+  "definition": "turn away.",
+  "part of speech": "verb",
+  "example": "Afraid to see the aftermath of the car crash, I averted my eyes as we drove by."
+},
+{
+  "word": "avert",
+  "pronunciation": "",
+  "bangla": "ঠেকানো",
+  "similar word": "",
+  "definition": "ward off or prevent.",
+  "part of speech": "verb",
+  "example": "The struggling videogame company put all of its finances into one final, desperate project to avert bankrupcy."
+},
+{
+  "word": "avid",
+  "pronunciation": "",
+  "bangla": "অত্যন্ত আগ্রহী",
+  "similar word": "",
+  "definition": "marked by active interest and enthusiasm.",
+  "part of speech": "adjective",
+  "example": "Martin is an avid birdwatcher, often taking long hikes into remote mountains to see some rare eagle."
+},
+{
+  "word": "badger",
+  "pronunciation": "",
+  "bangla": "বিরক্ত করা",
+  "similar word": "",
+  "definition": "to pester.",
+  "part of speech": "verb",
+  "example": "Badgered by his parents to find a job, the 30-year-old loafer instead joined a gang of itinerant musicians. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "balk",
+  "pronunciation": "",
+  "bangla": "হঠাৎ অস্বীকৃতি",
+  "similar word": "",
+  "definition": "refuse to comply.",
+  "part of speech": "verb",
+  "example": "The students were willing to clean up the broken glass, but when the teacher asked them to mop the entire floor, they balked, citing reasons why they needed to leave."
+},
+{
+  "word": "banish",
+  "pronunciation": "",
+  "bangla": "তাড়িয়ে দেওয়া",
+  "similar word": "",
+  "definition": "expel from a community, residence, or location; drive away The most difficult part of the fast was banishing thoughts of food.",
+  "part of speech": "verb",
+  "example": "This word has other definitions but this is the most important one for the GRE"
+},
+{
+  "word": "beatific",
+  "pronunciation": "",
+  "bangla": "পরম সুখী",
+  "similar word": "",
+  "definition": "blissfully happy.",
+  "part of speech": "adjective",
+  "example": "Often we imagine all monks to wear the beatific smile of the Buddha, but, like any of us, a monk can have a bad day and not look very happy."
+},
+{
+  "word": "becoming",
+  "pronunciation": "",
+  "bangla": "মানানসই",
+  "similar word": "",
+  "definition": "appropriate, and matches nicely.",
+  "part of speech": "adjective",
+  "example": "Her dress was becoming and made her look even more beautiful. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "begrudge",
+  "pronunciation": "",
+  "bangla": "হিংসা করা",
+  "similar word": "",
+  "definition": "to envy someone for possessing or enjoying something.",
+  "part of speech": "verb",
+  "example": "Sitting all alone in his room, Harvey begrudged the happiness of the other children playing outside his window."
+},
+  {
+  "word": "behooves",
+  "pronunciation": "",
+  "bangla": "কর্তব্য হওয়া",
+  "similar word": "",
+  "definition": "to be one's duty or obligation.",
+  "part of speech": "verb",
+  "example": "The teacher looked down at the student and said, \"It would behoove you to be in class on time and complete your homework, so that you don't repeat freshman English for a third straight year.\"."
+},
+{
+  "word": "belittle",
+  "pronunciation": "",
+  "bangla": "তুচ্ছ করা",
+  "similar word": "",
+  "definition": "lessen the importance, dignity, or reputation of.",
+  "part of speech": "verb",
+  "example": "A good teacher will never belittle his students, but will instead empower them."
+},
+{
+  "word": "bellicose",
+  "pronunciation": "",
+  "bangla": "যুদ্ধপ্রবণ",
+  "similar word": "",
+  "definition": "warlike; inclined to quarrel.",
+  "part of speech": "adjective",
+  "example": "Known for their bellicose ways, the Spartans were once the most feared people from Peloponnesus to Persia."
+},
+{
+  "word": "benign",
+  "pronunciation": "",
+  "bangla": "সদয়",
+  "similar word": "",
+  "definition": "kind.",
+  "part of speech": "adjective",
+  "example": "I remember my grandfather's face was wrinkled, benign, and calm."
+},
+{
+  "word": "benign",
+  "pronunciation": "",
+  "bangla": "ক্ষতিকর নয়",
+  "similar word": "",
+  "definition": "(medicine) not dangerous to health; not recurrent or progressive.",
+  "part of speech": "adjective",
+  "example": "The tumor located in your ear lobe seems to be benign and should not cause you any trouble."
+},
+{
+  "word": "besiege",
+  "pronunciation": "",
+  "bangla": "অতিষ্ঠ করা",
+  "similar word": "",
+  "definition": "harass, as with questions or requests; cause to feel distressed or worried.",
+  "part of speech": "verb",
+  "example": "After discovering a priceless artifact in her backyard, Jane was besieged by phone calls, emails, and reporters all trying to buy, hold or see the rare piece of history."
+},
+{
+  "word": "besmirch",
+  "pronunciation": "",
+  "bangla": "সুনাম নষ্ট করা",
+  "similar word": "",
+  "definition": "damage the good name and reputation of someone.",
+  "part of speech": "verb",
+  "example": "The prince's distasteful choice of words besmirched not only his own name, but the reputation of the entire royal family."
+},
+{
+  "word": "bleak",
+  "pronunciation": "",
+  "bangla": "হতাশাজনক",
+  "similar word": "",
+  "definition": "having a depressing or gloomy outlook.",
+  "part of speech": "adjective",
+  "example": "Unremitting overcast skies tend to lead people to create bleak literature and lugubrious music -- compare England's band Radiohead to any band from Southern California."
+},
+{
+  "word": "boon",
+  "pronunciation": "",
+  "bangla": "কল্যাণকর সুবিধা",
+  "similar word": "",
+  "definition": "a desirable state.",
+  "part of speech": "noun",
+  "example": "Modern technology has been a boon to the travel industry."
+},
+{
+  "word": "boon",
+  "pronunciation": "",
+  "bangla": "ঘনিষ্ঠ ও প্রীতিপূর্ণ",
+  "similar word": "",
+  "definition": "very close and convivial.",
+  "part of speech": "adjective",
+  "example": "He was a boon companion to many, and will be sadly missed."
+},
+{
+  "word": "boorish",
+  "pronunciation": "",
+  "bangla": "অভদ্র",
+  "similar word": "",
+  "definition": "ill-mannered and coarse or contemptible in behavior or appearance Bukowski was known for being a boorish drunk and alienating close friends and family.",
+  "part of speech": "adjective",
+  "example": ""
+},
+{
+  "word": "brusquely",
+  "pronunciation": "",
+  "bangla": "রুক্ষভাবে",
+  "similar word": "",
+  "definition": "in a blunt, direct manner.",
+  "part of speech": "adverb",
+  "example": "Not one for social pleasantries, the Chief of Staff would brusquely ask his subordinates anything he wanted, even coffee."
+},
+{
+  "word": "buck",
+  "pronunciation": "",
+  "bangla": "প্রতিরোধ করা",
+  "similar word": "",
+  "definition": "resist.",
+  "part of speech": "verb",
+  "example": "The profits at our firm bucked the general downturn that effected the real estate industry. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "buttress",
+  "pronunciation": "",
+  "bangla": "সমর্থন জোরদার করা",
+  "similar word": "",
+  "definition": "make stronger or defensible.",
+  "part of speech": "verb",
+  "example": "China's economy has been buttressed by a global demand for the electronic parts the country manufactures."
+},
+{
+  "word": "cadaverous",
+  "pronunciation": "",
+  "bangla": "অতিশয় কৃশ",
+  "similar word": "",
+  "definition": "emaciated; gaunt.",
+  "part of speech": "adjective",
+  "example": "Some actors take challenging roles in which they have to lose so much weight that they appear cadaverous."
+},
+{
+  "word": "candid",
+  "pronunciation": "",
+  "bangla": "খোলামেলা সৎ",
+  "similar word": "",
+  "definition": "a straightforward and honest look at something.",
+  "part of speech": "adjective",
+  "example": "Even with a perfect stranger, Charles was always candid and would rarely hold anything back."
+},
+{
+  "word": "candidness",
+  "pronunciation": "",
+  "bangla": "খোলামেলা সততা",
+  "similar word": "",
+  "definition": "the quality of being honest and straightforward in attitude and speech.",
+  "part of speech": "noun",
+  "example": "Although I was unhappy that the relationship ended, I appreciated her candidness about why she was ready to move on from the relationship."
+},
+{
+  "word": "cardinal",
+  "pronunciation": "",
+  "bangla": "অত্যন্ত গুরুত্বপূর্ণ",
+  "similar word": "",
+  "definition": "of primary importance; fundamental.",
+  "part of speech": "adjective",
+  "example": "Most cultures consider gambling a cardinal sin and thus have outlawed its practice. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "carping",
+  "pronunciation": "",
+  "bangla": "খুঁতখুঁতে সমালোচনামূলক",
+  "similar word": "",
+  "definition": "persistently petty and unjustified criticism.",
+  "part of speech": "adjective",
+  "example": "What seemed like incessant nagging and carping about my behavior from my mother turned out to be wise and useful advice that has served me well."
+},
+{
+  "word": "catalyst",
+  "pronunciation": "",
+  "bangla": "উদ্দীপক কারণ",
+  "similar word": "",
+  "definition": "something that speeds up an event.",
+  "part of speech": "noun",
+  "example": "Rosa Park's refusal to give up her bus seat acted as a catalyst for the Civil Rights Movement, setting into motion historic changes for African-Americans."
+},
+{
+  "word": "cavalier",
+  "pronunciation": "",
+  "bangla": "অহংকারী ও অবহেলাপূর্ণ",
+  "similar word": "",
+  "definition": "given to haughty disregard of others Percy dismissed the issue with a cavalier wave of his hand.",
+  "part of speech": "adjective",
+  "example": ""
+},
+{
+  "word": "censor",
+  "pronunciation": "",
+  "bangla": "নিষিদ্ধ অংশ বাদ দেওয়া",
+  "similar word": "",
+  "definition": "to examine and remove objectionable material.",
+  "part of speech": "verb",
+  "example": "Every fall, high school English teachers are inundated by requests to censor their curriculum by removing The Catcher in the Rye and Scarlet Letter from their reading lists."
+},
+{
+  "word": "cerebral",
+  "pronunciation": "",
+  "bangla": "বুদ্ধিবৃত্তিক",
+  "similar word": "",
+  "definition": "involving intelligence rather than emotions or instinct.",
+  "part of speech": "adjective",
+  "example": "A cerebral analysis of most pop music finds it to be simple and childish, but that ignores the point--the music's effect on the listener. This word has other definitions but this is the most important one for the GRE."
+},
+  {
+  "word": "champion",
+  "pronunciation": "",
+  "bangla": "পক্ষে লড়াই করা",
+  "similar word": "",
+  "definition": "protect or fight for as a champion.",
+  "part of speech": "verb",
+  "example": "Martin Luther King Jr. championed civil rights fiercely throughout his short life. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "chauvinist",
+  "pronunciation": "",
+  "bangla": "অতিমাত্রায় পক্ষপাতী",
+  "similar word": "",
+  "definition": "a person who believes in the superiority of their group.",
+  "part of speech": "noun",
+  "example": "The chauvinist lives on both sides of the political spectrum, outright shunning anybody whose ideas are not consistent with his own."
+},
+{
+  "word": "check",
+  "pronunciation": "",
+  "bangla": "নিয়ন্ত্রণ করা",
+  "similar word": "",
+  "definition": "to limit (usually modifying the growth of something).",
+  "part of speech": "verb",
+  "example": "Deserted for six months, the property began to look more like a jungle and less like a residence--weeds grew unchecked in the front yard. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "check",
+  "pronunciation": "",
+  "bangla": "নিয়ন্ত্রণ অবস্থা",
+  "similar word": "",
+  "definition": "the condition of being held back or limited.",
+  "part of speech": "noun",
+  "example": "When government abuses are not kept in check, that government is likely to become autocratic. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "checkered",
+  "pronunciation": "",
+  "bangla": "কলঙ্কিত অতীত",
+  "similar word": "",
+  "definition": "one that is marked by disreputable happenings.",
+  "part of speech": "adjective",
+  "example": "One by one, the presidential candidates dropped out of the race, their respective checkered pasts-- from embezzlement to infidelity--sabotaging their campaigns. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "chivalrous",
+  "pronunciation": "",
+  "bangla": "ভদ্র ও রমণীসুলভ",
+  "similar word": "",
+  "definition": "being attentive to women like an ideal knight.",
+  "part of speech": "adjective",
+  "example": "Marco's chivalrous ways, like opening doors and pulling out chairs, was much appreciated by his date."
+},
+{
+  "word": "clemency",
+  "pronunciation": "",
+  "bangla": "দয়া প্রদর্শন",
+  "similar word": "",
+  "definition": "leniency and compassion shown toward offenders by a person or agency charged with administering justice.",
+  "part of speech": "noun",
+  "example": "In the final moments of the trial, during his closing speech, Phillips was nearly begging the judge for clemency."
+},
+{
+  "word": "coalesce",
+  "pronunciation": "",
+  "bangla": "একত্রিত হওয়া",
+  "similar word": "",
+  "definition": "fuse or cause to grow together.",
+  "part of speech": "verb",
+  "example": "Over time, the various tribes coalesced into a single common culture with one universal language."
+},
+{
+  "word": "cogent",
+  "pronunciation": "",
+  "bangla": "যুক্তিসংগত ও প্রভাবশালী",
+  "similar word": "",
+  "definition": "clear and persuasive.",
+  "part of speech": "adjective",
+  "example": "A cogent argument will change the minds of even the most skeptical audience."
+},
+{
+  "word": "cohesive",
+  "pronunciation": "",
+  "bangla": "সংগঠিত ও ঐক্যবদ্ধ",
+  "similar word": "",
+  "definition": "well integrated, forming a united whole.",
+  "part of speech": "adjective",
+  "example": "A well-written, cohesive essay will keep on topic at all times, never losing sight of the main argument."
+},
+{
+  "word": "collusion",
+  "pronunciation": "",
+  "bangla": "গোপন যোগসাজশ",
+  "similar word": "",
+  "definition": "agreement on a secret plot.",
+  "part of speech": "noun",
+  "example": "Many have argued that Lee Harvey Oswald, JFK's assassin, was in collusion with other criminals; others maintain that Oswald was a lone gunman."
+},
+{
+  "word": "colossal",
+  "pronunciation": "",
+  "bangla": "অতিকায়",
+  "similar word": "",
+  "definition": "so great in size or force or extent as to elicit awe.",
+  "part of speech": "adjective",
+  "example": "Few appreciate the colossal scale of the sun: if hollow, it could contain a million Earths."
+},
+{
+  "word": "commendable",
+  "pronunciation": "",
+  "bangla": "প্রশংসনীয়",
+  "similar word": "",
+  "definition": "worthy of high praise.",
+  "part of speech": "adjective",
+  "example": "The efforts of the firefighters running into the burning building were commendable."
+},
+{
+  "word": "complacent",
+  "pronunciation": "",
+  "bangla": "আত্মতুষ্ট",
+  "similar word": "",
+  "definition": "contented to a fault with oneself or one's actions.",
+  "part of speech": "adjective",
+  "example": "After the water polo team won their sixth championship, they became complacent and didn't even make it to the playoffs the next year."
+},
+{
+  "word": "complementary",
+  "pronunciation": "",
+  "bangla": "পরস্পরকে পরিপূরক",
+  "similar word": "",
+  "definition": "enhancing each other's qualities (for two things or more).",
+  "part of speech": "adjective",
+  "example": "The head waiter was careful to tell the amateur diners that red wine was complementary with beef, each bringing out subtle taste notes in the other."
+},
+{
+  "word": "compound",
+  "pronunciation": "",
+  "bangla": "আরও জটিল করা",
+  "similar word": "",
+  "definition": "make more intense, stronger, or more marked.",
+  "part of speech": "verb",
+  "example": "Her headache was compounded by the construction crew outside, which had six jackhammers going at the same time. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "conducive",
+  "pronunciation": "",
+  "bangla": "সহায়ক",
+  "similar word": "",
+  "definition": "making a situation or outcome more likely to happen.",
+  "part of speech": "adjective",
+  "example": "Studying in a quiet room is conducive to learning; studying in a noisy environment makes learning more difficult."
+},
+{
+  "word": "conniving",
+  "pronunciation": "",
+  "bangla": "চক্রান্তকারী",
+  "similar word": "",
+  "definition": "taking part in immoral and unethical plots.",
+  "part of speech": "verb",
+  "example": "The queen was so conniving that, with the help of the prince, she tried to overthrow the king."
+},
+{
+  "word": "consecrate",
+  "pronunciation": "",
+  "bangla": "পবিত্র করা",
+  "similar word": "",
+  "definition": "to make holy or set apart for a high purpose.",
+  "part of speech": "verb",
+  "example": "At the church of Notre Dame in France, the new High Altar was consecrated in 1182."
+},
+{
+  "word": "constraint",
+  "pronunciation": "",
+  "bangla": "সীমাবদ্ধতা",
+  "similar word": "",
+  "definition": "something that limits or restricts.",
+  "part of speech": "noun",
+  "example": "He found pop music a constraint on his ability to learn and preferred to listen to classical musical while studying."
+},
+{
+  "word": "consummate",
+  "pronunciation": "",
+  "bangla": "অতুলনীয় দক্ষ",
+  "similar word": "",
+  "definition": "having or revealing supreme mastery or skill.",
+  "part of speech": "adjective",
+  "example": "Tyler was the consummate musician: he was able to play the guitar, harmonica, and the drum at the same time. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "consummate",
+  "pronunciation": "",
+  "bangla": "সম্পূর্ণ করা",
+  "similar word": "",
+  "definition": "to make perfect and complete in every respect.",
+  "part of speech": "verb",
+  "example": "The restoration of the ancient church was only consummated after a twenty years of labor. This word has other definitions but this is the most important one for the GRE."
+},
+  {
+  "word": "contemptuous",
+  "pronunciation": "",
+  "bangla": "তাচ্ছিল্যপূর্ণ",
+  "similar word": "",
+  "definition": "scornful, looking down at others with a sneering attitude.",
+  "part of speech": "adjective",
+  "example": "Always on the forefront of fashion, Vanessa looked contemptuously at anyone wearing dated clothing."
+},
+{
+  "word": "contrite",
+  "pronunciation": "",
+  "bangla": "অনুতপ্ত",
+  "similar word": "",
+  "definition": "to be remorseful.",
+  "part of speech": "adjective",
+  "example": "Though he stole his little sister's licorice stick with malevolent glee, Chucky soon became contrite when his sister wouldn't stop crying."
+},
+{
+  "word": "conundrum",
+  "pronunciation": "",
+  "bangla": "জটিল সমস্যা",
+  "similar word": "",
+  "definition": "a difficult problem.",
+  "part of speech": "noun",
+  "example": "Computers have helped solve some of the mathematical conundrums which have puzzled man for many centuries."
+},
+{
+  "word": "convivial",
+  "pronunciation": "",
+  "bangla": "আনন্দময় ও প্রাণবন্ত",
+  "similar word": "",
+  "definition": "describing a lively atmosphere.",
+  "part of speech": "adjective",
+  "example": "The wedding reception was convivial; friends who hadn't seen each other for ages drank and ate together before heading to the dance floor."
+},
+{
+  "word": "convoluted",
+  "pronunciation": "",
+  "bangla": "অতিরিক্ত জটিল",
+  "similar word": "",
+  "definition": "highly complex or intricate.",
+  "part of speech": "adjective",
+  "example": "Instead of solving the math problem in three simple steps, Kumar used a convoluted solution requiring fifteen steps."
+},
+{
+  "word": "cornucopia",
+  "pronunciation": "",
+  "bangla": "প্রাচুর্য",
+  "similar word": "",
+  "definition": "an abundant supply of something good.",
+  "part of speech": "noun",
+  "example": "The International Food Expo was a cornucopia of culinary delights: gourmet foods from every continent were under one roof."
+},
+{
+  "word": "corroborate",
+  "pronunciation": "",
+  "bangla": "সমর্থন দিয়ে প্রমাণ করা",
+  "similar word": "",
+  "definition": "to confirm or lend support to (usually an idea or claim).",
+  "part of speech": "verb",
+  "example": "Her claim that frog populations were falling precipitously in Central America was corroborated by locals, who reported that many species of frogs had seemingly vanished overnight."
+},
+{
+  "word": "cosmopolitan",
+  "pronunciation": "",
+  "bangla": "বহুসাংস্কৃতিক",
+  "similar word": "",
+  "definition": "comprising many cultures; global in reach and outlook There are few cities in the world as diverse and cosmopolitan as New York.",
+  "part of speech": "adjective",
+  "example": ""
+},
+{
+  "word": "credence",
+  "pronunciation": "",
+  "bangla": "বিশ্বাসযোগ্যতা",
+  "similar word": "",
+  "definition": "belief in something.",
+  "part of speech": "noun",
+  "example": "He placed no credence in psychics, claiming that they offered no special powers beyond the ability to make people part with their money."
+},
+{
+  "word": "creditable",
+  "pronunciation": "",
+  "bangla": "মোটামুটি প্রশংসনীয়",
+  "similar word": "",
+  "definition": "deserving of praise but not that amazing.",
+  "part of speech": "adjective",
+  "example": "Critics agreed the movie was creditable, but few gave it more than three out of five stars."
+},
+{
+  "word": "credulity",
+  "pronunciation": "",
+  "bangla": "সহজে বিশ্বাস করার প্রবণতা",
+  "similar word": "",
+  "definition": "tendency to believe readily.",
+  "part of speech": "noun",
+  "example": "Virginia's wide-eyed credulity as a five-year old was replaced by suspicion after she learned that Santa Claus didn't really exist."
+},
+{
+  "word": "cumbersome",
+  "pronunciation": "",
+  "bangla": "ঝামেলাপূর্ণ",
+  "similar word": "",
+  "definition": "difficult to handle or use especially because of size or weight.",
+  "part of speech": "adjective",
+  "example": "Only ten years ago, being an avid reader and a traveler meant carrying a cumbersome backpack stuffed with books--these days we need only an e-reader."
+},
+{
+  "word": "dearth",
+  "pronunciation": "",
+  "bangla": "ঘাটতি",
+  "similar word": "",
+  "definition": "a lack or shortage.",
+  "part of speech": "noun",
+  "example": "I am surprised by the dearth of fast food chains; this is America and I assumed they were on every street."
+},
+{
+  "word": "debase",
+  "pronunciation": "",
+  "bangla": "মূল্যহ্রাস করা",
+  "similar word": "",
+  "definition": "reduce the quality or value of something.",
+  "part of speech": "verb",
+  "example": "The third-rate script so debased the film that not even the flawless acting could save it from being a flop."
+},
+{
+  "word": "debunk",
+  "pronunciation": "",
+  "bangla": "ভুয়া প্রমাণ করা",
+  "similar word": "",
+  "definition": "expose as false ideas and claims, especially while ridiculing.",
+  "part of speech": "verb",
+  "example": "Richard Dawkins tries to debunk religious belief, but his ridicule tends to push people away from his points rather than convince them."
+},
+{
+  "word": "decimation",
+  "pronunciation": "",
+  "bangla": "ব্যাপক ধ্বংস",
+  "similar word": "",
+  "definition": "destroying or killing a large part of the population.",
+  "part of speech": "noun",
+  "example": "The decimation after atomic bombs were dropped on Hiroshima and Nagasaki is incomprehensible."
+},
+{
+  "word": "degrade",
+  "pronunciation": "",
+  "bangla": "অপমান করা",
+  "similar word": "",
+  "definition": "reduce in worth or character, usually verbally.",
+  "part of speech": "verb",
+  "example": "Jesse had mockingly pointed out all of Nancy's faults in front of their friends, publicly degrading the poor girl."
+},
+{
+  "word": "delegate",
+  "pronunciation": "",
+  "bangla": "দায়িত্ব অর্পণ করা",
+  "similar word": "",
+  "definition": "give an assignment to (a person).",
+  "part of speech": "verb",
+  "example": "Since the senior manager had to go on many international business trips, she was forced to delegate many of her responsibilities to two lower-level managers. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "deliberate",
+  "pronunciation": "",
+  "bangla": "ভেবে-চিন্তে সিদ্ধান্ত নেওয়া",
+  "similar word": "",
+  "definition": "think about carefully; weigh the pros and cons of an issue.",
+  "part of speech": "verb",
+  "example": "Emergency situations such as this call for immediate action and leave no room to deliberate over options. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "demean",
+  "pronunciation": "",
+  "bangla": "অপমান করা",
+  "similar word": "",
+  "definition": "to insult; to cause someone to lose dignity or respect.",
+  "part of speech": "verb",
+  "example": "At first the soccer players bantered back and forth, but as soon as one of the players became demeaning, calling the other's mother a water buffalo, the ref whipped out a red card."
+},
+{
+  "word": "demure",
+  "pronunciation": "",
+  "bangla": "লাজুক ও সংযত",
+  "similar word": "",
+  "definition": "to be modest and shy.",
+  "part of speech": "adjective",
+  "example": "The portrait of her in a simple white blouse was sweet and demure."
+},
+{
+  "word": "deride",
+  "pronunciation": "",
+  "bangla": "উপহাস করা",
+  "similar word": "",
+  "definition": "treat or speak of with contempt.",
+  "part of speech": "verb",
+  "example": "The nun derided the students for trying to sneak insects and worms into the classroom."
+},
+{
+  "word": "derisive",
+  "pronunciation": "",
+  "bangla": "বিদ্রূপপূর্ণ",
+  "similar word": "",
+  "definition": "abusing vocally; expressing contempt or ridicule.",
+  "part of speech": "adjective",
+  "example": "I was surprised by her derisive tone; usually, she is sweet, soft spoken, and congenial."
+},
+{
+  "word": "derogative",
+  "pronunciation": "",
+  "bangla": "অপমানজনক",
+  "similar word": "",
+  "definition": "expressed as worthless or in negative terms.",
+  "part of speech": "adjective",
+  "example": "Never before have we seen a debate between two political candidates that was so derogative and filthy."
+},
+{
+  "word": "desecrate",
+  "pronunciation": "",
+  "bangla": "অপবিত্র করা",
+  "similar word": "",
+  "definition": "to willfully violate or destroy a sacred place.",
+  "part of speech": "verb",
+  "example": "After desecrating the pharaoh's tomb, the archaeologist soon fell victim to a horrible illness."
+},
+{
+  "word": "destitute",
+  "pronunciation": "",
+  "bangla": "চরম দরিদ্র",
+  "similar word": "",
+  "definition": "poor enough to need help from others.",
+  "part of speech": "adjective",
+  "example": "Jean Valjean, is at first destitute, but through the grace of a priest, he makes something of his life."
+},
+{
+  "word": "destitute",
+  "pronunciation": "",
+  "bangla": "সম্পূর্ণরূপে বঞ্চিত",
+  "similar word": "",
+  "definition": "completely wanting or lacking (usually \"destitute of\") Now that the mine is closed, the town is destitute of any economic activity.",
+  "part of speech": "adjective",
+  "example": ""
+},
+{
+  "word": "deter",
+  "pronunciation": "",
+  "bangla": "বিরত রাখতে চেষ্টা করা",
+  "similar word": "",
+  "definition": "turn away from by persuasion.",
+  "part of speech": "verb",
+  "example": "His mother tried to deter him from joing the army, but he was too intoxicated with the idea of war to listen."
+},
+{
+  "word": "deter",
+  "pronunciation": "",
+  "bangla": "প্রতিরোধ করা",
+  "similar word": "",
+  "definition": "try to prevent; show opposition to.",
+  "part of speech": "verb",
+  "example": "The government's primary job should invlove deterring paths to war, not finding ways to start them."
+},
+{
+  "word": "detrimental",
+  "pronunciation": "",
+  "bangla": "ক্ষতিকর",
+  "similar word": "",
+  "definition": "(sometimes followed by \"to\") causing harm or injury.",
+  "part of speech": "adjective",
+  "example": "Many know that smoking is detrimental to your health, but processed sugar in large quantities is equally bad."
+},
+  {
+  "word": "devolve",
+  "pronunciation": "",
+  "bangla": "হস্তান্তর করা",
+  "similar word": "",
+  "definition": "pass on or delegate to another.",
+  "part of speech": "verb",
+  "example": "The company was full of managers known for devolving tasks to lower management, but never doing much work themselves."
+},
+{
+  "word": "devolve",
+  "pronunciation": "",
+  "bangla": "হ্রাসপ্রাপ্ত হওয়া",
+  "similar word": "",
+  "definition": "grow worse (usually \"devolve into\").",
+  "part of speech": "verb",
+  "example": "The dialogue between the two academics devolved into a downright bitter argument."
+},
+{
+  "word": "diabolical",
+  "pronunciation": "",
+  "bangla": "শয়তানসুলভ",
+  "similar word": "",
+  "definition": "to be extremely wicked like the devil.",
+  "part of speech": "adjective",
+  "example": "The conspirators, willing to dispatch anyone who stood in their way, hatched a diabolical plan to take over the city."
+},
+{
+  "word": "differentiate",
+  "pronunciation": "",
+  "bangla": "ভিন্নতা দেখানো",
+  "similar word": "",
+  "definition": "be a distinctive feature, attribute, or trait (sometimes in positive sense).",
+  "part of speech": "verb",
+  "example": "Mozart's long melodic lines differentiate his compositions from other works of late 18th century music."
+},
+{
+  "word": "differentiate",
+  "pronunciation": "",
+  "bangla": "উন্নয়ন ঘটানো",
+  "similar word": "",
+  "definition": "evolve so as to lead to a new species or develop in a way most suited to the environment.",
+  "part of speech": "verb",
+  "example": "Animals on Madagascar differentiated from other similar animal species due to many years of isolation on the island."
+},
+{
+  "word": "dilapidated",
+  "pronunciation": "",
+  "bangla": "ধ্বংসপ্রাপ্ত",
+  "similar word": "",
+  "definition": "in terrible condition.",
+  "part of speech": "adjective",
+  "example": "The main house has been restored but the gazebo is still dilapidated and unuseable."
+},
+{
+  "word": "diligent",
+  "pronunciation": "",
+  "bangla": "পরিশ্রমী",
+  "similar word": "",
+  "definition": "characterized by care and perseverance in carrying out tasks.",
+  "part of speech": "adjective",
+  "example": "Michael was a diligent gardener, never leaving a leaf on the ground and regularly watering each plant."
+},
+{
+  "word": "discord",
+  "pronunciation": "",
+  "bangla": "অসঙ্গতি",
+  "similar word": "",
+  "definition": "lack of agreement or harmony.",
+  "part of speech": "noun",
+  "example": "Despite all their talented players, the team was filled with discord--some players refused to talk to others--and lost most of their games."
+},
+{
+  "word": "discreet",
+  "pronunciation": "",
+  "bangla": "সতর্ক",
+  "similar word": "",
+  "definition": "careful to protect one's speech or actions in order to avoid offense or gain an advantage.",
+  "part of speech": "adjective",
+  "example": "The professor thought that he was discreet, subtly wiping the stain off of his shirt, but as soon as he stepped off the podium a member of the audience pointed out the large ketchup stain."
+},
+{
+  "word": "discriminate",
+  "pronunciation": "",
+  "bangla": "পার্থক্য চিহ্নিত করা",
+  "similar word": "",
+  "definition": "recognize or perceive the difference.",
+  "part of speech": "verb",
+  "example": "Sarah couldn't discriminate between a good wine and a bad wine, so she avoided wine tastings. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "disenfranchise",
+  "pronunciation": "",
+  "bangla": "ভোটের অধিকার হারানো",
+  "similar word": "",
+  "definition": "deprive of voting rights.",
+  "part of speech": "verb",
+  "example": "The U.S. Constitution disenfranchised women until 1920 when they were given the right to vote."
+},
+{
+  "word": "disheartened",
+  "pronunciation": "",
+  "bangla": "নিরুৎসাহিত",
+  "similar word": "",
+  "definition": "made less hopeful or enthusiastic.",
+  "part of speech": "adjective",
+  "example": "After the visiting team scored nine times, the home team's fans were disheartened, some leaving the game early."
+},
+{
+  "word": "disparate",
+  "pronunciation": "",
+  "bangla": "সম্পূর্ণ ভিন্ন",
+  "similar word": "",
+  "definition": "two things are fundamentally different.",
+  "part of speech": "adjective",
+  "example": "With the advent of machines capable of looking inside the brain, fields as disparate as religion and biology have been brought together by scientists trying to understand what happens in the brain when people have a religious experience."
+},
+{
+  "word": "dispatch",
+  "pronunciation": "",
+  "bangla": "দ্রুত ও দক্ষতা সহকারে সম্পন্ন করা",
+  "similar word": "",
+  "definition": "the property of being prompt and efficient.",
+  "part of speech": "noun",
+  "example": "She finished her thesis with dispatch, amazing her advisors who couldn't believe she hadn't written 60 scholarly pages so quickly. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "dispatch",
+  "pronunciation": "",
+  "bangla": "দ্রুত নিষ্পত্তি করা",
+  "similar word": "",
+  "definition": "dispose of rapidly and without delay and efficiently.",
+  "part of speech": "verb",
+  "example": "As soon as the angry peasants stormed the castle, they caught the king and swiftly dispatched him. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "docile",
+  "pronunciation": "",
+  "bangla": "শান্ত ও আজ্ঞাবহ",
+  "similar word": "",
+  "definition": "easily handled or managed; willing to be taught or led or supervised or directed Barnyard animals are considerably more docile than the wild animals.",
+  "part of speech": "adjective",
+  "example": ""
+},
+{
+  "word": "dog",
+  "pronunciation": "",
+  "bangla": "অনিয়মিতভাবে অনুসরণ করা",
+  "similar word": "",
+  "definition": "to pursue relentlessly; to hound.",
+  "part of speech": "verb",
+  "example": "Throughout his life, he was dogged by insecurities that inhibited personal growth. This word has other definitions but this is the most important one for the GRE."
+},
+{
+  "word": "dupe",
+  "pronunciation": "",
+  "bangla": "প্রতারণা করা",
+  "similar word": "",
+  "definition": "to trick or swindle.",
+  "part of speech": "verb",
+  "example": "Once again a get-rich-fast Internt scheme had duped Harold into submitting a $5,000 check to a sham operation."
+},
+{
+  "word": "dupe",
+  "pronunciation": "",
+  "bangla": "সহজে প্রতারিত ব্যক্তি",
+  "similar word": "",
+  "definition": "a person who is easily tricked or swindled.",
+  "part of speech": "noun",
+  "example": "The charlatan mistook the crowd for a bunch of dupes, but the crowd was quickly on to him and decried his bald-faced attempt to bilk them."
+},
+{
+  "word": "eccentric",
+  "pronunciation": "",
+  "bangla": "অসাধারণ বা অস্বাভাবিক",
+  "similar word": "",
+  "definition": "highly unconventional or usual (usually describes a person).",
+  "part of speech": "adjective",
+  "example": "Mozart was well-known for his eccentricities, often speaking words backward to confuse those around him."
+},
+{
+  "word": "egotist",
+  "pronunciation": "",
+  "bangla": "আত্মকেন্দ্রিক ব্যক্তি",
+  "similar word": "",
+  "definition": "a conceited and self-centered person.",
+  "part of speech": "noun",
+  "example": "An egotist, Natasha had few friends because of her inability to talk about anything except her dream of becoming the next American Idol."
+},
+{
+  "word": "eke",
+  "pronunciation": "",
+  "bangla": "কষ্ট করে জীবিকা নির্বাহ করা",
+  "similar word": "",
+  "definition": "To live off meager resources, to scrape by.",
+  "part of speech": "verb",
+  "example": "Stranded in a cabin over the winter, Terry was able to eke out an existence on canned food."
+},
+{
+  "word": "elaborate",
+  "pronunciation": "",
+  "bangla": "বিস্তারিত ও জটিল",
+  "similar word": "",
+  "definition": "marked by complexity and richness of detail.",
+  "part of speech": "adjective",
+  "example": "Thomas, on returning from Morocco, replaced his dirty gray carpet with an elaborate one he'd brought back with him."
+},
+{
+  "word": "elaborate",
+  "pronunciation": "",
+  "bangla": "বিশদভাবে ব্যাখ্যা করা",
+  "similar word": "",
+  "definition": "explain in more detail.",
+  "part of speech": "verb",
+  "example": "Most high school physics teachers find themselves elaborating the same point over and over again, since many concepts confuse students."
+},
+{
+  "word": "elude",
+  "pronunciation": "",
+  "bangla": "বুঝতে বা ধরতে পারা যায় না",
+  "similar word": "",
+  "definition": "escape understanding.",
+  "part of speech": "verb",
+  "example": "Even a basic understanding of physics can elude most high schools students."
+},
+{
+  "word": "elusive",
+  "pronunciation": "",
+  "bangla": "ধরা বা মনে রাখা কঠিন",
+  "similar word": "",
+  "definition": "difficult to capture or difficult to remember.",
+  "part of speech": "adjective",
+  "example": "Many first time skydivers say that describing the act of falling from the sky is elusive."
+},
+  {
+  "word": "embellish",
+  "pronunciation": "",
+  "bangla": "শোভা বৃদ্ধি করা",
+  "similar word": "",
+  "definition": "make more attractive by adding ornament, colour, etc.",
+  "part of speech": "verb",
+  "example": "McCartney would write relatively straightforward lyrics, and Lennon would embellish them with puns and poetic images."
+},
+{
+  "word": "embroiled",
+  "pronunciation": "",
+  "bangla": "দ্বন্দ্ব বা বিবাদে জড়িত",
+  "similar word": "",
+  "definition": "involved in argument or contention.",
+  "part of speech": "adjective",
+  "example": "These days we are never short of a D.C. politician embroiled in scandal--a welcome phenomenon for those who, having barely finished feasting on the sordid details of one imbroglio, can sink their teeth into a fresh one."
+},
+{
+  "word": "empathetic",
+  "pronunciation": "",
+  "bangla": "সহানুভূতিশীল",
+  "similar word": "",
+  "definition": "showing understanding and ready comprehension of other peoples' states and emotions.",
+  "part of speech": "adjective",
+  "example": "Most discrimination and hatred is based on a lack of empathetic awareness of people that have the same aspitations and fears."
+},
+{
+  "word": "emulate",
+  "pronunciation": "",
+  "bangla": "অনুকরণ করে উন্নতি করা",
+  "similar word": "",
+  "definition": "strive to equal or match, especially by imitating; compete with successfully.",
+  "part of speech": "verb",
+  "example": "To really become fluent in a new language, emulate the speech patterns and intonation of people who speak the language."
+},
+{
+  "word": "endemic",
+  "pronunciation": "",
+  "bangla": "স্থানীয়; নির্দিষ্ট অঞ্চলের",
+  "similar word": "",
+  "definition": "native; originating where it is found.",
+  "part of speech": "adjective",
+  "example": "Irish cuisine makes great use of potatoes, but ironically, the potato is not endemic to Ireland."
+},
+{
+  "word": "enmity",
+  "pronunciation": "",
+  "bangla": "শত্রুতা",
+  "similar word": "",
+  "definition": "a state of deep-seated ill-will.",
+  "part of speech": "noun",
+  "example": "Charles rude remark toward Sarah yesterday was due to his illness, not due to any real enmity toward Sarah."
+},
+{
+  "word": "entice",
+  "pronunciation": "",
+  "bangla": "প্রলুব্ধ করা",
+  "similar word": "",
+  "definition": "get someone to do something through (often false or exaggerated) promises.",
+  "part of speech": "verb",
+  "example": "Harold enticed his wife, Maude, to go on a vacation to Hawaii, with promises of luaus on the beach and all-you-can-eat seafood buffets."
+},
+{
+  "word": "enumerate",
+  "pronunciation": "",
+  "bangla": "গণনা করা",
+  "similar word": "",
+  "definition": "determine the number or amount of.",
+  "part of speech": "verb",
+  "example": "The survey enumerates the number of happy workers and the number of unhappy workers."
+},
+{
+  "word": "enumerate",
+  "pronunciation": "",
+  "bangla": "একটি করে উল্লেখ করা",
+  "similar word": "",
+  "definition": "specify individually, one by one.",
+  "part of speech": "verb",
+  "example": "I sat and listened as she enumerated all of the things she did not like about the past three months."
+},
+{
+  "word": "err",
+  "pronunciation": "",
+  "bangla": "ভুল করা",
+  "similar word": "",
+  "definition": "to make an error.",
+  "part of speech": "verb",
+  "example": "He erred in thinking that \"indigent\" and \"indignant\" were synonyms."
+},
+{
+  "word": "errant",
+  "pronunciation": "",
+  "bangla": "ভ্রান্ত; পথভ্রষ্ট",
+  "similar word": "",
+  "definition": "to be wandering; not sticking to a circumscribed path.",
+  "part of speech": "adjective",
+  "example": "Unlike his peers, who spent their hours studying in the library, Matthew preferred errant walks through the university campus."
+},
+{
+  "word": "erratic",
+  "pronunciation": "",
+  "bangla": "অনিয়মিত; অস্থির",
+  "similar word": "",
+  "definition": "unpredictable; strange and unconventional.",
+  "part of speech": "adjective",
+  "example": "It came as no surprise to pundits that the President's attempt at re-election floundered; even during his term, support for his policies was erratic, with an approval rating jumping anywhere from 30 to 60 percent."
+},
+{
+  "word": "euphoria",
+  "pronunciation": "",
+  "bangla": "অতিবৃহৎ আনন্দ",
+  "similar word": "",
+  "definition": "a feeling of great (usually exaggerated) elation.",
+  "part of speech": "noun",
+  "example": "The euphoria of winning her first gold medal in the 100 meter dash overwhelmed Shelly-Ann Fraser and she wept tears of immense joy."
+},
+{
+  "word": "evasive",
+  "pronunciation": "",
+  "bangla": "পরিহারমূলক; এড়িয়ে যাওয়া",
+  "similar word": "",
+  "definition": "avoiding or escaping from difficulty or danger or commitment.",
+  "part of speech": "adjective",
+  "example": "His responses were clearly evasive; he obviously did not want to take on any responsibility or any new work."
+},
+{
+  "word": "evasive",
+  "pronunciation": "",
+  "bangla": "সঙ্কুচিত বা অস্পষ্ট উত্তর দেওয়া",
+  "similar word": "",
+  "definition": "deliberately vague or ambiguous.",
+  "part of speech": "adjective",
+  "example": "Every time I call the bank, I receive the same evasive answers about our mortgage and never get a clear response."
+},
+{
+  "word": "evenhanded",
+  "pronunciation": "",
+  "bangla": "ন্যায়পরায়ণ",
+  "similar word": "",
+  "definition": "without partiality.",
+  "part of speech": "adjective",
+  "example": "Teachers often have trouble being evenhanded to all of their varied students."
+},
+{
+  "word": "exasperate",
+  "pronunciation": "",
+  "bangla": "চরম বিরক্ত করা",
+  "similar word": "",
+  "definition": "to irritate intensely.",
+  "part of speech": "verb",
+  "example": "As a child, I exasperated my mother with strings of never-ending questions."
+},
+{
+  "word": "excruciating",
+  "pronunciation": "",
+  "bangla": "অতিশয় ব্যথাদায়ক",
+  "similar word": "",
+  "definition": "extremely painful.",
+  "part of speech": "adjective",
+  "example": "After the boulder rolled a couple of feet, pinning my friend's arm, he experienced excruciating pain."
+},
+{
+  "word": "exemplify",
+  "pronunciation": "",
+  "bangla": "উদাহরণ হিসেবে দেখানো",
+  "similar word": "",
+  "definition": "be characteristic of.",
+  "part of speech": "verb",
+  "example": "Lincoln exemplified the best of not only America, but also the potential greatness that exists within each person."
+},
+{
+  "word": "exemplify",
+  "pronunciation": "",
+  "bangla": "উদাহরণ দিয়ে ব্যাখ্যা করা",
+  "similar word": "",
+  "definition": "clarify by giving an example of.",
+  "part of speech": "verb",
+  "example": "Please present some case studies that exemplify the results that you claim in your paper."
+},
+{
+  "word": "exhort",
+  "pronunciation": "",
+  "bangla": "উত্সাহ দেওয়া",
+  "similar word": "",
+  "definition": "to strongly urge on; encourage.",
+  "part of speech": "verb",
+  "example": "Nelson's parents exhorted him to study medicine, urging him to choose a respectable profession; intransigent, Nelson left home to become a graffiti artist."
+},
+{
+  "word": "extenuating",
+  "pronunciation": "",
+  "bangla": "কিছুটা হ্রাসকারী; ক্ষমাযোগ্য করার মতো",
+  "similar word": "",
+  "definition": "making less guilty or more forgivable.",
+  "part of speech": "adjective",
+  "example": "The jury was hardly moved by the man's plea that his loneliness was an extenuating factor in his crime of dognapping a prized pooch."
+},
+{
+  "word": "facetious",
+  "pronunciation": "",
+  "bangla": "হাস্যকরভাবে উপহাসমূলক",
+  "similar word": "",
+  "definition": "cleverly amusing in tone.",
+  "part of speech": "adjective",
+  "example": "Facetious behavior will not be tolerated during sex eduation class; it's time for all of you to treat these matters like mature adults."
+},
+{
+  "word": "fawn",
+  "pronunciation": "",
+  "bangla": "চাটুকারিতা করা",
+  "similar word": "",
+  "definition": "try to gain favor by extreme flattery.",
+  "part of speech": "verb",
+  "example": "The media fawned over the handsome new CEO, praising his impeccable sense of style instead of asking more pointed questions."
+},
+{
+  "word": "ferret",
+  "pronunciation": "",
+  "bangla": "ধীরে ধীরে খুঁজে বের করা",
+  "similar word": "",
+  "definition": "to search for something persistently.",
+  "part of speech": "verb",
+  "example": "Ever the resourceful lexicographer, Fenton was able to ferret out the word origin of highly obscure words."
+},
+{
+  "word": "fete",
+  "pronunciation": "",
+  "bangla": "উৎসব করা; সম্মান করা",
+  "similar word": "",
+  "definition": "to celebrate a person.",
+  "part of speech": "verb",
+  "example": "After World War II, war heroes were feted at first but quickly forgotten."
+},
+  {
+  "word": "fickle",
+  "pronunciation": "",
+  "bangla": "চঞ্চল; পরিবর্তনশীল",
+  "similar word": "",
+  "definition": "liable to sudden unpredictable change, esp. in affections or attachments.",
+  "part of speech": "adjective",
+  "example": "She was so fickle in her politics, it was hard to pinpoint her beliefs; one week she would embrace a side, and the next week she would denounce it."
+},
+{
+  "word": "finagle",
+  "pronunciation": "",
+  "bangla": "ছলচাতুরি করে কিছু পাওয়া",
+  "similar word": "",
+  "definition": "achieve something by means of trickery or devious methods.",
+  "part of speech": "verb",
+  "example": "Steven was able to finagle one of the last seats on the train by convincing the conductor that his torn stub was actually a valid ticket."
+},
+{
+  "word": "fledgling",
+  "pronunciation": "",
+  "bangla": "অপ্রশিক্ষিত; নবাগত",
+  "similar word": "",
+  "definition": "young and inexperienced; describing any new participant in some activity.",
+  "part of speech": "adjective",
+  "example": "Murray has years of experience in family practice, but he is just a fledgling in surgery."
+},
+{
+  "word": "fleece",
+  "pronunciation": "",
+  "bangla": "প্রতারণা করা",
+  "similar word": "",
+  "definition": "to deceive.",
+  "part of speech": "verb",
+  "example": "Many people have been fleeced by Internet scams and never received their money back."
+},
+{
+  "word": "flounder",
+  "pronunciation": "",
+  "bangla": "কঠিন পরিস্থিতিতে অচল হওয়া; হোঁচট খাওয়া",
+  "similar word": "",
+  "definition": "behave awkwardly; have difficulties.",
+  "part of speech": "verb",
+  "example": "Sylvia has excelled at advanced calculus, but ironically, when she has deal with taxes, she flounders."
+},
+{
+  "word": "flush",
+  "pronunciation": "",
+  "bangla": "প্রাচুর্যপূর্ণ",
+  "similar word": "",
+  "definition": "to be in abundance.",
+  "part of speech": "adjective",
+  "example": "The exam's passage is flush with difficult words, words that you may have learned only yesterday."
+},
+{
+  "word": "foible",
+  "pronunciation": "",
+  "bangla": "দুর্বল দিক; স্বতন্ত্র তুচ্ছ ত্রুটি",
+  "similar word": "",
+  "definition": "a behavioral attribute that is distinctive and peculiar to an individual.",
+  "part of speech": "noun",
+  "example": "When their new roommate sat staring at an oak tree for an hour, Marcia thought it indicated a mental problem, but Jeff assured her it was a harmless foible."
+},
+{
+  "word": "foolhardy",
+  "pronunciation": "",
+  "bangla": "অবিবেচক; ঝুঁকিপূর্ণ",
+  "similar word": "",
+  "definition": "marked by defiant disregard for danger or consequences.",
+  "part of speech": "adjective",
+  "example": "The police regularly face dangerous situations, so for a police officer not to wear his bullet-proof vest is foolhardy."
+},
+{
+  "word": "forthright",
+  "pronunciation": "",
+  "bangla": "সরাসরি; খোলামেলা",
+  "similar word": "",
+  "definition": "characterized by directness in manner or speech; without subtlety or evasion.",
+  "part of speech": "adjective",
+  "example": "I did not expect the insurance agent to give us any straight answers, but I was pleasant surprised by how forthright he was."
+},
+{
+  "word": "futile",
+  "pronunciation": "",
+  "bangla": "নিরর্থক",
+  "similar word": "",
+  "definition": "producing no result or effect; unproductive of success.",
+  "part of speech": "adjective",
+  "example": "I thought I could repair the car myself, but after two days of work with no success, I have to admit that my efforts were futile."
+},
+{
+  "word": "genial",
+  "pronunciation": "",
+  "bangla": "বন্ধুত্বপূর্ণ; আন্তরিক",
+  "similar word": "",
+  "definition": "agreeable, conducive to comfort.",
+  "part of speech": "adjective",
+  "example": "Betty is a genial young woman: everyone she meets is put at ease by her elegance and grace."
+},
+{
+  "word": "genteel",
+  "pronunciation": "",
+  "bangla": "সুন্দরাচারসম্পন্ন; ভদ্র",
+  "similar word": "",
+  "definition": "marked by refinement in taste and manners.",
+  "part of speech": "adjective",
+  "example": "A live string quartet would provide a more genteel air to the wedding than would a folk singer."
+},
+{
+  "word": "glean",
+  "pronunciation": "",
+  "bangla": "ধীরে ধীরে তথ্য সংগ্রহ করা",
+  "similar word": "",
+  "definition": "collect information bit by bit.",
+  "part of speech": "verb",
+  "example": "Herb has given us no formal statement about his background, but from various hints, I have gleaned that he grew up in difficult circumstances."
+},
+{
+  "word": "glib",
+  "pronunciation": "",
+  "bangla": "মসৃণভাবে কথা বলা কিন্তু অসৎ",
+  "similar word": "",
+  "definition": "(of a person) speaking with ease but without sincerity.",
+  "part of speech": "adjective",
+  "example": "I have found that the more glib the salesman, the worse the product."
+},
+{
+  "word": "goad",
+  "pronunciation": "",
+  "bangla": "প্ররোচনা দেওয়া; চাপ সৃষ্টি করা",
+  "similar word": "",
+  "definition": "urge on with unpleasant comments.",
+  "part of speech": "verb",
+  "example": "Doug did not want to enter the race, but Jim, through a steady stream of taunts, goaded him into signing up for it."
+},
+{
+  "word": "grovel",
+  "pronunciation": "",
+  "bangla": "নম্রতা দেখানো; ভয় প্রদর্শন করা",
+  "similar word": "",
+  "definition": "show submission or fear.",
+  "part of speech": "verb",
+  "example": "Every time Susan comes to the office, Frank grovels as if she were about to fire."
+},
+{
+  "word": "guffaw",
+  "pronunciation": "",
+  "bangla": "উচ্চস্বরে হাসা",
+  "similar word": "",
+  "definition": "laugh boisterously.",
+  "part of speech": "verb",
+  "example": "Whenever the jester fell to the ground in mock pain, the king guffawed, exposing his yellow, fang-like teeth."
+},
+{
+  "word": "hamper",
+  "pronunciation": "",
+  "bangla": "বাধা দেওয়া; আটকে রাখা",
+  "similar word": "",
+  "definition": "prevent the progress or free movement of.",
+  "part of speech": "verb",
+  "example": "As the rain water began to collect in pools on the highway, it began to hamper the flow of traffic."
+},
+{
+  "word": "hamstrung",
+  "pronunciation": "",
+  "bangla": "অকার্যকর বা অক্ষম করা",
+  "similar word": "",
+  "definition": "made ineffective or powerless.",
+  "part of speech": "verb",
+  "example": "The FBI has made so many restrictions on the local police that they are absolutely hamstrung, unable to accomplish anything."
+},
+{
+  "word": "heyday",
+  "pronunciation": "",
+  "bangla": "উচ্চ পর্যায়; সাফল্যের শীর্ষ",
+  "similar word": "",
+  "definition": "the pinnacle or top of a time period or career.",
+  "part of speech": "noun",
+  "example": "During the heyday of Prohibition, bootlegging had become such a lucrative business that many who had been opposed to the 18th Amendment began to fear it would be repealed."
+},
+{
+  "word": "hodgepodge",
+  "pronunciation": "",
+  "bangla": "গোলমাল মিশ্রণ",
+  "similar word": "",
+  "definition": "a confusing mixture or jumble.",
+  "part of speech": "noun",
+  "example": "Those in attendance represented a hodgepodge of the city's denizens: chimney sweepers could be seen sitting elbow to elbow with stockbrokers."
+},
+{
+  "word": "hound",
+  "pronunciation": "",
+  "bangla": "অবিরাম তাড়া করা",
+  "similar word": "",
+  "definition": "to pursue relentlessly.",
+  "part of speech": "verb",
+  "example": "An implacable foe of corruption, Eliot Ness hounded out graft in all forms--he even helped nab Al Capone."
+},
+{
+  "word": "humdrum",
+  "pronunciation": "",
+  "bangla": "নিরস; একঘেয়ে",
+  "similar word": "",
+  "definition": "dull and lacking excitement.",
+  "part of speech": "adjective",
+  "example": "Having grown up in a humdrum suburb, Jacob relished life in New York City after moving."
+},
+{
+  "word": "illicit",
+  "pronunciation": "",
+  "bangla": "অবৈধ",
+  "similar word": "",
+  "definition": "contrary to or forbidden by law.",
+  "part of speech": "adjective",
+  "example": "Though Al Capone was engaged in many illicit activities, he was finally arrested for income tax evasion, a relatively minor offense."
+},
+{
+  "word": "immaterial",
+  "pronunciation": "",
+  "bangla": "অপ্রাসঙ্গিক",
+  "similar word": "",
+  "definition": "not relevant.",
+  "part of speech": "adjective",
+  "example": "The judge found the defendant's comments immaterial to the trial, and summarily dismissed him from the witness stand."
+},
+{
+  "word": "impeccable",
+  "pronunciation": "",
+  "bangla": "দোষহীন; নির্ভুল",
+  "similar word": "",
+  "definition": "without fault or error.",
+  "part of speech": "adjective",
+  "example": "He was impeccably dressed in the latest fashion without a single crease or stain."
+},
+{
+  "word": "impede",
+  "pronunciation": "",
+  "bangla": "প্রতিরোধ করা; বাধা দেওয়া",
+  "similar word": "",
+  "definition": "be a hindrance or obstacle to.",
+  "part of speech": "verb",
+  "example": "Since the police sergeant had to train the pair of new hires, progress in his own case was impeded."
+},
+{
+  "word": "impending",
+  "pronunciation": "",
+  "bangla": "আসন্ন; ঘনিয়ে আসা",
+  "similar word": "",
+  "definition": "close in time; about to occur.",
+  "part of speech": "adjective",
+  "example": "The impending doom of our world has been a discussed and debated for 2000 years--maybe even longer."
+},
+{
+  "word": "impermeable",
+  "pronunciation": "",
+  "bangla": "অপরিবাহী; জল বা তরল পার হতে পারে না",
+  "similar word": "",
+  "definition": "does not allow fluids to pass through.",
+  "part of speech": "adjective",
+  "example": "The sand bags placed on the river formed an impermeable barrier, protecting the town from flooding."
+},
+{
+  "word": "implicate",
+  "pronunciation": "",
+  "bangla": "সম্পৃক্ত করা; বোঝানো",
+  "similar word": "",
+  "definition": "convey a meaning; imply.",
+  "part of speech": "verb",
+  "example": "By saying that some of the guests were uncomfortable, the manager implicated to the hotel staff that it needed to be more diligent."
+},
+{
+  "word": "implicate",
+  "pronunciation": "",
+  "bangla": "অপরাধে জড়িত করা",
+  "similar word": "",
+  "definition": "to indicate in wrongdoing, usually a crime.",
+  "part of speech": "verb",
+  "example": "The crime boss was implicated for a long list of crimes, ranging from murder to disturbing the peace."
+},
+{
+  "word": "imponderable",
+  "pronunciation": "",
+  "bangla": "অনুমান অযোগ্য; অজানা",
+  "similar word": "",
+  "definition": "impossible to estimate or figure out.",
+  "part of speech": "adjective",
+  "example": "According to many lawmakers, the huge variety of factors affecting society make devising an efficient healthcare system an imponderable task."
+},
+{
+  "word": "impregnable",
+  "pronunciation": "",
+  "bangla": "অজেয়; অপ্রভাবিত",
+  "similar word": "",
+  "definition": "immune to attack; incapable of being tampered with.",
+  "part of speech": "adjective",
+  "example": "As a child, Amy would build pillow castles and pretend they were impregnable fortresses."
+},
+{
+  "word": "inadvertent",
+  "pronunciation": "",
+  "bangla": "অচেতন; অনিচ্ছাকৃত",
+  "similar word": "",
+  "definition": "happening by chance or unexpectedly or unintentionally.",
+  "part of speech": "adjective",
+  "example": "Although Prohibition was rooted in noble ideals, the inadvertent and costly consequences of making alcohol illegal in the U.S. led its repeal."
+},
+  {
+  "word": "inarticulate",
+  "pronunciation": "",
+  "bangla": "অস্পষ্টভাবে কথা বলা; বাক্যগঠনে দুর্বল",
+  "similar word": "",
+  "definition": "without or deprived of the use of speech or words.",
+  "part of speech": "adjective",
+  "example": "Although a brilliant economist, Professor Black was completely inarticulate, a terrible lecturer."
+},
+{
+  "word": "incense",
+  "pronunciation": "",
+  "bangla": "রাগান্বিত করা",
+  "similar word": "",
+  "definition": "make furious.",
+  "part of speech": "verb",
+  "example": "When Herb bought football tickets for a game on the day of their wedding anniversary, Jill was incensed."
+},
+{
+  "word": "incessant",
+  "pronunciation": "",
+  "bangla": "অবিরাম; অব্যাহত",
+  "similar word": "",
+  "definition": "uninterrupted in time and indefinitely long continuing.",
+  "part of speech": "adjective",
+  "example": "I don't mind small children in brief doses, but I think the incessant exposure that their parents have to them would quickly wear me down."
+},
+{
+  "word": "inclement",
+  "pronunciation": "",
+  "bangla": "প্রকৃতি বা আবহাওয়া: দুঃসহ, ঝড়ঝড়ি; মানুষ বা আচরণ: নির্মম",
+  "similar word": "",
+  "definition": "(of weather) unpleasant, stormy; (of persons or behavior) showing no mercy.",
+  "part of speech": "adjective",
+  "example": "After a week of inclement weather, we finally are able to go outside and enjoy the sun. Marcus Aurelius, though a fair man, was inclement to Christians during his reign, persecuting them violently."
+},
+{
+  "word": "incumbent",
+  "pronunciation": "",
+  "bangla": "দায়িত্ববাহী; কর্তব্যসিদ্ধ",
+  "similar word": "",
+  "definition": "necessary (for someone) as a duty or responsibility.",
+  "part of speech": "adjective",
+  "example": "Real responsibility for the financial well-being of the corporation is ultimately incumbent on the CEO."
+},
+{
+  "word": "indict",
+  "pronunciation": "",
+  "bangla": "ফরমালভাবে অভিযোগ করা",
+  "similar word": "",
+  "definition": "to formally charge or accuse of wrongdoing.",
+  "part of speech": "verb",
+  "example": "The bankrobber was indicted on several major charges, including possession of a firearm."
+},
+{
+  "word": "indigenous",
+  "pronunciation": "",
+  "bangla": "স্থানীয়; নিজ অঞ্চলের",
+  "similar word": "",
+  "definition": "originating in a certain area.",
+  "part of speech": "adjective",
+  "example": "The plants and animals indigenous to Australia are notably different from those indigenous to the U.S."
+},
+{
+  "word": "indignant",
+  "pronunciation": "",
+  "bangla": "অবিচারের বিরুদ্ধে রাগান্বিত",
+  "similar word": "",
+  "definition": "feeling anger over a perceived injustice.",
+  "part of speech": "adjective",
+  "example": "It forced the driver to brake and elicited an indignant shout of 'Hey, punk, watch where you're going!'"
+},
+{
+  "word": "industrious",
+  "pronunciation": "",
+  "bangla": "পরিশ্রমী; দক্ষ",
+  "similar word": "",
+  "definition": "characterized by hard work and perseverance.",
+  "part of speech": "adjective",
+  "example": "Pete was an industrious student, completing every assignment thoroughly and on time."
+},
+{
+  "word": "inflammable",
+  "pronunciation": "",
+  "bangla": "সহজে উত্তেজিত; অগ্নিসংবেদনশীল",
+  "similar word": "",
+  "definition": "extremely controversial, incendiary.",
+  "part of speech": "adjective",
+  "example": "It only takes one person to leave an inflammable comment on an Internet thread for it to blow up into pages of reader indignation."
+},
+{
+  "word": "ingenuity",
+  "pronunciation": "",
+  "bangla": "সৃজনশীল বুদ্ধিমত্তা",
+  "similar word": "",
+  "definition": "the power of creative imagination.",
+  "part of speech": "noun",
+  "example": "Daedalus was famous for his ingenuity; he was able to fashion his son Icarus with a pair of wings, using wax to hold them together."
+},
+{
+  "word": "inkling",
+  "pronunciation": "",
+  "bangla": "সল্প ধারণা; অনিশ্চিত ইঙ্গিত",
+  "similar word": "",
+  "definition": "a slight suggestion or vague understanding.",
+  "part of speech": "noun",
+  "example": "Lynne speaks four Romance languages, but she doesn't have an inkling about how East Asian languages are structured."
+},
+{
+  "word": "insipid",
+  "pronunciation": "",
+  "bangla": "নিরস; রুচিহীন",
+  "similar word": "",
+  "definition": "dull and uninteresting.",
+  "part of speech": "adjective",
+  "example": "The movie director was known for hiring beautiful actors to deflect attention away from the insipid scripts he would typically use."
+},
+{
+  "word": "insolvent",
+  "pronunciation": "",
+  "bangla": "দেউলিয়া; দেনা শোধ করতে অক্ষম",
+  "similar word": "",
+  "definition": "unable to pay one's bills; bankrupt.",
+  "part of speech": "adjective",
+  "example": "With credit card bills skyrocketing, a shockingly large number of Americans are truly insolvent."
+},
+{
+  "word": "intermittent",
+  "pronunciation": "",
+  "bangla": "বিচ্ছিন্ন; মাঝে মাঝে ঘটতে থাকা",
+  "similar word": "",
+  "definition": "stopping and starting at irregular intervals.",
+  "part of speech": "adjective",
+  "example": "The intermittent thunder continued and the night was punctuated by cracks of lightning."
+},
+{
+  "word": "inundate",
+  "pronunciation": "",
+  "bangla": "বন্যা বা চাপ সৃষ্টি করা",
+  "similar word": "",
+  "definition": "to flood or overwhelm.",
+  "part of speech": "verb",
+  "example": "The newsroom was inundated with false reports that made it difficult to provide an objective account."
+},
+{
+  "word": "irascible",
+  "pronunciation": "",
+  "bangla": "খুব সহজে রাগান্বিত হওয়া",
+  "similar word": "",
+  "definition": "quickly aroused to anger.",
+  "part of speech": "adjective",
+  "example": "If Arthur's dog is not fed adequately, he becomes highly irascible."
+},
+{
+  "word": "irk",
+  "pronunciation": "",
+  "bangla": "রাগানো; বিরক্ত করা",
+  "similar word": "",
+  "definition": "irritate or vex.",
+  "part of speech": "verb",
+  "example": "My little sister has a way of irking and annoying me like no other person."
+},
+{
+  "word": "irresolute",
+  "pronunciation": "",
+  "bangla": "দ্বিধাগ্রস্ত; অস্থির",
+  "similar word": "",
+  "definition": "uncertain how to act or proceed.",
+  "part of speech": "adjective",
+  "example": "He stood irresolute at the split in the trail, not sure which route would lead back to the camp."
+},
+{
+  "word": "jargon",
+  "pronunciation": "",
+  "bangla": "বিশেষ পেশা বা গ্রুপের বিশেষ ভাষা",
+  "similar word": "",
+  "definition": "a characteristic language of a particular group.",
+  "part of speech": "noun",
+  "example": "To those with little training in medicine, the jargon of doctors can be very difficult to understand."
+},
+  {
+  "word": "jocular",
+  "pronunciation": "",
+  "bangla": "হাস্যকর বা রসিক",
+  "similar word": "",
+  "definition": "characterized by jokes and good humor.",
+  "part of speech": "adjective",
+  "example": "My uncle was always in a jocular mood at family gatherings."
+},
+{
+  "word": "junta",
+  "pronunciation": "",
+  "bangla": "সেনাবাহিনীর দ্বারা দখল করা সরকার",
+  "similar word": "",
+  "definition": "an aggressive takeover by a group (usually military).",
+  "part of speech": "noun",
+  "example": "Some analysts believe that were a junta suddenly to gain power, it could be even more unpredictable."
+},
+{
+  "word": "laborious",
+  "pronunciation": "",
+  "bangla": "কঠোর পরিশ্রমী",
+  "similar word": "",
+  "definition": "characterized by effort to the point of exhaustion; especially physical effort.",
+  "part of speech": "adjective",
+  "example": "The most laborious job I've had was working 20 hours a day as a fisherman in Alaska."
+},
+{
+  "word": "leery",
+  "pronunciation": "",
+  "bangla": "সতর্কভাবে সন্দেহপ্রবণ",
+  "similar word": "",
+  "definition": "openly distrustful and unwilling to confide.",
+  "part of speech": "adjective",
+  "example": "Without checking his references, I am leery of hiring the candidate."
+},
+{
+  "word": "lethargic",
+  "pronunciation": "",
+  "bangla": "অলস; উদ্যমহীন",
+  "similar word": "",
+  "definition": "lacking energy.",
+  "part of speech": "adjective",
+  "example": "Nothing can make a person more lethargic than a big turkey dinner."
+},
+{
+  "word": "lucid",
+  "pronunciation": "",
+  "bangla": "স্পষ্ট ও সহজবোধ্য",
+  "similar word": "",
+  "definition": "(of language) transparently clear; easily understandable.",
+  "part of speech": "adjective",
+  "example": "Though Walters writes about physics, his writing is always lucid."
+},
+{
+  "word": "macabre",
+  "pronunciation": "",
+  "bangla": "ভয়ঙ্কর; মৃতদেহ বা মৃত্যুর সঙ্গে সম্পর্কিত",
+  "similar word": "",
+  "definition": "suggesting the horror of death and decay; gruesome.",
+  "part of speech": "adjective",
+  "example": "Edgar Allen Poe was considered the master of the macabre."
+},
+{
+  "word": "malady",
+  "pronunciation": "",
+  "bangla": "রোগ; অসুখ",
+  "similar word": "",
+  "definition": "a disease or sickness.",
+  "part of speech": "noun",
+  "example": "The town was struck by a malady throughout the winter."
+},
+{
+  "word": "malevolent",
+  "pronunciation": "",
+  "bangla": "দ্বেষমূলক; অন্যকে ক্ষতি চাওয়া",
+  "similar word": "",
+  "definition": "wishing or appearing to wish evil to others.",
+  "part of speech": "adjective",
+  "example": "Villains are known for their malevolent nature."
+},
+{
+  "word": "malleable",
+  "pronunciation": "",
+  "bangla": "সাজানো বা বাঁকানো যায় এমন; প্রভাবিত হওয়া সহজ",
+  "similar word": "",
+  "definition": "capable of being shaped or easily influenced.",
+  "part of speech": "adjective",
+  "example": "The clay became malleable after adding water. My little brother is so malleable that I can convince him to sneak cookies."
+},
+{
+  "word": "malodorous",
+  "pronunciation": "",
+  "bangla": "দুর্গন্ধযুক্ত",
+  "similar word": "",
+  "definition": "having an unpleasant smell.",
+  "part of speech": "adjective",
+  "example": "Some thermally active fountains spew sulfur fumes; the air around them is malodorous."
+},
+{
+  "word": "martial",
+  "pronunciation": "",
+  "bangla": "যুদ্ধসংক্রান্ত; সামরিক",
+  "similar word": "",
+  "definition": "suggesting war or military life.",
+  "part of speech": "adjective",
+  "example": "Abraham Lincoln was not at all martial despite the Civil War."
+},
+{
+  "word": "maxim",
+  "pronunciation": "",
+  "bangla": "সংক্ষিপ্ত প্রবাদ বা নীতি",
+  "similar word": "",
+  "definition": "a short saying expressing a general truth.",
+  "part of speech": "noun",
+  "example": "Johnson suggests the secret to business can be summarized in a single maxim."
+},
+{
+  "word": "meander",
+  "pronunciation": "",
+  "bangla": "ভ্রমণ করা; ইচ্ছেমতো ঘুরে বেড়ানো",
+  "similar word": "",
+  "definition": "to wander aimlessly.",
+  "part of speech": "verb",
+  "example": "Peter was meandering through the city seeking places from his past."
+},
+{
+  "word": "melancholy",
+  "pronunciation": "",
+  "bangla": "দীর্ঘস্থায়ী দুঃখ; বিষণ্নতা",
+  "similar word": "",
+  "definition": "a deep, long-lasting sadness.",
+  "part of speech": "noun",
+  "example": "Hamlet is a figure of tremendous melancholy."
+},
+{
+  "word": "melee",
+  "pronunciation": "",
+  "bangla": "হট্টগোল বা দাঙ্গা",
+  "similar word": "",
+  "definition": "a wild, confusing fight or struggle.",
+  "part of speech": "noun",
+  "example": "I pummeled the schoolyard bully and his friends in a brutal melee."
+},
+{
+  "word": "mesmerize",
+  "pronunciation": "",
+  "bangla": "মুগ্ধ করা; মনোযোগ আকর্ষণ করা",
+  "similar word": "",
+  "definition": "to spellbind or enthrall.",
+  "part of speech": "verb",
+  "example": "The plot and characters were so well developed that viewers were mesmerized."
+},
+{
+  "word": "misanthrope",
+  "pronunciation": "",
+  "bangla": "মানুষদ্বেষী",
+  "similar word": "",
+  "definition": "a hater of mankind.",
+  "part of speech": "noun",
+  "example": "Hamilton hid behind the exterior of a misanthrope."
+},
+{
+  "word": "miscreant",
+  "pronunciation": "",
+  "bangla": "অপরাধী",
+  "similar word": "",
+  "definition": "a person who breaks the law.",
+  "part of speech": "noun",
+  "example": "Come back you miscreant! yelled the woman who had her purse stolen."
+},
+{
+  "word": "miser",
+  "pronunciation": "",
+  "bangla": "কৃপণ ব্যক্তি",
+  "similar word": "",
+  "definition": "a person who doesn't like to spend money.",
+  "part of speech": "noun",
+  "example": "Monte was no miser, but simply frugal."
+},
+{
+  "word": "misogynist",
+  "pronunciation": "",
+  "bangla": "নারীদ্বেষী",
+  "similar word": "",
+  "definition": "a person who dislikes women in particular.",
+  "part of speech": "noun",
+  "example": "Many have accused Hemingway of being a misogynist."
+},
+{
+  "word": "moment",
+  "pronunciation": "",
+  "bangla": "গুরুত্বপূর্ণ মুহূর্ত",
+  "similar word": "",
+  "definition": "significant and important value.",
+  "part of speech": "noun",
+  "example": "The play was of no great moment in Hampton's writing career."
+},
+{
+  "word": "moot",
+  "pronunciation": "",
+  "bangla": "বিতর্কসাপেক্ষ; অর্থহীনভাবে সিদ্ধান্তহীন",
+  "similar word": "",
+  "definition": "open to argument or debate; undecidable in a meaningless way.",
+  "part of speech": "adjective",
+  "example": "Since Steve was terminated, his plan is now a moot point."
+},
+{
+  "word": "morose",
+  "pronunciation": "",
+  "bangla": "বিষণ্ন; মনমরা",
+  "similar word": "",
+  "definition": "ill-tempered and gloomy.",
+  "part of speech": "adjective",
+  "example": "He sat in his room morosely after missing the vacation."
+},
+{
+  "word": "morph",
+  "pronunciation": "",
+  "bangla": "ধীরে ধীরে পরিবর্তিত হওয়া",
+  "similar word": "",
+  "definition": "to undergo dramatic change in a seamless way.",
+  "part of speech": "verb",
+  "example": "Daytime talk shows of the 1970s morphed into sensational programs."
+},
+{
+  "word": "muted",
+  "pronunciation": "",
+  "bangla": "নরম; শান্ত",
+  "similar word": "",
+  "definition": "softened, subdued.",
+  "part of speech": "adjective",
+  "example": "Helen preferred muted earth colors."
+},
+{
+  "word": "obdurate",
+  "pronunciation": "",
+  "bangla": "হঠকারী; জেদি",
+  "similar word": "",
+  "definition": "stubbornly persistent in opinion or action.",
+  "part of speech": "adjective",
+  "example": "No number of pleas would change his obdurate attitude."
+},
+{
+  "word": "obliging",
+  "pronunciation": "",
+  "bangla": "সদয়; সাহায্যপ্রবণ",
+  "similar word": "",
+  "definition": "showing a cheerful willingness to do favors for others.",
+  "part of speech": "adjective",
+  "example": "I found him to be obliging, sharing his secret tips."
+},
+{
+  "word": "obstinate",
+  "pronunciation": "",
+  "bangla": "জেদী; নির্দেশ মানতে অস্বীকার করা",
+  "similar word": "",
+  "definition": "resistant to guidance; stubbornly persistent.",
+  "part of speech": "adjective",
+  "example": "Sarah remained obstinate despite the coach's suggestions."
+},
+{
+  "word": "ornate",
+  "pronunciation": "",
+  "bangla": "অলঙ্কৃত; বিস্তারিত সহ শোভিত",
+  "similar word": "",
+  "definition": "marked by elaborate rhetoric and decorative details.",
+  "part of speech": "adjective",
+  "example": "The ornate Victorian homes are my favorite part of the city."
+},
+{
+  "word": "paradoxical",
+  "pronunciation": "",
+  "bangla": "বিরোধপূর্ণ কিন্তু সম্ভবত সত্য",
+  "similar word": "",
+  "definition": "seemingly contradictory but possibly true.",
+  "part of speech": "adjective",
+  "example": "Light can be both particle and wave, which seems paradoxical."
+},
+{
+  "word": "pastoral",
+  "pronunciation": "",
+  "bangla": "গ্রাম্য; শান্তিপূর্ণ গ্রামীণ জীবন",
+  "similar word": "",
+  "definition": "relating to the countryside in a pleasant sense.",
+  "part of speech": "adjective",
+  "example": "Many imagine America's countryside as a pastoral region."
+},
+{
+  "word": "patronize",
+  "pronunciation": "",
+  "bangla": "উপরে থেকেআচরণ করা; তুচ্ছ করা",
+  "similar word": "",
+  "definition": "treat condescendingly.",
+  "part of speech": "verb",
+  "example": "She patronized me, constantly pointing out how I was inferior."
+},
+{
+  "word": "paucity",
+  "pronunciation": "",
+  "bangla": "অপ্রচুরতা; অভাব",
+  "similar word": "",
+  "definition": "a lack of something.",
+  "part of speech": "noun",
+  "example": "There is a paucity of jobs hiring today that require menial skills."
+},
+{
+  "word": "peevish",
+  "pronunciation": "",
+  "bangla": "সোজাসাপ্টা বিরক্তপ্রবণ",
+  "similar word": "",
+  "definition": "easily irritated or annoyed.",
+  "part of speech": "adjective",
+  "example": "Our office manager is peevish, so we tip-toe around him."
+},
+{
+  "word": "perennial",
+  "pronunciation": "",
+  "bangla": "দীর্ঘস্থায়ী; চিরস্থায়ী",
+  "similar word": "",
+  "definition": "lasting an indefinitely long time; eternal.",
+  "part of speech": "adjective",
+  "example": "Stan Musial was a perennial favorite of the fans."
+},
+{
+  "word": "perpetuate",
+  "pronunciation": "",
+  "bangla": "চলতে দিতে থাকা; স্থায়ী করা",
+  "similar word": "",
+  "definition": "cause to continue.",
+  "part of speech": "verb",
+  "example": "You are merely perpetuating bad habits by doing things for him."
+},
+  {
+  "word": "perquisite",
+  "pronunciation": "",
+  "bangla": "অতিরিক্ত সুবিধা; বিশেষ অধিকার",
+  "similar word": "",
+  "definition": "a right reserved exclusively by a particular person or group.",
+  "part of speech": "noun",
+  "example": "Josh had the perquisite of eating terrific food at half price."
+},
+{
+  "word": "pertinent",
+  "pronunciation": "",
+  "bangla": "প্রাসঙ্গিক; উপযুক্ত",
+  "similar word": "",
+  "definition": "having precise or logical relevance to the matter at hand.",
+  "part of speech": "adjective",
+  "example": "Such monetary figures are not pertinent to the question of who plays the best."
+},
+{
+  "word": "perturb",
+  "pronunciation": "",
+  "bangla": "উদ্বিগ্ন করা; বিরক্ত করা",
+  "similar word": "",
+  "definition": "disturb in mind or cause to be worried or alarmed.",
+  "part of speech": "verb",
+  "example": "Henry no longer lets trivialities perturb him."
+},
+{
+  "word": "peruse",
+  "pronunciation": "",
+  "bangla": "সাবধানে পড়া",
+  "similar word": "",
+  "definition": "to read very carefully.",
+  "part of speech": "verb",
+  "example": "People often rush to the bottom instead of perusing important documents."
+},
+{
+  "word": "pine",
+  "pronunciation": "",
+  "bangla": "আকুলভাবে আকাঙ্ক্ষা করা",
+  "similar word": "",
+  "definition": "to yearn for.",
+  "part of speech": "verb",
+  "example": "She pined for her lost love."
+},
+{
+  "word": "pinnacle",
+  "pronunciation": "",
+  "bangla": "চূড়ান্ত শিখর; সর্বোচ্চ বিন্দু",
+  "similar word": "",
+  "definition": "the highest point.",
+  "part of speech": "noun",
+  "example": "At its pinnacle, the Roman Empire extended across most of Eurasia."
+},
+{
+  "word": "piquant",
+  "pronunciation": "",
+  "bangla": "সুনিপুণ স্বাদযুক্ত; ঝাঁঝালো",
+  "similar word": "",
+  "definition": "having an agreeably pungent taste.",
+  "part of speech": "adjective",
+  "example": "The chef turned the bland soup into a piquant meal."
+},
+{
+  "word": "pithy",
+  "pronunciation": "",
+  "bangla": "সংক্ষিপ্ত কিন্তু অর্থপূর্ণ",
+  "similar word": "",
+  "definition": "concise and full of meaning.",
+  "part of speech": "adjective",
+  "example": "I enjoy reading the Daodejing for its pithy and insightful prose."
+},
+{
+  "word": "pittance",
+  "pronunciation": "",
+  "bangla": "অল্প পরিমাণ অর্থ",
+  "similar word": "",
+  "definition": "a small amount (of money).",
+  "part of speech": "noun",
+  "example": "Even twice the amount would have been a mere pittance."
+},
+{
+  "word": "placid",
+  "pronunciation": "",
+  "bangla": "শান্ত; সহজে উত্তেজিত নয়",
+  "similar word": "",
+  "definition": "not easily irritated.",
+  "part of speech": "adjective",
+  "example": "Doug is normally placid, so we were shocked to see him yelling."
+},
+{
+  "word": "plodding",
+  "pronunciation": "",
+  "bangla": "ধীর এবং শ্রমসাধ্য",
+  "similar word": "",
+  "definition": "(of movement) slow and laborious.",
+  "part of speech": "adjective",
+  "example": "Charlie may seem to run at a plodding pace, but he is an ultramarathoner."
+},
+{
+  "word": "ploy",
+  "pronunciation": "",
+  "bangla": "চতুর পরিকল্পনা",
+  "similar word": "",
+  "definition": "a clever plan to turn a situation to one's advantage.",
+  "part of speech": "noun",
+  "example": "Dennis arranged an elaborate ploy so he could meet Mary by chance."
+},
+{
+  "word": "powwow",
+  "pronunciation": "",
+  "bangla": "অফিশিয়াল নয় এমন বৈঠক বা আলোচনা",
+  "similar word": "",
+  "definition": "an informal meeting or discussion.",
+  "part of speech": "noun",
+  "example": "The coach always calls for a powwow before the team takes the field."
+},
+{
+  "word": "precarious",
+  "pronunciation": "",
+  "bangla": "অসুবিধাজনক বা ঝুঁকিপূর্ণ",
+  "similar word": "",
+  "definition": "fraught with danger.",
+  "part of speech": "adjective",
+  "example": "Smoking is far more precarious than mountain-climbing or skydiving."
+},
+{
+  "word": "precedent",
+  "pronunciation": "",
+  "bangla": "পূর্ব উদাহরণ; নীতি স্থাপনকারী ঘটনা",
+  "similar word": "",
+  "definition": "an example used to justify similar occurrences later.",
+  "part of speech": "noun",
+  "example": "The outfits that student wore did not establish a precedent for school dances."
+},
+{
+  "word": "preempt",
+  "pronunciation": "",
+  "bangla": "প্রাধান্য দেওয়া; আগে করা",
+  "similar word": "",
+  "definition": "take the place of or have precedence over.",
+  "part of speech": "verb",
+  "example": "A warning about a terrorist attack would preempt ordinary network programming."
+},
+{
+  "word": "preemptive",
+  "pronunciation": "",
+  "bangla": "আগে করণীয়; প্রতিরোধমূলক",
+  "similar word": "",
+  "definition": "done before someone else can do it.",
+  "part of speech": "adjective",
+  "example": "Noah preemptively swiped the last cookie."
+},
+{
+  "word": "presumption",
+  "pronunciation": "",
+  "bangla": "অনুমান; অতিরিক্ত সাহস",
+  "similar word": "",
+  "definition": "an assumption taken for granted; audacious behavior.",
+  "part of speech": "noun",
+  "example": "He acted under the presumption that his son had taken the car. / The neighbor gained a reputation for her presumption."
+},
+{
+  "word": "presumptuous",
+  "pronunciation": "",
+  "bangla": "অতিরিক্ত সাহসী; অধিকারবঞ্চিত",
+  "similar word": "",
+  "definition": "excessively forward.",
+  "part of speech": "adjective",
+  "example": "Barney was presumptuous in moving into the large office early."
+},
+{
+  "word": "prevail",
+  "pronunciation": "",
+  "bangla": "প্রচলিত হওয়া; সর্বোচ্চ থাকা",
+  "similar word": "",
+  "definition": "be widespread; prove superior.",
+  "part of speech": "verb",
+  "example": "During labor negotiations, hostility prevailed. / India prevailed over Australia."
+},
+{
+  "word": "pristine",
+  "pronunciation": "",
+  "bangla": "অক্ষত; নির্মল",
+  "similar word": "",
+  "definition": "unspoiled, untouched; immaculately clean.",
+  "part of speech": "adjective",
+  "example": "The glacial lake was pristine. / Drill sergeants demand pristine uniforms."
+},
+{
+  "word": "profuse",
+  "pronunciation": "",
+  "bangla": "প্রচুর; প্রবল",
+  "similar word": "",
+  "definition": "plentiful; pouring out in abundance.",
+  "part of speech": "adjective",
+  "example": "Dwayne was sweating profusely during the marathon."
+},
+{
+  "word": "profusion",
+  "pronunciation": "",
+  "bangla": "প্রচুর পরিমাণ; অশেষতা",
+  "similar word": "",
+  "definition": "the property of being extremely abundant.",
+  "part of speech": "noun",
+  "example": "A profusion of reporters descended on the town."
+},
+{
+  "word": "proponent",
+  "pronunciation": "",
+  "bangla": "সমর্থক; পক্ষপাতী",
+  "similar word": "",
+  "definition": "a person who pleads for a cause or idea.",
+  "part of speech": "noun",
+  "example": "The leading proponent of Flat-Earth Theory travels to gain adherents."
+},
+{
+  "word": "provisional",
+  "pronunciation": "",
+  "bangla": "অস্থায়ী; সাময়িক",
+  "similar word": "",
+  "definition": "under terms not final or fully agreed upon.",
+  "part of speech": "adjective",
+  "example": "We will share the offices in a provisional arrangement."
+},
+{
+  "word": "pugnacious",
+  "pronunciation": "",
+  "bangla": "ঝগড়াটে; লড়াইপ্রিয়",
+  "similar word": "",
+  "definition": "eager to fight or argue.",
+  "part of speech": "adjective",
+  "example": "The comedian pugnaciously shouted back at the booing audience."
+},
+{
+  "word": "qualm",
+  "pronunciation": "",
+  "bangla": "অনিশ্চয়তা বা সংশয়",
+  "similar word": "",
+  "definition": "uneasiness about the fitness of an action.",
+  "part of speech": "noun",
+  "example": "He felt qualms about committing resources to Harkner's plan."
+},
+{
+  "word": "quandary",
+  "pronunciation": "",
+  "bangla": "দুর্দশা; দ্বিধা",
+  "similar word": "",
+  "definition": "state of uncertainty requiring a choice between unfavorable options.",
+  "part of speech": "noun",
+  "example": "Steve was in a quandary about calling Elaine."
+},
+{
+  "word": "quip",
+  "pronunciation": "",
+  "bangla": "রসিক মন্তব্য; ছলচাতুরি",
+  "similar word": "",
+  "definition": "a witty saying or remark.",
+  "part of speech": "noun",
+  "example": "Mark Twain's quip: 'Wagner's music is better than it sounds.'"
+},
+{
+  "word": "raffish",
+  "pronunciation": "",
+  "bangla": "অপসৃয়তা বা উদাসীন আচরণযুক্ত",
+  "similar word": "",
+  "definition": "marked by carefree unconventionality or disreputableness.",
+  "part of speech": "adjective",
+  "example": "The men found him raffish, but the women adored him."
+},
+{
+  "word": "raft",
+  "pronunciation": "",
+  "bangla": "অসংখ্য; প্রচুর",
+  "similar word": "",
+  "definition": "a large number of something.",
+  "part of speech": "noun",
+  "example": "Despite a raft of ordinances, noise pollution continued."
+},
+{
+  "word": "rakish",
+  "pronunciation": "",
+  "bangla": "অপরিচ্ছন্ন বা উদাসীনভাবে আকর্ষণীয়",
+  "similar word": "",
+  "definition": "marked by carefree unconventionality or disreputableness.",
+  "part of speech": "adjective",
+  "example": "The rakish young man headed for the seedy parts of town."
+},
+{
+  "word": "rankle",
+  "pronunciation": "",
+  "bangla": "বিরক্ত করা; ক্ষুব্ধ করা",
+  "similar word": "",
+  "definition": "gnaw into; make resentful or angry.",
+  "part of speech": "verb",
+  "example": "His whistling would rankle her."
+},
+{
+  "word": "rash",
+  "pronunciation": "",
+  "bangla": "অবিচক্ষণ; লঘু ঝুঁকি নেওয়া",
+  "similar word": "",
+  "definition": "marked by defiant disregard for danger or consequences.",
+  "part of speech": "adjective",
+  "example": "Susan criticized Bruce's actions as rash."
+},
+{
+  "word": "redress",
+  "pronunciation": "",
+  "bangla": "ক্ষতিপূরণ; সমাধান",
+  "similar word": "",
+  "definition": "an act of making something right.",
+  "part of speech": "noun",
+  "example": "Barry redressed his oversight by surprising his wife with a trip."
+},
+{
+  "word": "relegate",
+  "pronunciation": "",
+  "bangla": "নিম্নপদে প্রেরণ করা",
+  "similar word": "",
+  "definition": "assign to a lower position.",
+  "part of speech": "verb",
+  "example": "Dexter was relegated to kitchen cleanup."
+},
+{
+  "word": "remiss",
+  "pronunciation": "",
+  "bangla": "অবহেলাকারী; দায়িত্বে উদাসীন",
+  "similar word": "",
+  "definition": "to be negligent in one's duty.",
+  "part of speech": "adjective",
+  "example": "The principal was remiss in keeping the school functioning efficiently."
+},
+{
+  "word": "renege",
+  "pronunciation": "",
+  "bangla": "প্রতিশ্রুতি ভঙ্গ করা",
+  "similar word": "",
+  "definition": "fail to fulfill a promise or obligation.",
+  "part of speech": "verb",
+  "example": "The vendor reneged on nearly every agreement."
+},
+{
+  "word": "replete",
+  "pronunciation": "",
+  "bangla": "পূর্ণ; সজ্জিত",
+  "similar word": "",
+  "definition": "completely stocked or furnished with something.",
+  "part of speech": "adjective",
+  "example": "The supermarket shelves were replete with goods."
+},
+{
+  "word": "reprobate",
+  "pronunciation": "",
+  "bangla": "অপছন্দনীয় ব্যক্তি",
+  "similar word": "",
+  "definition": "a person who is disapproved of.",
+  "part of speech": "noun",
+  "example": "Those old reprobates drinking by the river will not amount to much."
+},
+{
+  "word": "reservation",
+  "pronunciation": "",
+  "bangla": "সংশয়; দ্বিধা",
+  "similar word": "",
+  "definition": "an unstated doubt preventing wholehearted acceptance.",
+  "part of speech": "noun",
+  "example": "I have some reservations about a trip to Washington, D.C."
+},
+{
+  "word": "resignation",
+  "pronunciation": "",
+  "bangla": "সম্মতি স্বীকার করা; স্থিতপ্রজ্ঞতা",
+  "similar word": "",
+  "definition": "acceptance of something unpleasant that can't be avoided.",
+  "part of speech": "noun",
+  "example": "He attended the seminar with a sense of resignation."
+},
+{
+  "word": "resolve",
+  "pronunciation": "",
+  "bangla": "নিশ্চয়তা বা সিদ্ধান্তে পৌঁছানো",
+  "similar word": "",
+  "definition": "reach a conclusion after deliberation.",
+  "part of speech": "verb",
+  "example": "Ted resolved not to travel abroad this summer."
+},
+{
+  "word": "respite",
+  "pronunciation": "",
+  "bangla": "বিরতি; বিশ্রাম",
+  "similar word": "",
+  "definition": "a pause from doing something.",
+  "part of speech": "noun",
+  "example": "The company has a respite each afternoon for games."
+},
+{
+  "word": "retiring",
+  "pronunciation": "",
+  "bangla": "লাজুক; সংরক্ষিত",
+  "similar word": "",
+  "definition": "shy and inclined to retract from company.",
+  "part of speech": "adjective",
+  "example": "Nelson was always the first to leave soirees, preferring solitude."
+},
+{
+  "word": "retract",
+  "pronunciation": "",
+  "bangla": "পেছনে তোলা; প্রত্যাহার করা",
+  "similar word": "",
+  "definition": "pull inward; formally reject a previously held belief.",
+  "part of speech": "verb",
+  "example": "Once something awkward has been sent, there is no way to retract it."
+},
+{
+  "word": "rile",
+  "pronunciation": "",
+  "bangla": "রাগানো; বিরক্ত করা",
+  "similar word": "",
+  "definition": "cause annoyance; disturb by minor irritations.",
+  "part of speech": "verb",
+  "example": "It takes only one glare from Sabrina to rile Dan."
+},
+{
+  "word": "robust",
+  "pronunciation": "",
+  "bangla": "মজবুত; শক্তিশালী",
+  "similar word": "",
+  "definition": "sturdy and strong in form or construction.",
+  "part of speech": "adjective",
+  "example": "Bhavin preferred a beer with more robust flavor."
+},
+  {
+  "word": "sanctimonious",
+  "pronunciation": "",
+  "bangla": "পুণ্য প্রদর্শনমূলক; ভণ্ড",
+  "similar word": "",
+  "definition": "making a show of being pious; holier-than-thou.",
+  "part of speech": "adjective",
+  "example": "She held a sanctimonious sneer during evening prayer."
+},
+{
+  "word": "sanguine",
+  "pronunciation": "",
+  "bangla": "আশাবাদী; প্রাণবন্ত",
+  "similar word": "",
+  "definition": "cheerful; optimistic.",
+  "part of speech": "adjective",
+  "example": "Paul was anything but sanguine about learning 3,000 words over the summer."
+},
+{
+  "word": "savvy",
+  "pronunciation": "",
+  "bangla": "জ্ঞাত; বুদ্ধিমান",
+  "similar word": "",
+  "definition": "a perceptive understanding.",
+  "part of speech": "noun",
+  "example": "He did not have the political savvy to win the election."
+},
+{
+  "word": "savvy",
+  "pronunciation": "",
+  "bangla": "বোঝা; উপলব্ধি করা",
+  "similar word": "",
+  "definition": "get the meaning of something.",
+  "part of speech": "verb",
+  "example": "The student savvies the meaning of astrophysics easily."
+},
+{
+  "word": "savvy",
+  "pronunciation": "",
+  "bangla": "জ্ঞাতসার; সচেতন",
+  "similar word": "",
+  "definition": "well-informed or perceptive.",
+  "part of speech": "adjective",
+  "example": "With his savvy business partner, the company profited within a year."
+},
+{
+  "word": "scintillating",
+  "pronunciation": "",
+  "bangla": "উজ্জ্বল এবং জীবন্ত",
+  "similar word": "",
+  "definition": "describes someone who is brilliant and lively.",
+  "part of speech": "adjective",
+  "example": "Feynman was renowned for his scintillating lectures."
+},
+{
+  "word": "screed",
+  "pronunciation": "",
+  "bangla": "কথার ধারাবাহিক আক্রমণ; দীর্ঘ বক্তৃতা",
+  "similar word": "",
+  "definition": "an abusive rant (often tedious).",
+  "part of speech": "noun",
+  "example": "Perry launched into a screed against big business."
+},
+{
+  "word": "sentimental",
+  "pronunciation": "",
+  "bangla": "অতিরিক্ত আবেগপূর্ণ; অনুভূতিপরায়ণ",
+  "similar word": "",
+  "definition": "effusively or insincerely emotional.",
+  "part of speech": "adjective",
+  "example": "Romanticism is overly sentimental."
+},
+{
+  "word": "serendipity",
+  "pronunciation": "",
+  "bangla": "সদ্ভাবনামূলক আকস্মিক আবিষ্কার",
+  "similar word": "",
+  "definition": "an accidental, fortunate discovery.",
+  "part of speech": "noun",
+  "example": "The 3M Post It Note was a product of serendipity."
+},
+{
+  "word": "serene",
+  "pronunciation": "",
+  "bangla": "শান্ত; স্থির",
+  "similar word": "",
+  "definition": "calm and peaceful.",
+  "part of speech": "adjective",
+  "example": "He appeared unusually serene during trading hours."
+},
+{
+  "word": "slapdash",
+  "pronunciation": "",
+  "bangla": "অবহেলাপূর্ণ; তাড়াহুড়ো করে করা",
+  "similar word": "",
+  "definition": "carelessly and hastily put together.",
+  "part of speech": "adjective",
+  "example": "The building was constructed in a slapdash manner."
+},
+{
+  "word": "smattering",
+  "pronunciation": "",
+  "bangla": "সামান্য জ্ঞান; অল্প পরিমাণ",
+  "similar word": "",
+  "definition": "a slight or superficial understanding; a small amount of something.",
+  "part of speech": "noun",
+  "example": "I know only a smattering of German."
+},
+{
+  "word": "smug",
+  "pronunciation": "",
+  "bangla": "আত্মতুষ্ট; অহংকারী",
+  "similar word": "",
+  "definition": "marked by excessive complacency or self-satisfaction.",
+  "part of speech": "adjective",
+  "example": "Phil had a smug attitude dating the model."
+},
+{
+  "word": "snide",
+  "pronunciation": "",
+  "bangla": "বিদ্রূপাত্মক; কটু",
+  "similar word": "",
+  "definition": "expressive of contempt; indirectly mocking.",
+  "part of speech": "adjective",
+  "example": "Taylor's question was interpreted as a snide remark."
+},
+{
+  "word": "snub",
+  "pronunciation": "",
+  "bangla": "অস্বীকার করা; উত্যক্তভাবে প্রত্যাখ্যান করা",
+  "similar word": "",
+  "definition": "refuse to acknowledge; reject bluntly.",
+  "part of speech": "verb",
+  "example": "The board snubbed Wheeler in favor of a lesser candidate."
+},
+{
+  "word": "sordid",
+  "pronunciation": "",
+  "bangla": "কপট; নোংরা; কুচক্রী",
+  "similar word": "",
+  "definition": "involving ignoble actions or motives; morally distasteful.",
+  "part of speech": "adjective",
+  "example": "The tabloid published all the sordid details of the senator's affair."
+},
+{
+  "word": "spendthrift",
+  "pronunciation": "",
+  "bangla": "অর্থব্যয়ী ব্যক্তি",
+  "similar word": "",
+  "definition": "one who spends money extravagantly.",
+  "part of speech": "noun",
+  "example": "Megan was a spendthrift with her weekly trips to Vegas."
+},
+{
+  "word": "spurn",
+  "pronunciation": "",
+  "bangla": "অবজ্ঞা করে প্রত্যাখ্যান করা",
+  "similar word": "",
+  "definition": "reject with contempt.",
+  "part of speech": "verb",
+  "example": "She spurned all his proposals."
+},
+{
+  "word": "squander",
+  "pronunciation": "",
+  "bangla": "অবিবেচকভাবে খরচ করা; নষ্ট করা",
+  "similar word": "",
+  "definition": "spend thoughtlessly; waste resources.",
+  "part of speech": "verb",
+  "example": "He feared his money would be squandered by his family."
+},
+{
+  "word": "staid",
+  "pronunciation": "",
+  "bangla": "গম্ভীর; সংযত",
+  "similar word": "",
+  "definition": "characterized by dignity and propriety.",
+  "part of speech": "adjective",
+  "example": "Frank was shocked by his roommate's behavior due to his staid upbringing."
+},
+{
+  "word": "start",
+  "pronunciation": "",
+  "bangla": "হঠাৎ সরানো; শুরু করা",
+  "similar word": "",
+  "definition": "to suddenly move in a particular direction.",
+  "part of speech": "verb",
+  "example": "Henrietta started when she heard a sound alone in the mansion."
+},
+{
+  "word": "steadfast",
+  "pronunciation": "",
+  "bangla": "অটল; দৃঢ়প্রতিজ্ঞ",
+  "similar word": "",
+  "definition": "marked by firm determination; not shakable.",
+  "part of speech": "adjective",
+  "example": "A good captain needs to be steadfast during violent storms."
+},
+{
+  "word": "stem",
+  "pronunciation": "",
+  "bangla": "প্রতিরোধ করা; সীমিত করা",
+  "similar word": "",
+  "definition": "to hold back or limit the flow or growth of something.",
+  "part of speech": "verb",
+  "example": "To stem applications, the Ivy requires GRE ≥330."
+},
+{
+  "word": "stipend",
+  "pronunciation": "",
+  "bangla": "মাসিক ভাতা; নিয়মিত অর্থ সাহায্য",
+  "similar word": "",
+  "definition": "a regular allowance (of money).",
+  "part of speech": "noun",
+  "example": "No stipend was forthcoming, so he sought other means for tuition."
+},
+{
+  "word": "stolid",
+  "pronunciation": "",
+  "bangla": "অবিচল; অমায়িক",
+  "similar word": "",
+  "definition": "having or revealing little emotion; not easily excited.",
+  "part of speech": "adjective",
+  "example": ""
+},
+{
+  "word": "stymie",
+  "pronunciation": "",
+  "bangla": "বাধা দেয়া; রোধ করা",
+  "similar word": "",
+  "definition": "hinder or prevent progress.",
+  "part of speech": "verb",
+  "example": "The engineers' plans were stymied at every turn."
+},
+{
+  "word": "summit",
+  "pronunciation": "",
+  "bangla": "শিখর; শীর্ষস্থান",
+  "similar word": "",
+  "definition": "the peak or highest point.",
+  "part of speech": "noun",
+  "example": "The climbers reached the summit of Kilimanjaro."
+},
+{
+  "word": "summit",
+  "pronunciation": "",
+  "bangla": "শীর্ষ সভা; নেতাদের বৈঠক",
+  "similar word": "",
+  "definition": "a meeting of high-level leaders.",
+  "part of speech": "noun",
+  "example": "This summit will help set climate change goals."
+},
+  {
+  "word": "surly",
+  "pronunciation": "",
+  "bangla": "রূঢ়; ক্রোধপূর্ণ",
+  "similar word": "",
+  "definition": "inclined to anger or bad feelings with overtones of menace.",
+  "part of speech": "adjective",
+  "example": "Bhavin was a surly person in the morning."
+},
+{
+  "word": "tact",
+  "pronunciation": "",
+  "bangla": "মর্যাদা ও সংযম বজায় রেখে আচরণ",
+  "similar word": "",
+  "definition": "consideration in dealing with others and avoiding giving offense.",
+  "part of speech": "noun",
+  "example": "Shelly maintained a strong friendship with tact."
+},
+{
+  "word": "tarnish",
+  "pronunciation": "",
+  "bangla": "ধূসর বা কলঙ্কিত করা; ক্ষতিগ্রস্ত করা",
+  "similar word": "",
+  "definition": "make dirty or spotty, as by exposure to air; also used metaphorically.",
+  "part of speech": "verb",
+  "example": "Pete Rose's gambling tarnished his image."
+},
+{
+  "word": "tawdry",
+  "pronunciation": "",
+  "bangla": "সস্তা ও চটকদার; অশ্লীলভাবে আকর্ষণীয়",
+  "similar word": "",
+  "definition": "tastelessly showy; cheap and shoddy.",
+  "part of speech": "adjective",
+  "example": "Carol was surprised by tawdry displays in NYC."
+},
+{
+  "word": "taxing",
+  "pronunciation": "",
+  "bangla": "দুরূহ; ক্লান্তিকর",
+  "similar word": "",
+  "definition": "use to the limit; exhaust.",
+  "part of speech": "adjective",
+  "example": "The hike to Mt. Whitney was so taxing."
+},
+{
+  "word": "telling",
+  "pronunciation": "",
+  "bangla": "গুরুত্বপূর্ণ ও প্রকাশক",
+  "similar word": "",
+  "definition": "significant and revealing of another factor.",
+  "part of speech": "adjective",
+  "example": "Her unbecoming dress was very telling."
+},
+{
+  "word": "telltale",
+  "pronunciation": "",
+  "bangla": "প্রকাশক; সব জানানো",
+  "similar word": "",
+  "definition": "revealing.",
+  "part of speech": "adjective",
+  "example": "Yellow teeth are telltale signs of smoking."
+},
+{
+  "word": "tender",
+  "pronunciation": "",
+  "bangla": "প্রস্তাব দেওয়া; সরবরাহ করা",
+  "similar word": "",
+  "definition": "offer up something formally.",
+  "part of speech": "verb",
+  "example": "The government was loath to tender more money."
+},
+{
+  "word": "thoroughgoing",
+  "pronunciation": "",
+  "bangla": "সম্পূর্ণ; সঠিক ও গভীর",
+  "similar word": "",
+  "definition": "very thorough; complete.",
+  "part of speech": "adjective",
+  "example": "He shocked friends by buying a Kindle despite being a thoroughgoing bibliophile."
+},
+{
+  "word": "thrifty",
+  "pronunciation": "",
+  "bangla": "সচেতনভাবে খরচকারী; মিতব্যয়ী",
+  "similar word": "",
+  "definition": "spending money wisely.",
+  "part of speech": "adjective",
+  "example": "He spent money thriftily on essentials."
+},
+{
+  "word": "thwart",
+  "pronunciation": "",
+  "bangla": "বাধা দেওয়া; ব্যর্থ করা",
+  "similar word": "",
+  "definition": "hinder or prevent (the efforts, plans, or desires) of.",
+  "part of speech": "verb",
+  "example": "High travel costs thwarted my plans."
+},
+{
+  "word": "tirade",
+  "pronunciation": "",
+  "bangla": "রাগান্বিত বক্তৃতা; গালাগালি",
+  "similar word": "",
+  "definition": "an angry speech.",
+  "part of speech": "noun",
+  "example": "A political tirade often does little besides anger the speaker."
+},
+{
+  "word": "tout",
+  "pronunciation": "",
+  "bangla": "প্রশংসা করা; প্রচার করা",
+  "similar word": "",
+  "definition": "advertize in strongly positive terms; show off.",
+  "part of speech": "verb",
+  "example": "The CEO touted his R&D division's success."
+},
+{
+  "word": "transitory",
+  "pronunciation": "",
+  "bangla": "অস্থায়ী; ক্ষণস্থায়ী",
+  "similar word": "",
+  "definition": "lasting a very short time.",
+  "part of speech": "adjective",
+  "example": "Life is transitory."
+},
+{
+  "word": "travail",
+  "pronunciation": "",
+  "bangla": "শ্রম; কষ্ট; যন্ত্রণা",
+  "similar word": "",
+  "definition": "use of physical or mental energy; hard work; agony or anguish.",
+  "part of speech": "noun",
+  "example": "They experienced many travails refinishing the kitchen."
+},
+{
+  "word": "tribulation",
+  "pronunciation": "",
+  "bangla": "কষ্ট; দুর্দশা",
+  "similar word": "",
+  "definition": "something that causes difficulty and suffering.",
+  "part of speech": "noun",
+  "example": "Millions fled Syria to escape tribulations of war."
+},
+{
+  "word": "tumult",
+  "pronunciation": "",
+  "bangla": "উত্তেজনা; বিশৃঙ্খলা",
+  "similar word": "",
+  "definition": "a state of chaos, noise and confusion.",
+  "part of speech": "noun",
+  "example": "Riots created tumult outside our apartment."
+},
+{
+  "word": "uncanny",
+  "pronunciation": "",
+  "bangla": "অসাধারণ; অস্বাভাবিকভাবে চমকপ্রদ",
+  "similar word": "",
+  "definition": "surpassing the ordinary or normal; suggesting supernatural influence.",
+  "part of speech": "adjective",
+  "example": "Reggie has an uncanny ability to connect with animals."
+},
+{
+  "word": "uncompromising",
+  "pronunciation": "",
+  "bangla": "অসহনীয়; কোনো ছাড় ছাড় না করা",
+  "similar word": "",
+  "definition": "not making concessions.",
+  "part of speech": "adjective",
+  "example": "Bart and Hilda failed because both were uncompromising."
+},
+{
+  "word": "unconscionable",
+  "pronunciation": "",
+  "bangla": "অযৌক্তিক; অতিরিক্ত; অনৈতিক",
+  "similar word": "",
+  "definition": "unreasonable; unscrupulous; excessive.",
+  "part of speech": "adjective",
+  "example": "The lawyer's demands were unconscionable."
+},
+{
+  "word": "underwrite",
+  "pronunciation": "",
+  "bangla": "আর্থিকভাবে সমর্থন করা",
+  "similar word": "",
+  "definition": "to support financially.",
+  "part of speech": "verb",
+  "example": "The symphony was underwritten by Carnegie Endowment."
+},
+{
+  "word": "unnerve",
+  "pronunciation": "",
+  "bangla": "সন্ত্রস্ত বা উদ্বিগ্ন করা",
+  "similar word": "",
+  "definition": "to make nervous or upset.",
+  "part of speech": "verb",
+  "example": "She was unnerved by math problems at first."
+},
+{
+  "word": "unprecedented",
+  "pronunciation": "",
+  "bangla": "অভূতপূর্ব; পূর্বে কখনো দেখা যায়নি এমন",
+  "similar word": "",
+  "definition": "never been done or known before; novel.",
+  "part of speech": "adjective",
+  "example": "Setting aside national parks was unprecedented."
+},
+{
+  "word": "unruly",
+  "pronunciation": "",
+  "bangla": "অশৃঙ্খল; নিয়ন্ত্রণহীন",
+  "similar word": "",
+  "definition": "noisy and lacking restraint; unwilling to submit to authority.",
+  "part of speech": "adjective",
+  "example": "Preschoolers can be unruly unless it's nap time."
+},
+{
+  "word": "unseemly",
+  "pronunciation": "",
+  "bangla": "অপ্রাকৃতিক; অনুচিত",
+  "similar word": "",
+  "definition": "not in keeping with accepted standards of right or proper behavior.",
+  "part of speech": "adjective",
+  "example": "He acted in an unseemly manner at the party."
+},
+{
+  "word": "urbane",
+  "pronunciation": "",
+  "bangla": "সুসভ্য; বিনয়ী ও শিক্ষিত",
+  "similar word": "",
+  "definition": "showing refinement and social experience.",
+  "part of speech": "adjective",
+  "example": "W. Somerset Maugham was an urbane inspiration for James Bond."
+},
+{
+  "word": "vacuous",
+  "pronunciation": "",
+  "bangla": "শূন্য; বুদ্ধিহীন",
+  "similar word": "",
+  "definition": "devoid of intelligence, matter, or significance.",
+  "part of speech": "adjective",
+  "example": "The senator gave a vacuous response to the journalist."
+},
+{
+  "word": "vanquish",
+  "pronunciation": "",
+  "bangla": "পরাজিত করা; জয়লাভ করা",
+  "similar word": "",
+  "definition": "come out better in a competition or conflict.",
+  "part of speech": "verb",
+  "example": "Argentina was vanquished by European teams in World Cup."
+},
+{
+  "word": "variance",
+  "pronunciation": "",
+  "bangla": "ভিন্নতা; পরিবর্তনশীলতা",
+  "similar word": "",
+  "definition": "the quality of varying.",
+  "part of speech": "noun",
+  "example": "There is little variance among politicians."
+},
+{
+  "word": "veneer",
+  "pronunciation": "",
+  "bangla": "মোড়ক; বাহ্যিক আবরণ",
+  "similar word": "",
+  "definition": "thin superficial layer hiding the underlying substance.",
+  "part of speech": "noun",
+  "example": "The Victorian Period had moral corruption beneath a veneer of respectability."
+},
+{
+  "word": "vicarious",
+  "pronunciation": "",
+  "bangla": "পরোক্ষভাবে অনুভূত",
+  "similar word": "",
+  "definition": "felt as if taking part in the experience of another.",
+  "part of speech": "adjective",
+  "example": "Twitter allows celebrity stalkers to live vicariously."
+},
+{
+  "word": "vie",
+  "pronunciation": "",
+  "bangla": "প্রতিযোগিতা করা",
+  "similar word": "",
+  "definition": "compete for something.",
+  "part of speech": "verb",
+  "example": "Teams vie for the championship."
+},
+{
+  "word": "vindictive",
+  "pronunciation": "",
+  "bangla": "প্রতিশোধপ্রিয়",
+  "similar word": "",
+  "definition": "having a strong desire for revenge.",
+  "part of speech": "adjective",
+  "example": "Vanessa waited a semester for vindictive revenge."
+},
+{
+  "word": "virago",
+  "pronunciation": "",
+  "bangla": "ক্রোধী বা হিংস্র নারী",
+  "similar word": "",
+  "definition": "an ill-tempered or violent woman.",
+  "part of speech": "noun",
+  "example": "Billy suffered from the virago's invective."
+},
+{
+  "word": "voracious",
+  "pronunciation": "",
+  "bangla": "প্রলুব্ধ; অতিভোক্তামানসিক",
+  "similar word": "",
+  "definition": "very hungry; eager for activity.",
+  "part of speech": "adjective",
+  "example": "Steven was a voracious reader."
+},
+{
+  "word": "wanton",
+  "pronunciation": "",
+  "bangla": "অসংযত; অতিরিক্ত; অশৃঙ্খল",
+  "similar word": "",
+  "definition": "without limitation; showing no moral restraint.",
+  "part of speech": "adjective",
+  "example": "The drunk man acted wantonly and was thrown out."
+},
+{
+  "word": "wax",
+  "pronunciation": "",
+  "bangla": "বৃদ্ধি পাওয়া; বৃদ্ধি পেতে থাকা",
+  "similar word": "",
+  "definition": "gradually increase in size or intensity.",
+  "part of speech": "verb",
+  "example": "Her enthusiasm for the album only waxed."
+},
+{
+  "word": "whimsical",
+  "pronunciation": "",
+  "bangla": "কল্পনাপ্রবণ; খামখেয়ালি",
+  "similar word": "",
+  "definition": "determined by impulse or whim rather than reason.",
+  "part of speech": "adjective",
+  "example": "Adults envy kids' whimsical nature."
+},
+{
+  "word": "zenith",
+  "pronunciation": "",
+  "bangla": "চূড়ান্ত শিখর; সর্বোচ্চ বিন্দু",
+  "similar word": "",
+  "definition": "the highest point; culmination.",
+  "part of speech": "noun",
+  "example": "Elvis was at the zenith of his career."
+},
+  {
+  "word": "abjure",
+  "pronunciation": "",
+  "bangla": "প্রত্যাখ্যান করা; ত্যাগ করা",
+  "similar word": "",
+  "definition": "formally reject or give up (as a belief).",
+  "part of speech": "verb",
+  "example": "Galileo abjured the heliocentric theory under threat of torture."
+},
+{
+  "word": "abrogate",
+  "pronunciation": "",
+  "bangla": "ফিরিয়ে নেওয়া; বাতিল করা",
+  "similar word": "",
+  "definition": "revoke formally.",
+  "part of speech": "verb",
+  "example": "Workers abrogated their right to strike for four years."
+},
+{
+  "word": "adjudicate",
+  "pronunciation": "",
+  "bangla": "নির্ণয় করা; বিচারক হিসেবে কাজ করা",
+  "similar word": "",
+  "definition": "to serve as a judge; to arrive at a judgment.",
+  "part of speech": "verb",
+  "example": "Only experts could adjudicate the barbeque competition."
+},
+{
+  "word": "afford",
+  "pronunciation": "",
+  "bangla": "সুবিধা দেওয়া; সুযোগ প্রদান করা",
+  "similar word": "",
+  "definition": "provide with an opportunity.",
+  "part of speech": "verb",
+  "example": "Mt. Kilimanjaro affords a panoramic view."
+},
+{
+  "word": "alacrity",
+  "pronunciation": "",
+  "bangla": "উৎসাহ ও তৎপরতা",
+  "similar word": "",
+  "definition": "an eager willingness to do something.",
+  "part of speech": "noun",
+  "example": "Mark worked with alacrity in his first three weeks."
+},
+{
+  "word": "anachronism",
+  "pronunciation": "",
+  "bangla": "কালবৈষম্য; সময়ের সাথে অসঙ্গতি",
+  "similar word": "",
+  "definition": "something inappropriate for the given time period.",
+  "part of speech": "noun",
+  "example": "Edward was a walking anachronism in 15th-century clothes."
+},
+{
+  "word": "anathema",
+  "pronunciation": "",
+  "bangla": "ঘৃণ্য ব্যক্তি বা বিষয়",
+  "similar word": "",
+  "definition": "a detested person; the source of somebody's hate.",
+  "part of speech": "noun",
+  "example": "Galileo was an anathema to the church."
+},
+{
+  "word": "anemic",
+  "pronunciation": "",
+  "bangla": "শক্তিহীন; দুর্বল",
+  "similar word": "",
+  "definition": "lacking energy and vigor.",
+  "part of speech": "adjective",
+  "example": "The actress gave an anemic performance the fourth night."
+},
+{
+  "word": "anodyne",
+  "pronunciation": "",
+  "bangla": "বেদনানাশক; শান্তিদায়ক",
+  "similar word": "",
+  "definition": "something that soothes or relieves pain.",
+  "part of speech": "noun",
+  "example": "Muzak was intended as an anodyne."
+},
+{
+  "word": "anodyne",
+  "pronunciation": "",
+  "bangla": "নির্দোষ; অনির্বিষয়ক",
+  "similar word": "",
+  "definition": "inoffensive.",
+  "part of speech": "adjective",
+  "example": "Jill preferred a more anodyne breakfast."
+},
+{
+  "word": "antic",
+  "pronunciation": "",
+  "bangla": "অদ্ভুত বা হাস্যকর আচরণ",
+  "similar word": "",
+  "definition": "ludicrously odd.",
+  "part of speech": "adjective",
+  "example": "The clown's antic act scared the youngest children."
+},
+{
+  "word": "aplomb",
+  "pronunciation": "",
+  "bangla": "স্ফূর্ত ও শীতল মনোবল",
+  "similar word": "",
+  "definition": "great coolness and composure under strain.",
+  "part of speech": "noun",
+  "example": "Nancy acted with aplomb during dangerous situations."
+},
+{
+  "word": "apogee",
+  "pronunciation": "",
+  "bangla": "শীর্ষবিন্দু; সর্বোচ্চ স্তর",
+  "similar word": "",
+  "definition": "the highest point.",
+  "part of speech": "noun",
+  "example": "Mozart's music represents the apogee of Viennese style."
+},
+{
+  "word": "apostate",
+  "pronunciation": "",
+  "bangla": "ধর্মত্যাগী বা বিশ্বাস পরিবর্তনকারী ব্যক্তি",
+  "similar word": "",
+  "definition": "a person who has abandoned a religious faith or cause.",
+  "part of speech": "noun",
+  "example": "Sheldon is an apostate of the Republican Party."
+},
+{
+  "word": "apothegm",
+  "pronunciation": "",
+  "bangla": "সংক্ষিপ্ত ও শিক্ষণীয় উক্তি",
+  "similar word": "",
+  "definition": "a short, pithy instructive saying.",
+  "part of speech": "noun",
+  "example": "Churchill is famous for many apothegms."
+},
+{
+  "word": "apotheosis",
+  "pronunciation": "",
+  "bangla": "দেবতুল্য মর্যাদা; চরম উন্নতি",
+  "similar word": "",
+  "definition": "exaltation to divine status; the highest point of development.",
+  "part of speech": "noun",
+  "example": "The apotheosis of Mark Zuckerberg's career is yet to come."
+},
+{
+  "word": "approbatory",
+  "pronunciation": "",
+  "bangla": "প্রশংসামূলক; সমর্থনসূচক",
+  "similar word": "",
+  "definition": "expressing praise or approval.",
+  "part of speech": "adjective",
+  "example": "Hunter's novel received approbatory reviews."
+},
+{
+  "word": "appropriate",
+  "pronunciation": "",
+  "bangla": "দখল করা; বরাদ্দ করা",
+  "similar word": "",
+  "definition": "to give or take something by force / to allocate.",
+  "part of speech": "verb",
+  "example": "The government appropriated land; the committee appropriated funds."
+},
+{
+  "word": "appurtenant",
+  "pronunciation": "",
+  "bangla": "সহায়ক; সংযুক্ত",
+  "similar word": "",
+  "definition": "supply added support.",
+  "part of speech": "adjective",
+  "example": "Sherpas are appurtenant in Everest climbs."
+},
+{
+  "word": "arch",
+  "pronunciation": "",
+  "bangla": "ছলচাতুরীপূর্ণ; চটুল",
+  "similar word": "",
+  "definition": "deliberately teasing.",
+  "part of speech": "adjective",
+  "example": "The baroness was arch with townspeople."
+},
+{
+  "word": "arrant",
+  "pronunciation": "",
+  "bangla": "পূর্ণাঙ্গ; নিখুঁত (নেতিবাচক অর্থে)",
+  "similar word": "",
+  "definition": "complete and wholly (usually negative).",
+  "part of speech": "adjective",
+  "example": "An arrant fool lost all his money in a pyramid scheme."
+},
+{
+  "word": "arriviste",
+  "pronunciation": "",
+  "bangla": "সামাজিকভাবে দ্রুত উন্নতি লাভকারী ব্যক্তি",
+  "similar word": "",
+  "definition": "a person recently reaching power; social climber.",
+  "part of speech": "noun",
+  "example": "Arrivistes showed off with ostentatious cars and dresses."
+},
+{
+  "word": "arrogate",
+  "pronunciation": "",
+  "bangla": "অনধিকারভূক্তভাবে দখল করা",
+  "similar word": "",
+  "definition": "seize and control without authority.",
+  "part of speech": "verb",
+  "example": "The outlaw arrogated the privileges of a lord."
+},
+{
+  "word": "artifice",
+  "pronunciation": "",
+  "bangla": "চতুর কৌশল; প্রতারণা",
+  "similar word": "",
+  "definition": "cunning tricks used to deceive others.",
+  "part of speech": "noun",
+  "example": "Candidates accused each other of artifices."
+},
+{
+  "word": "artless",
+  "pronunciation": "",
+  "bangla": "নির্দোষ; সরল",
+  "similar word": "",
+  "definition": "without cunning or deceit.",
+  "part of speech": "adjective",
+  "example": "Despite artless speeches, he was a skilled negotiator."
+},
   {
     "word": "artlessness",
     "pronunciation": "",
