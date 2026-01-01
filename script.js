@@ -9695,4 +9695,6 @@ new Card(3, 101, 150);
 new Card(4, 150, 200);
 new Card(5, 201, 250);
 new Card(6, 251, 300);
-
+new Card(7, 301, 600);
+new Card(8, 601, 900);
+new Card(9, 901, 1066);
